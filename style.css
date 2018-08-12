@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  padding: 5px 0;
+  text-align: center;
+  background: #EEE;
+  line-height: 30px;
+}
+
+button {
+  min-width: 7em;
+}
+
+#page-number {
+  display: inline-block;
+  min-width: 10em;
+}
+
+#content {
+  padding: 40px 0;
+}
+
+.card {
+  float: left;
+  width: 274px;
+  height: 420px;
+  padding: 10px;
+}
+
+img {
+  background-color: #ddd;
+  min-width: 274px;
+  width: 274px;
+  min-height: 368px;
+  height: 368px;
+}

@@ -1,0 +1,28 @@
+# Monster
+
+Query for
+[[Concept:Female official cards]] [[Card type::Monster Card]]
+
+Display
+?English name
+?Japanese name
+?Passcode
+
+Save the results as JSON (500 per page) to monster1.json, monster2.json
+
+# Backrow
+
+Query for
+[[Concept:Female official cards]] [[Card type::Spell Card||Trap Card]]
+
+Display
+?English name
+?Japanese name
+?Passcode
+
+Save the results as JSON (500 per page) to backow.json
+
+# Parse
+
+./parse.py MONSTERS monster1.json monster2.json monster.js
+./parse.py BACKROWS backrow.json backrow.js

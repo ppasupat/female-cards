@@ -1,0 +1,4352 @@
+{
+    "printrequests": [
+        {
+            "label": "English name",
+            "key": "English_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Japanese name",
+            "key": "Japanese_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Passcode",
+            "key": "Passcode",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "The A. Forces": {
+            "printouts": {
+                "English name": [
+                    "The A. Forces"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>連</rb><rp>（</rp><rt>れん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>合</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>軍</rb><rp>（</rp><rt>ぐん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "00403847"
+                ]
+            }
+        },
+        "Abyss-scorn": {
+            "printouts": {
+                "English name": [
+                    "Abyss-scorn"
+                ],
+                "Japanese name": [
+                    "アビスコーン"
+                ],
+                "Passcode": [
+                    "79206750"
+                ]
+            }
+        },
+        "Abyss-sphere": {
+            "printouts": {
+                "English name": [
+                    "Abyss-sphere"
+                ],
+                "Japanese name": [
+                    "アビスフィアー"
+                ],
+                "Passcode": [
+                    "60202749"
+                ]
+            }
+        },
+        "Abyss-squall": {
+            "printouts": {
+                "English name": [
+                    "Abyss-squall"
+                ],
+                "Japanese name": [
+                    "アビスコール"
+                ],
+                "Passcode": [
+                    "34707034"
+                ]
+            }
+        },
+        "Advanced Dark": {
+            "printouts": {
+                "English name": [
+                    "Advanced Dark"
+                ],
+                "Japanese name": [
+                    "アドバンスド・ダーク"
+                ],
+                "Passcode": [
+                    "12644061"
+                ]
+            }
+        },
+        "Aegis of Gaia": {
+            "printouts": {
+                "English name": [
+                    "Aegis of Gaia"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>女</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>がみ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>加</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>護</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "47060347"
+                ]
+            }
+        },
+        "After the Storm": {
+            "printouts": {
+                "English name": [
+                    "After the Storm"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>残</rb><rp>（</rp><rt>ざん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>滓</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "82263578"
+                ]
+            }
+        },
+        "Altergeist Emulatelf": {
+            "printouts": {
+                "English name": [
+                    "Altergeist Emulatelf"
+                ],
+                "Japanese name": [
+                    "オルターガイスト・エミュレルフ"
+                ],
+                "Passcode": [
+                    "86885905"
+                ]
+            }
+        },
+        "Altergeist Manifestation": {
+            "printouts": {
+                "English name": [
+                    "Altergeist Manifestation"
+                ],
+                "Japanese name": [
+                    "オルターガイスト・マテリアリゼーション"
+                ],
+                "Passcode": [
+                    "35146019"
+                ]
+            }
+        },
+        "Amazoness Archers": {
+            "printouts": {
+                "English name": [
+                    "Amazoness Archers"
+                ],
+                "Japanese name": [
+                    "アマゾネスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>弩</rb><rp>（</rp><rt>ど</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>弓</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>隊</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "67987611"
+                ]
+            }
+        },
+        "Amazoness Call": {
+            "printouts": {
+                "English name": [
+                    "Amazoness Call"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>アマゾネスの叫声</rb><rp>（</rp><rt>アマゾネスコール</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "57312333"
+                ]
+            }
+        },
+        "Amazoness Fighting Spirit": {
+            "printouts": {
+                "English name": [
+                    "Amazoness Fighting Spirit"
+                ],
+                "Japanese name": [
+                    "アマゾネスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>闘</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>志</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "36100154"
+                ]
+            }
+        },
+        "Amazoness Onslaught": {
+            "printouts": {
+                "English name": [
+                    "Amazoness Onslaught"
+                ],
+                "Japanese name": [
+                    "アマゾネスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>急</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>襲</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "83407038"
+                ]
+            }
+        },
+        "Amazoness Shamanism": {
+            "printouts": {
+                "English name": [
+                    "Amazoness Shamanism"
+                ],
+                "Japanese name": [
+                    "アマゾネス<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>転</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>生</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "06459419"
+                ]
+            }
+        },
+        "Amazoness Spellcaster": {
+            "printouts": {
+                "English name": [
+                    "Amazoness Spellcaster"
+                ],
+                "Japanese name": [
+                    "アマゾネスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>呪</rb><rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>詛</rb><rp>（</rp><rt>そ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "81325903"
+                ]
+            }
+        },
+        "Amazoness Village": {
+            "printouts": {
+                "English name": [
+                    "Amazoness Village"
+                ],
+                "Japanese name": [
+                    "アマゾネスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>里</rb><rp>（</rp><rt>さと</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "00712559"
+                ]
+            }
+        },
+        "Amazoness Willpower": {
+            "printouts": {
+                "English name": [
+                    "Amazoness Willpower"
+                ],
+                "Japanese name": [
+                    "アマゾネスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>意</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>地</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "22082163"
+                ]
+            }
+        },
+        "Anti-Spell": {
+            "printouts": {
+                "English name": [
+                    "Anti-Spell"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>対</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>抗</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "53112492"
+                ]
+            }
+        },
+        "Aqua Chorus": {
+            "printouts": {
+                "English name": [
+                    "Aqua Chorus"
+                ],
+                "Japanese name": [
+                    "アクアの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>合</rb><rp>（</rp><rt>がっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>唱</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "95132338"
+                ]
+            }
+        },
+        "Aquamirror Cycle": {
+            "printouts": {
+                "English name": [
+                    "Aquamirror Cycle"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>儀</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>水</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>鏡</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>反</rb><rp>（</rp><rt>はん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魂</rb><rp>（</rp><rt>こん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "78910579"
+                ]
+            }
+        },
+        "Aquamirror Illusion": {
+            "printouts": {
+                "English name": [
+                    "Aquamirror Illusion"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>儀</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>水</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>鏡</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>影</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "64437633"
+                ]
+            }
+        },
+        "Aquamirror Meditation": {
+            "printouts": {
+                "English name": [
+                    "Aquamirror Meditation"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>儀</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>水</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>鏡</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>瞑</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>想</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "46337945"
+                ]
+            }
+        },
+        "Armor Break": {
+            "printouts": {
+                "English name": [
+                    "Armor Break"
+                ],
+                "Japanese name": [
+                    "アーマーブレイク"
+                ],
+                "Passcode": [
+                    "79649195"
+                ]
+            }
+        },
+        "Armored Glass": {
+            "printouts": {
+                "English name": [
+                    "Armored Glass"
+                ],
+                "Japanese name": [
+                    "ガラスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>鎧</rb><rp>（</rp><rt>よろい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "36868108"
+                ]
+            }
+        },
+        "Arrivalrivals": {
+            "printouts": {
+                "English name": [
+                    "Arrivalrivals"
+                ],
+                "Japanese name": [
+                    "ライバル・アライバル"
+                ],
+                "Passcode": [
+                    "29508346"
+                ]
+            }
+        },
+        "Asceticism of the Six Samurai": {
+            "printouts": {
+                "English name": [
+                    "Asceticism of the Six Samurai"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>六</rb><rp>（</rp><rt>ろく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>衆</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>荒</rb><rp>（</rp><rt>あら</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>行</rb><rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "27821104"
+                ]
+            }
+        },
+        "Assault Overload": {
+            "printouts": {
+                "English name": [
+                    "Assault Overload"
+                ],
+                "Japanese name": [
+                    "バスター・バースト"
+                ],
+                "Passcode": [
+                    "93469007"
+                ]
+            }
+        },
+        "Assault Spirits": {
+            "printouts": {
+                "English name": [
+                    "Assault Spirits"
+                ],
+                "Japanese name": [
+                    "アサルト・スピリッツ"
+                ],
+                "Passcode": [
+                    "87043568"
+                ]
+            }
+        },
+        "Attack Pheromones": {
+            "printouts": {
+                "English name": [
+                    "Attack Pheromones"
+                ],
+                "Japanese name": [
+                    "アタック・フェロモン"
+                ],
+                "Passcode": [
+                    "68786330"
+                ]
+            }
+        },
+        "Attraffic Control": {
+            "printouts": {
+                "English name": [
+                    "Attraffic Control"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>攻</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>通</rb><rp>（</rp><rt>つう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>規</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>制</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "46083380"
+                ]
+            }
+        },
+        "Avalon": {
+            "printouts": {
+                "English name": [
+                    "Avalon"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>約</rb><rp>（</rp><rt>やく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>束</rb><rp>（</rp><rt>そく</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby> －アヴァロン－"
+                ],
+                "Passcode": [
+                    "82140600"
+                ]
+            }
+        },
+        "Bad Reaction to Simochi": {
+            "printouts": {
+                "English name": [
+                    "Bad Reaction to Simochi"
+                ],
+                "Japanese name": [
+                    "シモッチによる<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>副</rb><rp>（</rp><rt>ふく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>作</rb><rp>（</rp><rt>さ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>用</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "40633297"
+                ]
+            }
+        },
+        "Battle Mania": {
+            "printouts": {
+                "English name": [
+                    "Battle Mania"
+                ],
+                "Japanese name": [
+                    "バトルマニア"
+                ],
+                "Passcode": [
+                    "31245780"
+                ]
+            }
+        },
+        "Beckoning Light": {
+            "printouts": {
+                "English name": [
+                    "Beckoning Light"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>光</rb><rp>（</rp><rt>ひかり</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>集</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "16255442"
+                ]
+            }
+        },
+        "The Big Cattle Drive": {
+            "printouts": {
+                "English name": [
+                    "The Big Cattle Drive"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>烏</rb><rp>（</rp><rt>う</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>合</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>行</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>進</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "82386016"
+                ]
+            }
+        },
+        "The Big March of Animals": {
+            "printouts": {
+                "English name": [
+                    "The Big March of Animals"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>百</rb><rp>（</rp><rt>ひゃく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>行</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>進</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "01689516"
+                ]
+            }
+        },
+        "Blessings for Gusto": {
+            "printouts": {
+                "English name": [
+                    "Blessings for Gusto"
+                ],
+                "Japanese name": [
+                    "ガスタへの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>祈</rb><rp>（</rp><rt>いの</rt><rp>）</rp></ruby>り"
+                ],
+                "Passcode": [
+                    "82422049"
+                ]
+            }
+        },
+        "Bounzer Guard": {
+            "printouts": {
+                "English name": [
+                    "Bounzer Guard"
+                ],
+                "Japanese name": [
+                    "バウンサー・ガード"
+                ],
+                "Passcode": [
+                    "48582558"
+                ]
+            }
+        },
+        "Break Away": {
+            "printouts": {
+                "English name": [
+                    "Break Away"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>決</rb><rp>（</rp><rt>けつ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>別</rb><rp>（</rp><rt>べつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "09852718"
+                ]
+            }
+        },
+        "Bright Future": {
+            "printouts": {
+                "English name": [
+                    "Bright Future"
+                ],
+                "Japanese name": [
+                    "ブライト・フューチャー"
+                ],
+                "Passcode": [
+                    "24707869"
+                ]
+            }
+        },
+        "Brutal Potion": {
+            "printouts": {
+                "English name": [
+                    "Brutal Potion"
+                ],
+                "Japanese name": [
+                    "サディスティック・ポーション"
+                ],
+                "Passcode": [
+                    "30155789"
+                ]
+            }
+        },
+        "Burst Return": {
+            "printouts": {
+                "English name": [
+                    "Burst Return"
+                ],
+                "Japanese name": [
+                    "バースト・リターン"
+                ],
+                "Passcode": [
+                    "27191436"
+                ]
+            }
+        },
+        "Byroad Sacrifice": {
+            "printouts": {
+                "English name": [
+                    "Byroad Sacrifice"
+                ],
+                "Japanese name": [
+                    "バイロード・サクリファイス"
+                ],
+                "Passcode": [
+                    "36935434"
+                ]
+            }
+        },
+        "Calming Magic": {
+            "printouts": {
+                "English name": [
+                    "Calming Magic"
+                ],
+                "Japanese name": [
+                    "カーム・マジック"
+                ],
+                "Passcode": [
+                    "51773900"
+                ]
+            }
+        },
+        "Celestial Sword - Eatos": {
+            "printouts": {
+                "English name": [
+                    "Celestial Sword - Eatos"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>女</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>がみ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby>－エアトス"
+                ],
+                "Passcode": [
+                    "55569674"
+                ]
+            }
+        },
+        "Change of Heart": {
+            "printouts": {
+                "English name": [
+                    "Change of Heart"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>心</rb><rp>（</rp><rt>こころ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>変</rb><rp>（</rp><rt>が</rt><rp>）</rp></ruby>わり"
+                ],
+                "Passcode": [
+                    "04031928"
+                ]
+            }
+        },
+        "Commencement Dance": {
+            "printouts": {
+                "English name": [
+                    "Commencement Dance"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>踊</rb><rp>（</rp><rt>おど</rt><rp>）</rp></ruby>りによる<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>誘</rb><rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>発</rb><rp>（</rp><rt>はつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "43417563"
+                ]
+            }
+        },
+        "Confiscation": {
+            "printouts": {
+                "English name": [
+                    "Confiscation"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>押</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>収</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "17375316"
+                ]
+            }
+        },
+        "Constellar Meteor": {
+            "printouts": {
+                "English name": [
+                    "Constellar Meteor"
+                ],
+                "Japanese name": [
+                    "セイクリッドの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>流</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "63545861"
+                ]
+            }
+        },
+        "Constellar Star Cradle": {
+            "printouts": {
+                "English name": [
+                    "Constellar Star Cradle"
+                ],
+                "Japanese name": [
+                    "セイクリッドの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>新</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>生</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "90156158"
+                ]
+            }
+        },
+        "Constellar Twinkle": {
+            "printouts": {
+                "English name": [
+                    "Constellar Twinkle"
+                ],
+                "Japanese name": [
+                    "ティンクル・セイクリッド"
+                ],
+                "Passcode": [
+                    "35544402"
+                ]
+            }
+        },
+        "Contact with Gusto": {
+            "printouts": {
+                "English name": [
+                    "Contact with Gusto"
+                ],
+                "Japanese name": [
+                    "ガスタの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>交</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>信</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "83544697"
+                ]
+            }
+        },
+        "Converging Wishes": {
+            "printouts": {
+                "English name": [
+                    "Converging Wishes"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>集</rb><rp>（</rp><rt>つど</rt><rp>）</rp></ruby>いし<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>願</rb><rp>（</rp><rt>ねが</rt><rp>）</rp></ruby>い"
+                ],
+                "Passcode": [
+                    "20007374"
+                ]
+            }
+        },
+        "Creeping Darkness": {
+            "printouts": {
+                "English name": [
+                    "Creeping Darkness"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>忍</rb><rp>（</rp><rt>しの</rt><rp>）</rp></ruby>び<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>寄</rb><rp>（</rp><rt>よ</rt><rp>）</rp></ruby>る<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>闇</rb><rp>（</rp><rt>やみ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "78811937"
+                ]
+            }
+        },
+        "Cross Attack": {
+            "printouts": {
+                "English name": [
+                    "Cross Attack"
+                ],
+                "Japanese name": [
+                    "クロス・アタック"
+                ],
+                "Passcode": [
+                    "46961802"
+                ]
+            }
+        },
+        "Cyber Shield": {
+            "printouts": {
+                "English name": [
+                    "Cyber Shield"
+                ],
+                "Japanese name": [
+                    "サイバー・ボンテージ"
+                ],
+                "Passcode": [
+                    "63224564"
+                ]
+            }
+        },
+        "D.D. Designator": {
+            "printouts": {
+                "English name": [
+                    "D.D. Designator"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>指</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>名</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "33423043"
+                ]
+            }
+        },
+        "D/D Recruits": {
+            "printouts": {
+                "English name": [
+                    "D/D Recruits"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby>リクルート"
+                ],
+                "Passcode": [
+                    "08643186"
+                ]
+            }
+        },
+        "DNA Checkup": {
+            "printouts": {
+                "English name": [
+                    "DNA Checkup"
+                ],
+                "Japanese name": [
+                    "ＤＮＡ<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>定</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>期</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>健</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>診</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "27340877"
+                ]
+            }
+        },
+        "DNA Surgery": {
+            "printouts": {
+                "English name": [
+                    "DNA Surgery"
+                ],
+                "Japanese name": [
+                    "ＤＮＡ <ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>改</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>造</rb><rp>（</rp><rt>ぞう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>手</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "74701381"
+                ]
+            }
+        },
+        "DNA Transplant": {
+            "printouts": {
+                "English name": [
+                    "DNA Transplant"
+                ],
+                "Japanese name": [
+                    "ＤＮＡ<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>移</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>植</rb><rp>（</rp><rt>しょく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>手</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "56769674"
+                ]
+            }
+        },
+        "Dai Dance": {
+            "printouts": {
+                "English name": [
+                    "Dai Dance"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>ＧＵＹ</rb><rp>（</rp><rt>ガイ</rt><rp>）</rp></ruby>ダンス"
+                ],
+                "Passcode": [
+                    "50696588"
+                ]
+            }
+        },
+        "Damage Diet": {
+            "printouts": {
+                "English name": [
+                    "Damage Diet"
+                ],
+                "Japanese name": [
+                    "ダメージ・ダイエット"
+                ],
+                "Passcode": [
+                    "95448692"
+                ]
+            }
+        },
+        "Dark Bribe": {
+            "printouts": {
+                "English name": [
+                    "Dark Bribe"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>宮</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>賄</rb><rp>（</rp><rt>わい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>賂</rb><rp>（</rp><rt>ろ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "77538567"
+                ]
+            }
+        },
+        "Dark Burning Attack": {
+            "printouts": {
+                "English name": [
+                    "Dark Burning Attack"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>黒・魔・導・爆・裂・破</rb><rp>（</rp><rt>ブラック・バーニング</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "49702428"
+                ]
+            }
+        },
+        "Dark Burning Magic": {
+            "printouts": {
+                "English name": [
+                    "Dark Burning Magic"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>黒・爆・裂・破・魔・導</rb><rp>（</rp><rt>ブラック・バーニング・マジック</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "75190122"
+                ]
+            }
+        },
+        "Dark Contract with the Witch": {
+            "printouts": {
+                "English name": [
+                    "Dark Contract with the Witch"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>戦乙女</rb><rp>（</rp><rt>ヴァルキリー</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>契</rb><rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>約</rb><rp>（</rp><rt>やく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>書</rb><rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "09765723"
+                ]
+            }
+        },
+        "Dark Fusion": {
+            "printouts": {
+                "English name": [
+                    "Dark Fusion"
+                ],
+                "Japanese name": [
+                    "ダーク・フュージョン"
+                ],
+                "Passcode": [
+                    "94820406"
+                ]
+            }
+        },
+        "Dark Magic Expanded": {
+            "printouts": {
+                "English name": [
+                    "Dark Magic Expanded"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>黒魔導強化</rb><rp>（</rp><rt>マジック・エクスパンド</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "00111280"
+                ]
+            }
+        },
+        "Dark Scorpion Combination": {
+            "printouts": {
+                "English name": [
+                    "Dark Scorpion Combination"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>必</rb><rp>（</rp><rt>ひっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>殺</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>！<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>黒</rb><rp>（</rp><rt>くろ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>蠍</rb><rp>（</rp><rt>さそり</rt><rp>）</rp></ruby>コンビネーション"
+                ],
+                "Passcode": [
+                    "20858318"
+                ]
+            }
+        },
+        "Darklord Enchantment": {
+            "printouts": {
+                "English name": [
+                    "Darklord Enchantment"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魅</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>惑</rb><rp>（</rp><rt>わく</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>堕</rb><rp>（</rp><rt>だ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "87990236"
+                ]
+            }
+        },
+        "Deal of Phantom": {
+            "printouts": {
+                "English name": [
+                    "Deal of Phantom"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>守</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>護</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>のお<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>守</rb><rp>（</rp><rt>まも</rt><rp>）</rp></ruby>り"
+                ],
+                "Passcode": [
+                    "69122763"
+                ]
+            }
+        },
+        "Dian Keto the Cure Master": {
+            "printouts": {
+                "English name": [
+                    "Dian Keto the Cure Master"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>治</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>療</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>かみ</rt><rp>）</rp></ruby> ディアン・ケト"
+                ],
+                "Passcode": [
+                    "84257639"
+                ]
+            }
+        },
+        "Different Dimension Gate": {
+            "printouts": {
+                "English name": [
+                    "Different Dimension Gate"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>隔</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>離</rb><rp>（</rp><rt>り</rt><rp>）</rp></ruby>マシーン"
+                ],
+                "Passcode": [
+                    "56460688"
+                ]
+            }
+        },
+        "Different Dimension Ground": {
+            "printouts": {
+                "English name": [
+                    "Different Dimension Ground"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>グランド"
+                ],
+                "Passcode": [
+                    "31849106"
+                ]
+            }
+        },
+        "Dimension Fusion": {
+            "printouts": {
+                "English name": [
+                    "Dimension Fusion"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>融</rb><rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>合</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "23557835"
+                ]
+            }
+        },
+        "Dimension Wall": {
+            "printouts": {
+                "English name": [
+                    "Dimension Wall"
+                ],
+                "Japanese name": [
+                    "ディメンション・ウォール"
+                ],
+                "Passcode": [
+                    "67095270"
+                ]
+            }
+        },
+        "Doble Passe": {
+            "printouts": {
+                "English name": [
+                    "Doble Passe"
+                ],
+                "Japanese name": [
+                    "ドゥーブルパッセ"
+                ],
+                "Passcode": [
+                    "79997591"
+                ]
+            }
+        },
+        "Doriado's Blessing": {
+            "printouts": {
+                "English name": [
+                    "Doriado's Blessing"
+                ],
+                "Japanese name": [
+                    "ドリアードの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>祈</rb><rp>（</rp><rt>いの</rt><rp>）</rp></ruby>り"
+                ],
+                "Passcode": [
+                    "23965037"
+                ]
+            }
+        },
+        "Double Payback": {
+            "printouts": {
+                "English name": [
+                    "Double Payback"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>倍</rb><rp>（</rp><rt>ばい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>返</rb><rp>（</rp><rt>がえ</rt><rp>）</rp></ruby>し"
+                ],
+                "Passcode": [
+                    "05914184"
+                ]
+            }
+        },
+        "Double Trap Hole": {
+            "printouts": {
+                "English name": [
+                    "Double Trap Hole"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>姑</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>息</rb><rp>（</rp><rt>そく</rt><rp>）</rp></ruby>な<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>落</rb><rp>（</rp><rt>お</rt><rp>）</rp></ruby>とし<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>穴</rb><rp>（</rp><rt>あな</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "51976476"
+                ]
+            }
+        },
+        "Draconnection": {
+            "printouts": {
+                "English name": [
+                    "Draconnection"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>交</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>感</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "90887783"
+                ]
+            }
+        },
+        "Dragon Mastery": {
+            "printouts": {
+                "English name": [
+                    "Dragon Mastery"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>操</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "99659159"
+                ]
+            }
+        },
+        "Dramatic Rescue": {
+            "printouts": {
+                "English name": [
+                    "Dramatic Rescue"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>救</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>出</rb><rp>（</rp><rt>しゅつ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>劇</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "80193355"
+                ]
+            }
+        },
+        "El Shaddoll Fusion": {
+            "printouts": {
+                "English name": [
+                    "El Shaddoll Fusion"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神の写し身との接触</rb><rp>（</rp><rt>エルシャドール・フュージョン</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "06417578"
+                ]
+            }
+        },
+        "Elemental Recharge": {
+            "printouts": {
+                "English name": [
+                    "Elemental Recharge"
+                ],
+                "Japanese name": [
+                    "エレメンタル・チャージ"
+                ],
+                "Passcode": [
+                    "36586443"
+                ]
+            }
+        },
+        "Elf's Light": {
+            "printouts": {
+                "English name": [
+                    "Elf's Light"
+                ],
+                "Japanese name": [
+                    "エルフの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>光</rb><rp>（</rp><rt>ひかり</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "39897277"
+                ]
+            }
+        },
+        "Emergency Assistance": {
+            "printouts": {
+                "English name": [
+                    "Emergency Assistance"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>救</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>急</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>救</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>命</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "24019261"
+                ]
+            }
+        },
+        "Enervating Mist": {
+            "printouts": {
+                "English name": [
+                    "Enervating Mist"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>衰</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>弱</rb><rp>（</rp><rt>じゃく</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霧</rb><rp>（</rp><rt>きり</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "26022485"
+                ]
+            }
+        },
+        "Evenly Matched": {
+            "printouts": {
+                "English name": [
+                    "Evenly Matched"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>拮</rb><rp>（</rp><rt>きっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>抗</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>勝</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>負</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "15693423"
+                ]
+            }
+        },
+        "Evil Blast": {
+            "printouts": {
+                "English name": [
+                    "Evil Blast"
+                ],
+                "Japanese name": [
+                    "イービル・ブラスト"
+                ],
+                "Passcode": [
+                    "15684835"
+                ]
+            }
+        },
+        "F.A. City Grand Prix": {
+            "printouts": {
+                "English name": [
+                    "F.A. City Grand Prix"
+                ],
+                "Japanese name": [],
+                "Passcode": [
+                    "01061200"
+                ]
+            }
+        },
+        "F.A. Test Run": {
+            "printouts": {
+                "English name": [
+                    "F.A. Test Run"
+                ],
+                "Japanese name": [],
+                "Passcode": [
+                    "38459905"
+                ]
+            }
+        },
+        "Fairy Wind": {
+            "printouts": {
+                "English name": [
+                    "Fairy Wind"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>風</rb><rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "73507661"
+                ]
+            }
+        },
+        "Fairy of the Spring": {
+            "printouts": {
+                "English name": [
+                    "Fairy of the Spring"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>泉</rb><rp>（</rp><rt>いずみ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "20188127"
+                ]
+            }
+        },
+        "Fairy's Hand Mirror": {
+            "printouts": {
+                "English name": [
+                    "Fairy's Hand Mirror"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>鏡</rb><rp>（</rp><rt>かがみ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "17653779"
+                ]
+            }
+        },
+        "Fifth Hope": {
+            "printouts": {
+                "English name": [
+                    "Fifth Hope"
+                ],
+                "Japanese name": [
+                    "ホープ・オブ・フィフス"
+                ],
+                "Passcode": [
+                    "55428811"
+                ]
+            }
+        },
+        "Final Gesture": {
+            "printouts": {
+                "English name": [
+                    "Final Gesture"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>最</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>期</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>同</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>調</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "23269426"
+                ]
+            }
+        },
+        "Fine": {
+            "printouts": {
+                "English name": [
+                    "Fine"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>罰</rb><rp>（</rp><rt>ばっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>則</rb><rp>（</rp><rt>そく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>金</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "92595643"
+                ]
+            }
+        },
+        "Forbidden Arts of the Gishki": {
+            "printouts": {
+                "English name": [
+                    "Forbidden Arts of the Gishki"
+                ],
+                "Japanese name": [
+                    "リチュアに<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>伝</rb><rp>（</rp><rt>つた</rt><rp>）</rp></ruby>わりし<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>禁</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>断</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>秘</rb><rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "28429121"
+                ]
+            }
+        },
+        "Forbidden Chalice": {
+            "printouts": {
+                "English name": [
+                    "Forbidden Chalice"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>禁</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby>じられた<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>杯</rb><rp>（</rp><rt>はい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "25789292"
+                ]
+            }
+        },
+        "Forbidden Dress": {
+            "printouts": {
+                "English name": [
+                    "Forbidden Dress"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>禁</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby>じられた<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>衣</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "96864811"
+                ]
+            }
+        },
+        "Forbidden Lance": {
+            "printouts": {
+                "English name": [
+                    "Forbidden Lance"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>禁</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby>じられた<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>槍</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "27243130"
+                ]
+            }
+        },
+        "Forbidden Scripture": {
+            "printouts": {
+                "English name": [
+                    "Forbidden Scripture"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>禁</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby>じられた<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>典</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "54773234"
+                ]
+            }
+        },
+        "Forced Back": {
+            "printouts": {
+                "English name": [
+                    "Forced Back"
+                ],
+                "Japanese name": [
+                    "キックバック"
+                ],
+                "Passcode": [
+                    "43340443"
+                ]
+            }
+        },
+        "Forced Requisition": {
+            "printouts": {
+                "English name": [
+                    "Forced Requisition"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>強</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>制</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>接</rb><rp>（</rp><rt>せっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>収</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "74923978"
+                ]
+            }
+        },
+        "Fortune's Future": {
+            "printouts": {
+                "English name": [
+                    "Fortune's Future"
+                ],
+                "Japanese name": [
+                    "フォーチュンフューチャー"
+                ],
+                "Passcode": [
+                    "68663748"
+                ]
+            }
+        },
+        "Fusion Conscription": {
+            "printouts": {
+                "English name": [
+                    "Fusion Conscription"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>融</rb><rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>合</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>徴</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "17194258"
+                ]
+            }
+        },
+        "Gagagadraw": {
+            "printouts": {
+                "English name": [
+                    "Gagagadraw"
+                ],
+                "Japanese name": [
+                    "ガガガドロー"
+                ],
+                "Passcode": [
+                    "21831848"
+                ]
+            }
+        },
+        "Gagagaguard": {
+            "printouts": {
+                "English name": [
+                    "Gagagaguard"
+                ],
+                "Japanese name": [
+                    "ガガガガード"
+                ],
+                "Passcode": [
+                    "76972801"
+                ]
+            }
+        },
+        "Gagagatag": {
+            "printouts": {
+                "English name": [
+                    "Gagagatag"
+                ],
+                "Japanese name": [
+                    "ガガガタッグ"
+                ],
+                "Passcode": [
+                    "00917796"
+                ]
+            }
+        },
+        "Gagagawind": {
+            "printouts": {
+                "English name": [
+                    "Gagagawind"
+                ],
+                "Japanese name": [
+                    "ガガガウィンド"
+                ],
+                "Passcode": [
+                    "57782164"
+                ]
+            }
+        },
+        "Galaxy Queen's Light": {
+            "printouts": {
+                "English name": [
+                    "Galaxy Queen's Light"
+                ],
+                "Japanese name": [
+                    "ギャラクシー・クィーンズ・ライト"
+                ],
+                "Passcode": [
+                    "52340274"
+                ]
+            }
+        },
+        "Gather Your Mind": {
+            "printouts": {
+                "English name": [
+                    "Gather Your Mind"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>統</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>一</rb><rp>（</rp><rt>いつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "07512044"
+                ]
+            }
+        },
+        "Generation Shift": {
+            "printouts": {
+                "English name": [
+                    "Generation Shift"
+                ],
+                "Japanese name": [
+                    "ジェネレーション・チェンジ"
+                ],
+                "Passcode": [
+                    "34460239"
+                ]
+            }
+        },
+        "Ghostrick Break": {
+            "printouts": {
+                "English name": [
+                    "Ghostrick Break"
+                ],
+                "Japanese name": [
+                    "ゴーストリック・ブレイク"
+                ],
+                "Passcode": [
+                    "80802524"
+                ]
+            }
+        },
+        "Ghostrick Mansion": {
+            "printouts": {
+                "English name": [
+                    "Ghostrick Mansion"
+                ],
+                "Japanese name": [
+                    "ゴーストリック・ハウス"
+                ],
+                "Passcode": [
+                    "99795159"
+                ]
+            }
+        },
+        "Ghostrick Museum": {
+            "printouts": {
+                "English name": [
+                    "Ghostrick Museum"
+                ],
+                "Japanese name": [
+                    "ゴーストリック・ミュージアム"
+                ],
+                "Passcode": [
+                    "07617062"
+                ]
+            }
+        },
+        "Ghostrick Night": {
+            "printouts": {
+                "English name": [
+                    "Ghostrick Night"
+                ],
+                "Japanese name": [
+                    "ゴーストリック・ナイト"
+                ],
+                "Passcode": [
+                    "85827713"
+                ]
+            }
+        },
+        "Ghostrick Parade": {
+            "printouts": {
+                "English name": [
+                    "Ghostrick Parade"
+                ],
+                "Japanese name": [
+                    "ゴーストリック・パレード"
+                ],
+                "Passcode": [
+                    "29400787"
+                ]
+            }
+        },
+        "Ghostrick Renovation": {
+            "printouts": {
+                "English name": [
+                    "Ghostrick Renovation"
+                ],
+                "Japanese name": [
+                    "ゴーストリック・リフォーム"
+                ],
+                "Passcode": [
+                    "61818176"
+                ]
+            }
+        },
+        "Ghostrick-Go-Round": {
+            "printouts": {
+                "English name": [
+                    "Ghostrick-Go-Round"
+                ],
+                "Japanese name": [
+                    "ゴーストリック・ロールシフト"
+                ],
+                "Passcode": [
+                    "37055344"
+                ]
+            }
+        },
+        "Gift of The Mystical Elf": {
+            "printouts": {
+                "English name": [
+                    "Gift of The Mystical Elf"
+                ],
+                "Japanese name": [
+                    "ホーリー・エルフの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>祝</rb><rp>（</rp><rt>しゅく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>福</rb><rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "98299011"
+                ]
+            }
+        },
+        "Gift of the Martyr": {
+            "printouts": {
+                "English name": [
+                    "Gift of the Martyr"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>受</rb><rp>（</rp><rt>う</rt><rp>）</rp></ruby>け<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>継</rb><rp>（</rp><rt>つ</rt><rp>）</rp></ruby>がれる<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>力</rb><rp>（</rp><rt>ちから</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "98792570"
+                ]
+            }
+        },
+        "Glorious Illusion": {
+            "printouts": {
+                "English name": [
+                    "Glorious Illusion"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>光</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>のイリュージョン"
+                ],
+                "Passcode": [
+                    "61962135"
+                ]
+            }
+        },
+        "Goblin Circus": {
+            "printouts": {
+                "English name": [
+                    "Goblin Circus"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>見</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>世</rb><rp>（</rp><rt>せ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>もの</rt><rp>）</rp></ruby>ゴブリン"
+                ],
+                "Passcode": [
+                    "18658572"
+                ]
+            }
+        },
+        "Graceful Charity": {
+            "printouts": {
+                "English name": [
+                    "Graceful Charity"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>施</rb><rp>（</rp><rt>ほどこ</rt><rp>）</rp></ruby>し"
+                ],
+                "Passcode": [
+                    "79571449"
+                ]
+            }
+        },
+        "Grave Lure": {
+            "printouts": {
+                "English name": [
+                    "Grave Lure"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>墓</rb><rp>（</rp><rt>はか</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>場</rb><rp>（</rp><rt>ば</rt><rp>）</rp></ruby>からの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>誘</rb><rp>（</rp><rt>いざな</rt><rp>）</rp></ruby>い"
+                ],
+                "Passcode": [
+                    "57270476"
+                ]
+            }
+        },
+        "The Grave of Enkindling": {
+            "printouts": {
+                "English name": [
+                    "The Grave of Enkindling"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>復</rb><rp>（</rp><rt>ふっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>活</rb><rp>（</rp><rt>かつ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>墓</rb><rp>（</rp><rt>はか</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>穴</rb><rp>（</rp><rt>あな</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "84136000"
+                ]
+            }
+        },
+        "Guarded Treasure": {
+            "printouts": {
+                "English name": [
+                    "Guarded Treasure"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>守</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>護</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>宝</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>札</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "17052477"
+                ]
+            }
+        },
+        "Gust": {
+            "printouts": {
+                "English name": [
+                    "Gust"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>突</rb><rp>（</rp><rt>とっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>風</rb><rp>（</rp><rt>ぷう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "73079365"
+                ]
+            }
+        },
+        "HERO's Bond": {
+            "printouts": {
+                "English name": [
+                    "HERO's Bond"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>ＨＥＲＯ＇Ｓ</rb><rp>（</rp><rt>ヒーローズ</rt><rp>）</rp></ruby> ボンド"
+                ],
+                "Passcode": [
+                    "76442616"
+                ]
+            }
+        },
+        "Half Counter": {
+            "printouts": {
+                "English name": [
+                    "Half Counter"
+                ],
+                "Japanese name": [
+                    "ハーフ・カウンター"
+                ],
+                "Passcode": [
+                    "06799227"
+                ]
+            }
+        },
+        "Hallowed Life Barrier": {
+            "printouts": {
+                "English name": [
+                    "Hallowed Life Barrier"
+                ],
+                "Japanese name": [
+                    "ホーリーライフバリアー"
+                ],
+                "Passcode": [
+                    "88789641"
+                ]
+            }
+        },
+        "Harpies' Hunting Ground": {
+            "printouts": {
+                "English name": [
+                    "Harpies' Hunting Ground"
+                ],
+                "Japanese name": [
+                    "ハーピィの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>狩</rb><rp>（</rp><rt>かり</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>場</rb><rp>（</rp><rt>ば</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "75782277"
+                ]
+            }
+        },
+        "Hippo Carnival": {
+            "printouts": {
+                "English name": [
+                    "Hippo Carnival"
+                ],
+                "Japanese name": [
+                    "カバーカーニバル"
+                ],
+                "Passcode": [
+                    "18027138"
+                ]
+            }
+        },
+        "Hysteric Party": {
+            "printouts": {
+                "English name": [
+                    "Hysteric Party"
+                ],
+                "Japanese name": [
+                    "ヒステリック・パーティー"
+                ],
+                "Passcode": [
+                    "77778835"
+                ]
+            }
+        },
+        "Hysteric Sign": {
+            "printouts": {
+                "English name": [
+                    "Hysteric Sign"
+                ],
+                "Japanese name": [
+                    "ヒステリック・サイン"
+                ],
+                "Passcode": [
+                    "19337371"
+                ]
+            }
+        },
+        "Impenetrable Attack": {
+            "printouts": {
+                "English name": [
+                    "Impenetrable Attack"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>攻</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>無</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>敵</rb><rp>（</rp><rt>てき</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>化</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "86778566"
+                ]
+            }
+        },
+        "Inherited Fortune": {
+            "printouts": {
+                "English name": [
+                    "Inherited Fortune"
+                ],
+                "Japanese name": [
+                    "フォーチュン・インハーリット"
+                ],
+                "Passcode": [
+                    "20057949"
+                ]
+            }
+        },
+        "Inspection": {
+            "printouts": {
+                "English name": [
+                    "Inspection"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>検</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>閲</rb><rp>（</rp><rt>えつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "16227556"
+                ]
+            }
+        },
+        "Jewels of the Valiant": {
+            "printouts": {
+                "English name": [
+                    "Jewels of the Valiant"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>邪</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>喰</rb><rp>（</rp><rt>しょく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "72710085"
+                ]
+            }
+        },
+        "Junk Puppet": {
+            "printouts": {
+                "English name": [
+                    "Junk Puppet"
+                ],
+                "Japanese name": [
+                    "ジャンク・パペット"
+                ],
+                "Passcode": [
+                    "67968069"
+                ]
+            }
+        },
+        "Karma Cut": {
+            "printouts": {
+                "English name": [
+                    "Karma Cut"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>因</rb><rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>果</rb><rp>（</rp><rt>が</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>切</rb><rp>（</rp><rt>せつ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>断</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "71587526"
+                ]
+            }
+        },
+        "Kozmo Lightsword": {
+            "printouts": {
+                "English name": [
+                    "Kozmo Lightsword"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>Ｋｏｚｍｏ</rb><rp>（</rp><rt>コズモ</rt><rp>）</rp></ruby>－レイブレード"
+                ],
+                "Passcode": [
+                    "82270047"
+                ]
+            }
+        },
+        "Kozmojo": {
+            "printouts": {
+                "English name": [
+                    "Kozmojo"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>Ｋｏｚｍｏ</rb><rp>（</rp><rt>コズモ</rt><rp>）</rp></ruby>－エナジーアーツ"
+                ],
+                "Passcode": [
+                    "90452877"
+                ]
+            }
+        },
+        "Kozmourning": {
+            "printouts": {
+                "English name": [
+                    "Kozmourning"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>Ｋｏｚｍｏ</rb><rp>（</rp><rt>コズモ</rt><rp>）</rp></ruby>－エピローグ"
+                ],
+                "Passcode": [
+                    "12385638"
+                ]
+            }
+        },
+        "Last Chapter of the Noble Knights": {
+            "printouts": {
+                "English name": [
+                    "Last Chapter of the Noble Knights"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>伝</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>説</rb><rp>（</rp><rt>せつ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>終</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>幕</rb><rp>（</rp><rt>まく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "66970385"
+                ]
+            }
+        },
+        "Last Day of Witch": {
+            "printouts": {
+                "English name": [
+                    "Last Day of Witch"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>女</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>狩</rb><rp>（</rp><rt>が</rt><rp>）</rp></ruby>り"
+                ],
+                "Passcode": [
+                    "90330453"
+                ]
+            }
+        },
+        "Leeching the Light": {
+            "printouts": {
+                "English name": [
+                    "Leeching the Light"
+                ],
+                "Japanese name": [
+                    "シャイニング・アブソーブ"
+                ],
+                "Passcode": [
+                    "90263923"
+                ]
+            }
+        },
+        "Lightsworn Barrier": {
+            "printouts": {
+                "English name": [
+                    "Lightsworn Barrier"
+                ],
+                "Japanese name": [
+                    "ライトロード・バリア"
+                ],
+                "Passcode": [
+                    "22201234"
+                ]
+            }
+        },
+        "Lightsworn Judgment": {
+            "printouts": {
+                "English name": [
+                    "Lightsworn Judgment"
+                ],
+                "Japanese name": [
+                    "ライトロードの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>裁</rb><rp>（</rp><rt>さば</rt><rp>）</rp></ruby>き"
+                ],
+                "Passcode": [
+                    "66194206"
+                ]
+            }
+        },
+        "Lightsworn Sanctuary": {
+            "printouts": {
+                "English name": [
+                    "Lightsworn Sanctuary"
+                ],
+                "Japanese name": [
+                    "ライトロードの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>域</rb><rp>（</rp><rt>いき</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "52665542"
+                ]
+            }
+        },
+        "Lineage of Destruction": {
+            "printouts": {
+                "English name": [
+                    "Lineage of Destruction"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>壊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>系</rb><rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>譜</rb><rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "29307554"
+                ]
+            }
+        },
+        "Link Bound": {
+            "printouts": {
+                "English name": [
+                    "Link Bound"
+                ],
+                "Japanese name": [
+                    "バウンドリンク"
+                ],
+                "Passcode": [
+                    "51335426"
+                ]
+            }
+        },
+        "Link Party": {
+            "printouts": {
+                "English name": [
+                    "Link Party"
+                ],
+                "Japanese name": [
+                    "リンク・パーティー"
+                ],
+                "Passcode": []
+            }
+        },
+        "Lumenize": {
+            "printouts": {
+                "English name": [
+                    "Lumenize"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>光子化</rb><rp>（</rp><rt>フォトナイズ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "57115864"
+                ]
+            }
+        },
+        "Lunalight Reincarnation Dance": {
+            "printouts": {
+                "English name": [
+                    "Lunalight Reincarnation Dance"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>月光輪廻舞踊</rb><rp>（</rp><rt>ムーンライト・リンカネーション・ダンス</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "11193246"
+                ]
+            }
+        },
+        "Machine Angel Absolute Ritual": {
+            "printouts": {
+                "English name": [
+                    "Machine Angel Absolute Ritual"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>械</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>絶</rb><rp>（</rp><rt>ぜっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>対</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>儀</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>式</rb><rp>（</rp><rt>しき</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "11398951"
+                ]
+            }
+        },
+        "Machine Angel Ritual": {
+            "printouts": {
+                "English name": [
+                    "Machine Angel Ritual"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>械</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>儀</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>式</rb><rp>（</rp><rt>しき</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "39996157"
+                ]
+            }
+        },
+        "Madolche Chateau": {
+            "printouts": {
+                "English name": [
+                    "Madolche Chateau"
+                ],
+                "Japanese name": [
+                    "マドルチェ・シャトー"
+                ],
+                "Passcode": [
+                    "14001430"
+                ]
+            }
+        },
+        "Madolche Lesson": {
+            "printouts": {
+                "English name": [
+                    "Madolche Lesson"
+                ],
+                "Japanese name": [
+                    "マドルチェ・マナー"
+                ],
+                "Passcode": [
+                    "12940613"
+                ]
+            }
+        },
+        "Madolche Nights": {
+            "printouts": {
+                "English name": [
+                    "Madolche Nights"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔導人形の夜</rb><rp>（</rp><rt>マドルチェ・ナイツ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "79759367"
+                ]
+            }
+        },
+        "Madolche Tea Break": {
+            "printouts": {
+                "English name": [
+                    "Madolche Tea Break"
+                ],
+                "Japanese name": [
+                    "マドルチェ・ティーブレイク"
+                ],
+                "Passcode": [
+                    "75833426"
+                ]
+            }
+        },
+        "Madolche Ticket": {
+            "printouts": {
+                "English name": [
+                    "Madolche Ticket"
+                ],
+                "Japanese name": [
+                    "マドルチェ・チケット"
+                ],
+                "Passcode": [
+                    "60470713"
+                ]
+            }
+        },
+        "Madolche Waltz": {
+            "printouts": {
+                "English name": [
+                    "Madolche Waltz"
+                ],
+                "Japanese name": [
+                    "マドルチェ・ワルツ"
+                ],
+                "Passcode": [
+                    "48439321"
+                ]
+            }
+        },
+        "Madolchepalooza": {
+            "printouts": {
+                "English name": [
+                    "Madolchepalooza"
+                ],
+                "Japanese name": [
+                    "マドルチェ・ハッピーフェスタ"
+                ],
+                "Passcode": [
+                    "23681456"
+                ]
+            }
+        },
+        "Magical Musket - Desperado": {
+            "printouts": {
+                "English name": [
+                    "Magical Musket - Desperado"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>弾</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>－デスペラード"
+                ],
+                "Passcode": [
+                    "20745268"
+                ]
+            }
+        },
+        "Magician's Restage": {
+            "printouts": {
+                "English name": [
+                    "Magician's Restage"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>再</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>演</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "40252269"
+                ]
+            }
+        },
+        "Magicians' Defense": {
+            "printouts": {
+                "English name": [
+                    "Magicians' Defense"
+                ],
+                "Japanese name": [
+                    "マジシャンズ・プロテクション"
+                ],
+                "Passcode": [
+                    "89448140"
+                ]
+            }
+        },
+        "Malevolent Nuzzler": {
+            "printouts": {
+                "English name": [
+                    "Malevolent Nuzzler"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>悪</rb><rp>（</rp><rt>あく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby>のくちづけ"
+                ],
+                "Passcode": [
+                    "99597615"
+                ]
+            }
+        },
+        "March of the Dark Brigade": {
+            "printouts": {
+                "English name": [
+                    "March of the Dark Brigade"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>闇</rb><rp>（</rp><rt>やみ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>進</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>軍</rb><rp>（</rp><rt>ぐん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "24037702"
+                ]
+            }
+        },
+        "Melodious Illusion": {
+            "printouts": {
+                "English name": [
+                    "Melodious Illusion"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>奏</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>のイリュージョン"
+                ],
+                "Passcode": [
+                    "63804637"
+                ]
+            }
+        },
+        "Metalfoes Fusion": {
+            "printouts": {
+                "English name": [
+                    "Metalfoes Fusion"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>錬装融合</rb><rp>（</rp><rt>メタルフォーゼ・フュージョン</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "73594093"
+                ]
+            }
+        },
+        "Mischief of the Gnomes": {
+            "printouts": {
+                "English name": [
+                    "Mischief of the Gnomes"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>小</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>人</rb><rp>（</rp><rt>びと</rt><rp>）</rp></ruby>のいたずら"
+                ],
+                "Passcode": [
+                    "00164710"
+                ]
+            }
+        },
+        "Mischief of the Yokai": {
+            "printouts": {
+                "English name": [
+                    "Mischief of the Yokai"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>怪</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>のいたずら"
+                ],
+                "Passcode": [
+                    "29795530"
+                ]
+            }
+        },
+        "Mustering of the Dark Scorpions": {
+            "printouts": {
+                "English name": [
+                    "Mustering of the Dark Scorpions"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>黒</rb><rp>（</rp><rt>くろ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>蠍</rb><rp>（</rp><rt>さそり</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>団</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>集</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "68191243"
+                ]
+            }
+        },
+        "Mystical Refpanel": {
+            "printouts": {
+                "English name": [
+                    "Mystical Refpanel"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>鏡</rb><rp>（</rp><rt>かがみ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "35563539"
+                ]
+            }
+        },
+        "Nekroz Cycle": {
+            "printouts": {
+                "English name": [
+                    "Nekroz Cycle"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>影霊衣</rb><rp>（</rp><rt>ネクロス</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>反</rb><rp>（</rp><rt>はん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魂</rb><rp>（</rp><rt>こん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "97211663"
+                ]
+            }
+        },
+        "Nephe Shaddoll Fusion": {
+            "printouts": {
+                "English name": [
+                    "Nephe Shaddoll Fusion"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魂写しの同化</rb><rp>（</rp><rt>ネフェシャドール・フュージョン</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "60226558"
+                ]
+            }
+        },
+        "Next to be Lost": {
+            "printouts": {
+                "English name": [
+                    "Next to be Lost"
+                ],
+                "Japanese name": [
+                    "ロスト・ネクスト"
+                ],
+                "Passcode": [
+                    "07076131"
+                ]
+            }
+        },
+        "Ninjitsu Art of Shadow Sealing": {
+            "printouts": {
+                "English name": [
+                    "Ninjitsu Art of Shadow Sealing"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>忍</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>法</rb><rp>（</rp><rt>ぽう</rt><rp>）</rp></ruby> <ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>影</rb><rp>（</rp><rt>かげ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>縫</rb><rp>（</rp><rt>ぬ</rt><rp>）</rp></ruby>いの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "13629812"
+                ]
+            }
+        },
+        "Ninjitsu Art of Transformation": {
+            "printouts": {
+                "English name": [
+                    "Ninjitsu Art of Transformation"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>忍</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>法</rb><rp>（</rp><rt>ぽう</rt><rp>）</rp></ruby> <ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>変</rb><rp>（</rp><rt>へん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>化</rb><rp>（</rp><rt>げ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "70861343"
+                ]
+            }
+        },
+        "Non-Spellcasting Area": {
+            "printouts": {
+                "English name": [
+                    "Non-Spellcasting Area"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>絶</rb><rp>（</rp><rt>ぜっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>対</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>法</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>禁</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>止</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>区</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>域</rb><rp>（</rp><rt>いき</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "20065549"
+                ]
+            }
+        },
+        "Novox's Prayer": {
+            "printouts": {
+                "English name": [
+                    "Novox's Prayer"
+                ],
+                "Japanese name": [
+                    "ローの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>祈</rb><rp>（</rp><rt>いの</rt><rp>）</rp></ruby>り"
+                ],
+                "Passcode": [
+                    "43694075"
+                ]
+            }
+        },
+        "Numinous Healer": {
+            "printouts": {
+                "English name": [
+                    "Numinous Healer"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>白</rb><rp>（</rp><rt>はく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>衣</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "02130625"
+                ]
+            }
+        },
+        "Oh Tokenbaum!": {
+            "printouts": {
+                "English name": [
+                    "Oh Tokenbaum!"
+                ],
+                "Japanese name": [
+                    "トークン<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>生</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>誕</rb><rp>（</rp><rt>たん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>祭</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "97173708"
+                ]
+            }
+        },
+        "Painful Choice": {
+            "printouts": {
+                "English name": [
+                    "Painful Choice"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>苦</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>渋</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>選</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>択</rb><rp>（</rp><rt>たく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "74191942"
+                ]
+            }
+        },
+        "Parthian Shot": {
+            "printouts": {
+                "English name": [
+                    "Parthian Shot"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>一撃離脱</rb><rp>（</rp><rt>パルティアンショット</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "29185231"
+                ]
+            }
+        },
+        "Phoenix Wing Wind Blast": {
+            "printouts": {
+                "English name": [
+                    "Phoenix Wing Wind Blast"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>鳳</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>翼</rb><rp>（</rp><rt>よく</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>爆</rb><rp>（</rp><rt>ばく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>風</rb><rp>（</rp><rt>ふう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "63356631"
+                ]
+            }
+        },
+        "Pikeru's Circle of Enchantment": {
+            "printouts": {
+                "English name": [
+                    "Pikeru's Circle of Enchantment"
+                ],
+                "Japanese name": [
+                    "ピケルの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>法</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>陣</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "74270067"
+                ]
+            }
+        },
+        "Pikeru's Second Sight": {
+            "printouts": {
+                "English name": [
+                    "Pikeru's Second Sight"
+                ],
+                "Japanese name": [
+                    "ピケルの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>読</rb><rp>（</rp><rt>どく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>心</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "58015506"
+                ]
+            }
+        },
+        "Pixie Ring": {
+            "printouts": {
+                "English name": [
+                    "Pixie Ring"
+                ],
+                "Japanese name": [
+                    "ガリトラップ－ピクシーの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>輪</rb><rp>（</rp><rt>わ</rt><rp>）</rp></ruby>－"
+                ],
+                "Passcode": [
+                    "46502013"
+                ]
+            }
+        },
+        "Plant Food Chain": {
+            "printouts": {
+                "English name": [
+                    "Plant Food Chain"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>植</rb><rp>（</rp><rt>しょく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>連</rb><rp>（</rp><rt>れん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>鎖</rb><rp>（</rp><rt>さ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "54451023"
+                ]
+            }
+        },
+        "Poisonous Winds": {
+            "printouts": {
+                "English name": [
+                    "Poisonous Winds"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>猛</rb><rp>（</rp><rt>もう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>毒</rb><rp>（</rp><rt>どく</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>風</rb><rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "95561280"
+                ]
+            }
+        },
+        "Pop-Up": {
+            "printouts": {
+                "English name": [
+                    "Pop-Up"
+                ],
+                "Japanese name": [
+                    "ポップルアップ"
+                ],
+                "Passcode": [
+                    "15248873"
+                ]
+            }
+        },
+        "Pot of Generosity": {
+            "printouts": {
+                "English name": [
+                    "Pot of Generosity"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>謙</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>虚</rb><rp>（</rp><rt>きょ</rt><rp>）</rp></ruby>な<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>壺</rb><rp>（</rp><rt>つぼ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "70278545"
+                ]
+            }
+        },
+        "Premature Return": {
+            "printouts": {
+                "English name": [
+                    "Premature Return"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>早</rb><rp>（</rp><rt>はや</rt><rp>）</rp></ruby>すぎた<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>帰</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>還</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "95083785"
+                ]
+            }
+        },
+        "Prevention Star": {
+            "printouts": {
+                "English name": [
+                    "Prevention Star"
+                ],
+                "Japanese name": [
+                    "プリベント・スター"
+                ],
+                "Passcode": [
+                    "94303232"
+                ]
+            }
+        },
+        "Prohibition": {
+            "printouts": {
+                "English name": [
+                    "Prohibition"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>禁</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>止</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>令</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "43711255"
+                ]
+            }
+        },
+        "Psychic Rejuvenation": {
+            "printouts": {
+                "English name": [
+                    "Psychic Rejuvenation"
+                ],
+                "Japanese name": [
+                    "サイコ・ヒーリング"
+                ],
+                "Passcode": [
+                    "21488686"
+                ]
+            }
+        },
+        "Psychokinesis": {
+            "printouts": {
+                "English name": [
+                    "Psychokinesis"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>最</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>古</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>式</rb><rp>（</rp><rt>しき</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>念</rb><rp>（</rp><rt>ねん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "32180819"
+                ]
+            }
+        },
+        "Purushaddoll Aeon": {
+            "printouts": {
+                "English name": [
+                    "Purushaddoll Aeon"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魂源への影劫回帰</rb><rp>（</rp><rt>プルシャドール・アイオーン</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "78942513"
+                ]
+            }
+        },
+        "Queen's Pawn": {
+            "printouts": {
+                "English name": [
+                    "Queen's Pawn"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>女</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>選</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>択</rb><rp>（</rp><rt>たく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "58477767"
+                ]
+            }
+        },
+        "Rainbow Path": {
+            "printouts": {
+                "English name": [
+                    "Rainbow Path"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>虹</rb><rp>（</rp><rt>にじ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>行</rb><rp>（</rp><rt>ゆく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>方</rb><rp>（</rp><rt>え</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "07617253"
+                ]
+            }
+        },
+        "Rainbow Veil": {
+            "printouts": {
+                "English name": [
+                    "Rainbow Veil"
+                ],
+                "Japanese name": [
+                    "レインボー・ヴェール"
+                ],
+                "Passcode": [
+                    "12735388"
+                ]
+            }
+        },
+        "Ray of Hope": {
+            "printouts": {
+                "English name": [
+                    "Ray of Hope"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>希</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>望</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>光</rb><rp>（</rp><rt>ひかり</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "82529174"
+                ]
+            }
+        },
+        "Remove Brainwashing": {
+            "printouts": {
+                "English name": [
+                    "Remove Brainwashing"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>洗</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>脳</rb><rp>（</rp><rt>のう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>解</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>除</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "94739788"
+                ]
+            }
+        },
+        "Reptilianne Poison": {
+            "printouts": {
+                "English name": [
+                    "Reptilianne Poison"
+                ],
+                "Japanese name": [
+                    "レプティレス・ポイズン"
+                ],
+                "Passcode": [
+                    "90576781"
+                ]
+            }
+        },
+        "Reptilianne Spawn": {
+            "printouts": {
+                "English name": [
+                    "Reptilianne Spawn"
+                ],
+                "Japanese name": [
+                    "レプティレス・スポーン"
+                ],
+                "Passcode": [
+                    "21179143"
+                ]
+            }
+        },
+        "Resonance Device": {
+            "printouts": {
+                "English name": [
+                    "Resonance Device"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>共</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>振</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>装</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>置</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "26864586"
+                ]
+            }
+        },
+        "Restructer Revolution": {
+            "printouts": {
+                "English name": [
+                    "Restructer Revolution"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>革</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>命</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "99518961"
+                ]
+            }
+        },
+        "Resurrection of Chakra": {
+            "printouts": {
+                "English name": [
+                    "Resurrection of Chakra"
+                ],
+                "Japanese name": [
+                    "チャクラの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>復</rb><rp>（</rp><rt>ふっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>活</rb><rp>（</rp><rt>かつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "39399168"
+                ]
+            }
+        },
+        "Return from the Different Dimension": {
+            "printouts": {
+                "English name": [
+                    "Return from the Different Dimension"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>からの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>帰</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>還</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "27174286"
+                ]
+            }
+        },
+        "Ride of the Valkyries": {
+            "printouts": {
+                "English name": [
+                    "Ride of the Valkyries"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>Ｗａｌｋｕｒｅｎ Ｒｉｔｔ</rb><rp>（</rp><rt>ワルキューレンリット</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": []
+            }
+        },
+        "Rise of the Snake Deity": {
+            "printouts": {
+                "English name": [
+                    "Rise of the Snake Deity"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>蛇</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>降</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>臨</rb><rp>（</rp><rt>りん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "16067089"
+                ]
+            }
+        },
+        "Ritual Beast Ambush": {
+            "printouts": {
+                "English name": [
+                    "Ritual Beast Ambush"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>襲</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "57815601"
+                ]
+            }
+        },
+        "Ritual Beast Return": {
+            "printouts": {
+                "English name": [
+                    "Ritual Beast Return"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>誓</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>還</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "08321183"
+                ]
+            }
+        },
+        "Ritual Beast Steeds": {
+            "printouts": {
+                "English name": [
+                    "Ritual Beast Steeds"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>連</rb><rp>（</rp><rt>れん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>契</rb><rp>（</rp><rt>けい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "11556339"
+                ]
+            }
+        },
+        "Ritual Beast's Bond": {
+            "printouts": {
+                "English name": [
+                    "Ritual Beast's Bond"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>相</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>絆</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "75457624"
+                ]
+            }
+        },
+        "Ritual Cage": {
+            "printouts": {
+                "English name": [
+                    "Ritual Cage"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>儀</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>式</rb><rp>（</rp><rt>しき</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>檻</rb><rp>（</rp><rt>おり</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "25796442"
+                ]
+            }
+        },
+        "Ritual Sanctuary": {
+            "printouts": {
+                "English name": [
+                    "Ritual Sanctuary"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>祝</rb><rp>（</rp><rt>しゅく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>福</rb><rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>教</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>会</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>－リチューアル・チャーチ"
+                ],
+                "Passcode": [
+                    "95658967"
+                ]
+            }
+        },
+        "A Rival Appears!": {
+            "printouts": {
+                "English name": [
+                    "A Rival Appears!"
+                ],
+                "Japanese name": [
+                    "ライバル<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>登</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>場</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>！"
+                ],
+                "Passcode": [
+                    "05728014"
+                ]
+            }
+        },
+        "Royal Prison": {
+            "printouts": {
+                "English name": [
+                    "Royal Prison"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>宮</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>牢</rb><rp>（</rp><rt>ろう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>獄</rb><rp>（</rp><rt>ごく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "26586849"
+                ]
+            }
+        },
+        "Royal Tribute": {
+            "printouts": {
+                "English name": [
+                    "Royal Tribute"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>家</rb><rp>（</rp><rt>け</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>生</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>け<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>贄</rb><rp>（</rp><rt>にえ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "72405967"
+                ]
+            }
+        },
+        "Royal Writ of Taxation": {
+            "printouts": {
+                "English name": [
+                    "Royal Writ of Taxation"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>宮</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>重</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>税</rb><rp>（</rp><rt>ぜい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "86742443"
+                ]
+            }
+        },
+        "SPYRAL MISSION - Recapture": {
+            "printouts": {
+                "English name": [
+                    "SPYRAL MISSION - Recapture"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>ＳＰＹＲＡＬ</rb><rp>（</rp><rt>スパイラル</rt><rp>）</rp></ruby> <ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>ＭＩＳＳＩＯＮ</rb><rp>（</rp><rt>ミッション</rt><rp>）</rp></ruby>－<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>奪</rb><rp>（</rp><rt>だっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>還</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "39373426"
+                ]
+            }
+        },
+        "SPYRAL Resort": {
+            "printouts": {
+                "English name": [
+                    "SPYRAL Resort"
+                ],
+                "Japanese name": [
+                    "﻿<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>﻿ＳＰＹＲＡＬ</rb><rp>（</rp><rt>スパイラル</rt><rp>）</rp></ruby> <ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>ＲＥＳＯＲＴ</rb><rp>（</rp><rt>リゾート</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "54631665"
+                ]
+            }
+        },
+        "Sacred Serpent's Wake": {
+            "printouts": {
+                "English name": [
+                    "Sacred Serpent's Wake"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>蛇</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>息</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>吹</rb><rp>（</rp><rt>ぶき</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "98850929"
+                ]
+            }
+        },
+        "Secret Sanctuary of the Spellcasters": {
+            "printouts": {
+                "English name": [
+                    "Secret Sanctuary of the Spellcasters"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>法</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>族</rb><rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>域</rb><rp>（</rp><rt>いき</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "25407643"
+                ]
+            }
+        },
+        "Seer's Bankbook": {
+            "printouts": {
+                "English name": [
+                    "Seer's Bankbook"
+                ],
+                "Japanese name": [
+                    "予見通帳"
+                ],
+                "Passcode": [
+                    "56256517"
+                ]
+            }
+        },
+        "Sekka's Light": {
+            "printouts": {
+                "English name": [
+                    "Sekka's Light"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>雪</rb><rp>（</rp><rt>せっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>花</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>光</rb><rp>（</rp><rt>ひかり</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "24940422"
+                ]
+            }
+        },
+        "Set Rotation": {
+            "printouts": {
+                "English name": [
+                    "Set Rotation"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>盆</rb><rp>（</rp><rt>ぼん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>回</rb><rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>し"
+                ],
+                "Passcode": [
+                    "73468603"
+                ]
+            }
+        },
+        "Shadow of Eyes": {
+            "printouts": {
+                "English name": [
+                    "Shadow of Eyes"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>誘</rb><rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>惑</rb><rp>（</rp><rt>わく</rt><rp>）</rp></ruby>のシャドウ"
+                ],
+                "Passcode": [
+                    "58621589"
+                ]
+            }
+        },
+        "Shapesister": {
+            "printouts": {
+                "English name": [
+                    "Shapesister"
+                ],
+                "Japanese name": [
+                    "シェイプシスター"
+                ],
+                "Passcode": [
+                    "92099232"
+                ]
+            }
+        },
+        "Shared Ride": {
+            "printouts": {
+                "English name": [
+                    "Shared Ride"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>相</rb><rp>（</rp><rt>あい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>乗</rb><rp>（</rp><rt>の</rt><rp>）</rp></ruby>り"
+                ],
+                "Passcode": [
+                    "01372887"
+                ]
+            }
+        },
+        "Shinobird Salvation": {
+            "printouts": {
+                "English name": [
+                    "Shinobird Salvation"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊魂の円環</rb><rp>（</rp><rt>エスプリット・ヒーリング</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "00276357"
+                ]
+            }
+        },
+        "Simultaneous Loss": {
+            "printouts": {
+                "English name": [
+                    "Simultaneous Loss"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>二</rb><rp>（</rp><rt>に</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>一</rb><rp>（</rp><rt>いち</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>両</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>損</rb><rp>（</rp><rt>そん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "92219931"
+                ]
+            }
+        },
+        "Sixth Sense": {
+            "printouts": {
+                "English name": [
+                    "Sixth Sense"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>第</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>六</rb><rp>（</rp><rt>ろっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>感</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "03280747"
+                ]
+            }
+        },
+        "Sky Striker Maneuver - Afterburners!": {
+            "printouts": {
+                "English name": [
+                    "Sky Striker Maneuver - Afterburners!"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>刀</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>式</rb><rp>（</rp><rt>しき</rt><rp>）</rp></ruby>－アフターバーナー"
+                ],
+                "Passcode": [
+                    "99550630"
+                ]
+            }
+        },
+        "Sky Striker Maneuver - Jamming Waves!": {
+            "printouts": {
+                "English name": [
+                    "Sky Striker Maneuver - Jamming Waves!"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>刀</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>式</rb><rp>（</rp><rt>しき</rt><rp>）</rp></ruby>－ジャミングウェーブ"
+                ],
+                "Passcode": [
+                    "25955749"
+                ]
+            }
+        },
+        "Sky Striker Mecha - Eagle Booster": {
+            "printouts": {
+                "English name": [
+                    "Sky Striker Mecha - Eagle Booster"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>刀</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>－イーグルブースター"
+                ],
+                "Passcode": [
+                    "25733157"
+                ]
+            }
+        },
+        "Sky Striker Mecha - Hornet Drones": {
+            "printouts": {
+                "English name": [
+                    "Sky Striker Mecha - Hornet Drones"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>刀</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>－ホーネットビット"
+                ],
+                "Passcode": [
+                    "52340444"
+                ]
+            }
+        },
+        "Sky Striker Mecha - Shark Cannon": {
+            "printouts": {
+                "English name": [
+                    "Sky Striker Mecha - Shark Cannon"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>刀</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>－シャークキャノン"
+                ],
+                "Passcode": [
+                    "51227866"
+                ]
+            }
+        },
+        "Sky Striker Mecha - Widow Anchor": {
+            "printouts": {
+                "English name": [
+                    "Sky Striker Mecha - Widow Anchor"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>刀</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>－ウィドウアンカー"
+                ],
+                "Passcode": [
+                    "98338152"
+                ]
+            }
+        },
+        "Sky Striker Mecha Modules - Multirole": {
+            "printouts": {
+                "English name": [
+                    "Sky Striker Mecha Modules - Multirole"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>刀</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>関</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>－マルチロール"
+                ],
+                "Passcode": [
+                    "24010609"
+                ]
+            }
+        },
+        "Sky Striker Mobilize - Engage!": {
+            "printouts": {
+                "English name": [
+                    "Sky Striker Mobilize - Engage!"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>刀</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>起</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>動</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>－エンゲージ"
+                ],
+                "Passcode": [
+                    "63166095"
+                ]
+            }
+        },
+        "Snake Deity's Command": {
+            "printouts": {
+                "English name": [
+                    "Snake Deity's Command"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>蛇</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>勅</rb><rp>（</rp><rt>ちょく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>命</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "80678380"
+                ]
+            }
+        },
+        "Solemn Judgment": {
+            "printouts": {
+                "English name": [
+                    "Solemn Judgment"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>宣</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>告</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "41420027"
+                ]
+            }
+        },
+        "Solemn Scolding": {
+            "printouts": {
+                "English name": [
+                    "Solemn Scolding"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>忠</rb><rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>告</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "92512625"
+                ]
+            }
+        },
+        "Solemn Warning": {
+            "printouts": {
+                "English name": [
+                    "Solemn Warning"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>警</rb><rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>告</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "84749824"
+                ]
+            }
+        },
+        "Solemn Wishes": {
+            "printouts": {
+                "English name": [
+                    "Solemn Wishes"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>恵</rb><rp>（</rp><rt>めぐ</rt><rp>）</rp></ruby>み"
+                ],
+                "Passcode": [
+                    "35346968"
+                ]
+            }
+        },
+        "Soul Release": {
+            "printouts": {
+                "English name": [
+                    "Soul Release"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魂</rb><rp>（</rp><rt>たましい</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>解</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>放</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "05758500"
+                ]
+            }
+        },
+        "Soul Resurrection": {
+            "printouts": {
+                "English name": [
+                    "Soul Resurrection"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>蘇</rb><rp>（</rp><rt>よみがえ</rt><rp>）</rp></ruby>りし<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魂</rb><rp>（</rp><rt>たましい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "92924317"
+                ]
+            }
+        },
+        "Soul of the Pure": {
+            "printouts": {
+                "English name": [
+                    "Soul of the Pure"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>生</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>き<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>血</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "47852924"
+                ]
+            }
+        },
+        "Spell Wall": {
+            "printouts": {
+                "English name": [
+                    "Spell Wall"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔力隔壁</rb><rp>（</rp><rt>マジック・ウォール</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "84117021"
+                ]
+            }
+        },
+        "Spellbook of Fate": {
+            "printouts": {
+                "English name": [
+                    "Spellbook of Fate"
+                ],
+                "Japanese name": [
+                    "ゲーテの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>書</rb><rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "97997309"
+                ]
+            }
+        },
+        "Spellbook of Judgment": {
+            "printouts": {
+                "English name": [
+                    "Spellbook of Judgment"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>書</rb><rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>判</rb><rp>（</rp><rt>ぱん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "46448938"
+                ]
+            }
+        },
+        "Spellbook of Knowledge": {
+            "printouts": {
+                "English name": [
+                    "Spellbook of Knowledge"
+                ],
+                "Japanese name": [
+                    "ルドラの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>書</rb><rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "23314220"
+                ]
+            }
+        },
+        "Spellbook of Life": {
+            "printouts": {
+                "English name": [
+                    "Spellbook of Life"
+                ],
+                "Japanese name": [
+                    "ネクロの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>書</rb><rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "52628687"
+                ]
+            }
+        },
+        "Spellbook of Miracles": {
+            "printouts": {
+                "English name": [
+                    "Spellbook of Miracles"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>書</rb><rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>奇</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>跡</rb><rp>（</rp><rt>せき</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "43841694"
+                ]
+            }
+        },
+        "Spellbook of Wisdom": {
+            "printouts": {
+                "English name": [
+                    "Spellbook of Wisdom"
+                ],
+                "Japanese name": [
+                    "トーラの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>書</rb><rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "88616795"
+                ]
+            }
+        },
+        "Spiritual Earth Art - Kurogane": {
+            "printouts": {
+                "English name": [
+                    "Spiritual Earth Art - Kurogane"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>－「<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>鉄</rb><rp>（</rp><rt>くろがね</rt><rp>）</rp></ruby>」"
+                ],
+                "Passcode": [
+                    "70156997"
+                ]
+            }
+        },
+        "Spiritual Fire Art - Kurenai": {
+            "printouts": {
+                "English name": [
+                    "Spiritual Fire Art - Kurenai"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>－「<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>紅</rb><rp>（</rp><rt>くれない</rt><rp>）</rp></ruby>」"
+                ],
+                "Passcode": [
+                    "42945701"
+                ]
+            }
+        },
+        "Spiritual Light Art - Hijiri": {
+            "printouts": {
+                "English name": [
+                    "Spiritual Light Art - Hijiri"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>光</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>－「<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>聖</rb><rp>（</rp><rt>ひじり</rt><rp>）</rp></ruby>」"
+                ],
+                "Passcode": [
+                    "05037726"
+                ]
+            }
+        },
+        "Spiritual Water Art - Aoi": {
+            "printouts": {
+                "English name": [
+                    "Spiritual Water Art - Aoi"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>水</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>－「<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>葵</rb><rp>（</rp><rt>あおい</rt><rp>）</rp></ruby>」"
+                ],
+                "Passcode": [
+                    "06540606"
+                ]
+            }
+        },
+        "Spiritual Wind Art - Miyabi": {
+            "printouts": {
+                "English name": [
+                    "Spiritual Wind Art - Miyabi"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>風</rb><rp>（</rp><rt>ふう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>－「<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>雅</rb><rp>（</rp><rt>みやび</rt><rp>）</rp></ruby>」"
+                ],
+                "Passcode": [
+                    "79333300"
+                ]
+            }
+        },
+        "Spring of Rebirth": {
+            "printouts": {
+                "English name": [
+                    "Spring of Rebirth"
+                ],
+                "Japanese name": [
+                    "エレメントの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>泉</rb><rp>（</rp><rt>いずみ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "94425169"
+                ]
+            }
+        },
+        "Stand-Off": {
+            "printouts": {
+                "English name": [
+                    "Stand-Off"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>実</rb><rp>（</rp><rt>じつ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>伯</rb><rp>（</rp><rt>はく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>仲</rb><rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "65384188"
+                ]
+            }
+        },
+        "Staring Contest": {
+            "printouts": {
+                "English name": [
+                    "Staring Contest"
+                ],
+                "Japanese name": [
+                    "にらみ<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>合</rb><rp>（</rp><rt>あ</rt><rp>）</rp></ruby>い"
+                ],
+                "Passcode": [
+                    "97729135"
+                ]
+            }
+        },
+        "Stygian Dirge": {
+            "printouts": {
+                "English name": [
+                    "Stygian Dirge"
+                ],
+                "Japanese name": [
+                    "デビリアン・ソング"
+                ],
+                "Passcode": [
+                    "81489939"
+                ]
+            }
+        },
+        "Subterror Behemoth Burrowing": {
+            "printouts": {
+                "English name": [
+                    "Subterror Behemoth Burrowing"
+                ],
+                "Japanese name": [
+                    "サブテラーマリスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>潜</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>伏</rb><rp>（</rp><rt>ぷく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "28369508"
+                ]
+            }
+        },
+        "Subterror Cave Clash": {
+            "printouts": {
+                "English name": [
+                    "Subterror Cave Clash"
+                ],
+                "Japanese name": [
+                    "サブテラーの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>激</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>闘</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "68001309"
+                ]
+            }
+        },
+        "Subterror Final Battle": {
+            "printouts": {
+                "English name": [
+                    "Subterror Final Battle"
+                ],
+                "Japanese name": [
+                    "サブテラーの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>決</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "74640994"
+                ]
+            }
+        },
+        "Summoner's Art": {
+            "printouts": {
+                "English name": [
+                    "Summoner's Art"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>のスキル"
+                ],
+                "Passcode": [
+                    "79816536"
+                ]
+            }
+        },
+        "Super Quantal Alphan Spike": {
+            "printouts": {
+                "English name": [
+                    "Super Quantal Alphan Spike"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>量</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>必</rb><rp>（</rp><rt>ひっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>殺</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>アルファンボール"
+                ],
+                "Passcode": [
+                    "72332074"
+                ]
+            }
+        },
+        "Swing of Memories": {
+            "printouts": {
+                "English name": [
+                    "Swing of Memories"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>思</rb><rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>出</rb><rp>（</rp><rt>で</rt><rp>）</rp></ruby>のブランコ"
+                ],
+                "Passcode": [
+                    "96765646"
+                ]
+            }
+        },
+        "Tellarknight Genesis": {
+            "printouts": {
+                "English name": [
+                    "Tellarknight Genesis"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>創星の因子</rb><rp>（</rp><rt>ジェネシス・テラナイト</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "65236257"
+                ]
+            }
+        },
+        "That Wacky Magic!": {
+            "printouts": {
+                "English name": [
+                    "That Wacky Magic!"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>暴</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>走</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>する<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "50427388"
+                ]
+            }
+        },
+        "There Can Be Only One": {
+            "printouts": {
+                "English name": [
+                    "There Can Be Only One"
+                ],
+                "Japanese name": [
+                    "センサー<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>万</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>別</rb><rp>（</rp><rt>べつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "24207889"
+                ]
+            }
+        },
+        "Token Feastevil": {
+            "printouts": {
+                "English name": [
+                    "Token Feastevil"
+                ],
+                "Japanese name": [
+                    "トークン<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>謝</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>肉</rb><rp>（</rp><rt>にく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>祭</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "83675475"
+                ]
+            }
+        },
+        "Token Sundae": {
+            "printouts": {
+                "English name": [
+                    "Token Sundae"
+                ],
+                "Japanese name": [
+                    "トークン<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>復</rb><rp>（</rp><rt>ふっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>活</rb><rp>（</rp><rt>かつ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>祭</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "52971673"
+                ]
+            }
+        },
+        "Tragedy": {
+            "printouts": {
+                "English name": [
+                    "Tragedy"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>断</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>頭</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>台</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>惨</rb><rp>（</rp><rt>さん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>劇</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "35686187"
+                ]
+            }
+        },
+        "Transcendent Wings": {
+            "printouts": {
+                "English name": [
+                    "Transcendent Wings"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>進</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>化</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>する<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>翼</rb><rp>（</rp><rt>つばさ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "25573054"
+                ]
+            }
+        },
+        "Transmigration Break": {
+            "printouts": {
+                "English name": [
+                    "Transmigration Break"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>転</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>生</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>断</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>絶</rb><rp>（</rp><rt>ぜつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "66100045"
+                ]
+            }
+        },
+        "The Transmigration Prophecy": {
+            "printouts": {
+                "English name": [
+                    "The Transmigration Prophecy"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>転</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>生</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>予</rb><rp>（</rp><rt>よ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>言</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "46652477"
+                ]
+            }
+        },
+        "Traptrix Trap Hole Nightmare": {
+            "printouts": {
+                "English name": [
+                    "Traptrix Trap Hole Nightmare"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>蟲</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>惑</rb><rp>（</rp><rt>わく</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>落</rb><rp>（</rp><rt>お</rt><rp>）</rp></ruby>とし<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>穴</rb><rp>（</rp><rt>あな</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "29616929"
+                ]
+            }
+        },
+        "Treacherous Trap Hole": {
+            "printouts": {
+                "English name": [
+                    "Treacherous Trap Hole"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>狡</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>猾</rb><rp>（</rp><rt>かつ</rt><rp>）</rp></ruby>な<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>落</rb><rp>（</rp><rt>お</rt><rp>）</rp></ruby>とし<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>穴</rb><rp>（</rp><rt>あな</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "99590524"
+                ]
+            }
+        },
+        "Tremendous Fire": {
+            "printouts": {
+                "English name": [
+                    "Tremendous Fire"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>地</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>獄</rb><rp>（</rp><rt>ごく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "46918794"
+                ]
+            }
+        },
+        "Trial and Tribulation": {
+            "printouts": {
+                "English name": [
+                    "Trial and Tribulation"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>招</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>来</rb><rp>（</rp><rt>らい</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>対</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>価</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "26285788"
+                ]
+            }
+        },
+        "Trial of the Princesses": {
+            "printouts": {
+                "English name": [
+                    "Trial of the Princesses"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>女</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>試</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>練</rb><rp>（</rp><rt>れん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "72709014"
+                ]
+            }
+        },
+        "Triangle Ecstasy Spark": {
+            "printouts": {
+                "English name": [
+                    "Triangle Ecstasy Spark"
+                ],
+                "Japanese name": [
+                    "トライアングル・<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>Ｘ</rb><rp>（</rp><rt>エクスタシー</rt><rp>）</rp></ruby>・スパーク"
+                ],
+                "Passcode": [
+                    "12181376"
+                ]
+            }
+        },
+        "Tribute Burial": {
+            "printouts": {
+                "English name": [
+                    "Tribute Burial"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>埋</rb><rp>（</rp><rt>まい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>葬</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>されし<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>生</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>け<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>贄</rb><rp>（</rp><rt>にえ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "80230510"
+                ]
+            }
+        },
+        "Trickstar Bouquet": {
+            "printouts": {
+                "English name": [
+                    "Trickstar Bouquet"
+                ],
+                "Japanese name": [
+                    "トリックスター・ブーケ"
+                ],
+                "Passcode": [
+                    "99890852"
+                ]
+            }
+        },
+        "Trickstar Light Arena": {
+            "printouts": {
+                "English name": [
+                    "Trickstar Light Arena"
+                ],
+                "Japanese name": [
+                    "トリックスター・ライトアリーナ"
+                ],
+                "Passcode": [
+                    "63492244"
+                ]
+            }
+        },
+        "Trickstar Light Stage": {
+            "printouts": {
+                "English name": [
+                    "Trickstar Light Stage"
+                ],
+                "Japanese name": [
+                    "トリックスター・ライトステージ"
+                ],
+                "Passcode": [
+                    "35371948"
+                ]
+            }
+        },
+        "Tuning": {
+            "printouts": {
+                "English name": [
+                    "Tuning"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>調</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>律</rb><rp>（</rp><rt>りつ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "96363153"
+                ]
+            }
+        },
+        "Ultimate Providence": {
+            "printouts": {
+                "English name": [
+                    "Ultimate Providence"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>摂</rb><rp>（</rp><rt>せつ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>理</rb><rp>（</rp><rt>り</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "38891741"
+                ]
+            }
+        },
+        "Union Attack": {
+            "printouts": {
+                "English name": [
+                    "Union Attack"
+                ],
+                "Japanese name": [
+                    "ユニオン・アタック"
+                ],
+                "Passcode": [
+                    "60399954"
+                ]
+            }
+        },
+        "Unity": {
+            "printouts": {
+                "English name": [
+                    "Unity"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>束</rb><rp>（</rp><rt>そく</rt><rp>）</rp></ruby> ＵＮＩＴＹ"
+                ],
+                "Passcode": [
+                    "14731897"
+                ]
+            }
+        },
+        "Unwavering Bond": {
+            "printouts": {
+                "English name": [
+                    "Unwavering Bond"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>揺</rb><rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>るがぬ<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>絆</rb><rp>（</rp><rt>きずな</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "72648810"
+                ]
+            }
+        },
+        "Vampire Awakening": {
+            "printouts": {
+                "English name": [
+                    "Vampire Awakening"
+                ],
+                "Japanese name": [
+                    "ヴァンパイア・アウェイク"
+                ],
+                "Passcode": [
+                    "31189536"
+                ]
+            }
+        },
+        "Vampire's Domain": {
+            "printouts": {
+                "English name": [
+                    "Vampire's Domain"
+                ],
+                "Japanese name": [
+                    "ヴァンパイアの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>領</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>域</rb><rp>（</rp><rt>いき</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "05795882"
+                ]
+            }
+        },
+        "Vanquishing Light": {
+            "printouts": {
+                "English name": [
+                    "Vanquishing Light"
+                ],
+                "Japanese name": [
+                    "ライト・バニッシュ"
+                ],
+                "Passcode": [
+                    "32233746"
+                ]
+            }
+        },
+        "Vendread Nightmare": {
+            "printouts": {
+                "English name": [
+                    "Vendread Nightmare"
+                ],
+                "Japanese name": [],
+                "Passcode": [
+                    "33971095"
+                ]
+            }
+        },
+        "Vengeful Servant": {
+            "printouts": {
+                "English name": [
+                    "Vengeful Servant"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>反</rb><rp>（</rp><rt>はん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>目</rb><rp>（</rp><rt>もく</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>従</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "21702241"
+                ]
+            }
+        },
+        "Viper's Rebirth": {
+            "printouts": {
+                "English name": [
+                    "Viper's Rebirth"
+                ],
+                "Japanese name": [
+                    "ヴァイパー・リボーン"
+                ],
+                "Passcode": [
+                    "64973456"
+                ]
+            }
+        },
+        "Waboku": {
+            "printouts": {
+                "English name": [
+                    "Waboku"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>和</rb><rp>（</rp><rt>わ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>睦</rb><rp>（</rp><rt>ぼく</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "12607053"
+                ]
+            }
+        },
+        "Wavering Eyes": {
+            "printouts": {
+                "English name": [
+                    "Wavering Eyes"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>揺</rb><rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>れる<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>眼</rb><rp>（</rp><rt>まな</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>差</rb><rp>（</rp><rt>ざ</rt><rp>）</rp></ruby>し"
+                ],
+                "Passcode": [
+                    "31222701"
+                ]
+            }
+        },
+        "The Weather Auroral Canvas": {
+            "printouts": {
+                "English name": [
+                    "The Weather Auroral Canvas"
+                ],
+                "Japanese name": [
+                    "オーロラの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>気</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>模</rb><rp>（</rp><rt>も</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>様</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "52834429"
+                ]
+            }
+        },
+        "The Weather Rainy Canvas": {
+            "printouts": {
+                "English name": [
+                    "The Weather Rainy Canvas"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>雨</rb><rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>気</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>模</rb><rp>（</rp><rt>も</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>様</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "27561302"
+                ]
+            }
+        },
+        "The Weather Thundery Canvas": {
+            "printouts": {
+                "English name": [
+                    "The Weather Thundery Canvas"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>雷</rb><rp>（</rp><rt>かみなり</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>気</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>模</rb><rp>（</rp><rt>も</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>様</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "16849715"
+                ]
+            }
+        },
+        "Weed Out": {
+            "printouts": {
+                "English name": [
+                    "Weed Out"
+                ],
+                "Japanese name": [
+                    "ふるい<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>落</rb><rp>（</rp><rt>お</rt><rp>）</rp></ruby>とし"
+                ],
+                "Passcode": [
+                    "28604635"
+                ]
+            }
+        },
+        "Whirlwind of Gusto": {
+            "printouts": {
+                "English name": [
+                    "Whirlwind of Gusto"
+                ],
+                "Japanese name": [
+                    "ガスタのつむじ<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>風</rb><rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "91822647"
+                ]
+            }
+        },
+        "White Veil": {
+            "printouts": {
+                "English name": [
+                    "White Veil"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>白</rb><rp>（</rp><rt>しろ</rt><rp>）</rp></ruby>のヴェール"
+                ],
+                "Passcode": [
+                    "49306994"
+                ]
+            }
+        },
+        "World Legacy Awakens": {
+            "printouts": {
+                "English name": [
+                    "World Legacy Awakens"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>からの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>目</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>醒</rb><rp>（</rp><rt>ざ</rt><rp>）</rp></ruby>め"
+                ],
+                "Passcode": [
+                    "12989604"
+                ]
+            }
+        },
+        "World Legacy Discovery": {
+            "printouts": {
+                "English name": [
+                    "World Legacy Discovery"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>との<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>邂</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>逅</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "61654098"
+                ]
+            }
+        },
+        "World Legacy Key": {
+            "printouts": {
+                "English name": [
+                    "World Legacy Key"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>へ<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>至</rb><rp>（</rp><rt>いた</rt><rp>）</rp></ruby>る<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>鍵</rb><rp>（</rp><rt>かぎ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "02930675"
+                ]
+            }
+        },
+        "World Legacy Struggle": {
+            "printouts": {
+                "English name": [
+                    "World Legacy Struggle"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>への<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>抵</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>抗</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "58374719"
+                ]
+            }
+        },
+        "World Legacy Trap Globe": {
+            "printouts": {
+                "English name": [
+                    "World Legacy Trap Globe"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>に<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>蠢</rb><rp>（</rp><rt>うごめ</rt><rp>）</rp></ruby>く<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>罠</rb><rp>（</rp><rt>わな</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "16329071"
+                ]
+            }
+        },
+        "World Legacy Whispers": {
+            "printouts": {
+                "English name": [
+                    "World Legacy Whispers"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>囁</rb><rp>（</rp><rt>ささや</rt><rp>）</rp></ruby>き"
+                ],
+                "Passcode": [
+                    "62530723"
+                ]
+            }
+        },
+        "World Legacy's Corruption": {
+            "printouts": {
+                "English name": [
+                    "World Legacy's Corruption"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>が<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>みちび</rt><rp>）</rp></ruby>く<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>果</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby>て"
+                ],
+                "Passcode": [
+                    "62279666"
+                ]
+            }
+        },
+        "World Legacy's Heart": {
+            "printouts": {
+                "English name": [
+                    "World Legacy's Heart"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>加</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>護</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "97648103"
+                ]
+            }
+        },
+        "World Legacy's Memory": {
+            "printouts": {
+                "English name": [
+                    "World Legacy's Memory"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>憶</rb><rp>（</rp><rt>おく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "68191756"
+                ]
+            }
+        },
+        "World Legacy's Nightmare": {
+            "printouts": {
+                "English name": [
+                    "World Legacy's Nightmare"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>へ<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>誘</rb><rp>（</rp><rt>いざな</rt><rp>）</rp></ruby>う<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>悪</rb><rp>（</rp><rt>あく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>夢</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "25163979"
+                ]
+            }
+        },
+        "World Legacy's Secret": {
+            "printouts": {
+                "English name": [
+                    "World Legacy's Secret"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>に<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>眠</rb><rp>（</rp><rt>ねむ</rt><rp>）</rp></ruby>る<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>深</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>層</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "98935722"
+                ]
+            }
+        },
+        "World Legacy's Sorrow": {
+            "printouts": {
+                "English name": [
+                    "World Legacy's Sorrow"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>に<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>響</rb><rp>（</rp><rt>ひび</rt><rp>）</rp></ruby>く<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>残</rb><rp>（</rp><rt>ざん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>叫</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "85763457"
+                ]
+            }
+        },
+        "Xyz Reception": {
+            "printouts": {
+                "English name": [
+                    "Xyz Reception"
+                ],
+                "Japanese name": [
+                    "エクシーズ・レセプション"
+                ],
+                "Passcode": [
+                    "74728028"
+                ]
+            }
+        },
+        "Xyz Tribalrivals": {
+            "printouts": {
+                "English name": [
+                    "Xyz Tribalrivals"
+                ],
+                "Japanese name": [
+                    "エクシーズ・トライバル"
+                ],
+                "Passcode": [
+                    "32086564"
+                ]
+            }
+        },
+        "Zefra Providence": {
+            "printouts": {
+                "English name": [
+                    "Zefra Providence"
+                ],
+                "Japanese name": [
+                    "セフィラの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>意</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "74580251"
+                ]
+            }
+        },
+        "Zoodiac Barrage": {
+            "printouts": {
+                "English name": [
+                    "Zoodiac Barrage"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>十</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>二</rb><rp>（</rp><rt>に</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>獣</rb><rp>（</rp><rt>しし</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>会</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>局</rb><rp>（</rp><rt>きょく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "46060017"
+                ]
+            }
+        },
+        "Zoodiac Combo": {
+            "printouts": {
+                "English name": [
+                    "Zoodiac Combo"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>十</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>二</rb><rp>（</rp><rt>に</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>獣</rb><rp>（</rp><rt>しし</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>方</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>合</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "73881652"
+                ]
+            }
+        },
+        "Zoodiac Gathering": {
+            "printouts": {
+                "English name": [
+                    "Zoodiac Gathering"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>十</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>二</rb><rp>（</rp><rt>に</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>獣</rb><rp>（</rp><rt>しし</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>相</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>剋</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "98918572"
+                ]
+            }
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 333
+}
