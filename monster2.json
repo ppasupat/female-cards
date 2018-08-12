@@ -26,6 +26,149 @@
         }
     ],
     "results": {
+        "Mystical Elf": {
+            "printouts": {
+                "English name": [
+                    "Mystical Elf"
+                ],
+                "Japanese name": [
+                    "ホーリー・エルフ"
+                ],
+                "Passcode": [
+                    "15025844"
+                ]
+            }
+        },
+        "Mystical Fairy Elfuria": {
+            "printouts": {
+                "English name": [
+                    "Mystical Fairy Elfuria"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>秘</rb><rp>（</rp><rt>ぴ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby> エルフィリア"
+                ],
+                "Passcode": [
+                    "85239662"
+                ]
+            }
+        },
+        "Mystical Sand": {
+            "printouts": {
+                "English name": [
+                    "Mystical Sand"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>砂の魔女</rb><rp>（</rp><rt>サンド・ウィッチ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "32751480"
+                ]
+            }
+        },
+        "Nanobreaker": {
+            "printouts": {
+                "English name": [
+                    "Nanobreaker"
+                ],
+                "Japanese name": [
+                    "ナノブレイカー"
+                ],
+                "Passcode": [
+                    "70948327"
+                ]
+            }
+        },
+        "Naturia Mosquito": {
+            "printouts": {
+                "English name": [
+                    "Naturia Mosquito"
+                ],
+                "Japanese name": [
+                    "ナチュル・モスキート"
+                ],
+                "Passcode": [
+                    "17285476"
+                ]
+            }
+        },
+        "Naturia Rosewhip": {
+            "printouts": {
+                "English name": [
+                    "Naturia Rosewhip"
+                ],
+                "Japanese name": [
+                    "ナチュル・ローズウィップ"
+                ],
+                "Passcode": [
+                    "61049315"
+                ]
+            }
+        },
+        "Nekogal 1": {
+            "printouts": {
+                "English name": [
+                    "Nekogal #1"
+                ],
+                "Japanese name": [
+                    "キャッツ・フェアリー"
+                ],
+                "Passcode": [
+                    "01761063"
+                ]
+            }
+        },
+        "Nekogal 2": {
+            "printouts": {
+                "English name": [
+                    "Nekogal #2"
+                ],
+                "Japanese name": [
+                    "キャット・レディ"
+                ],
+                "Passcode": [
+                    "43352213"
+                ]
+            }
+        },
+        "Nekroz of Gungnir": {
+            "printouts": {
+                "English name": [
+                    "Nekroz of Gungnir"
+                ],
+                "Japanese name": [
+                    "グングニールの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>影霊衣</rb><rp>（</rp><rt>ネクロス</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "74122412"
+                ]
+            }
+        },
+        "Nekroz of Sophia": {
+            "printouts": {
+                "English name": [
+                    "Nekroz of Sophia"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>ｓｏｐｈｉａ</rb><rp>（</rp><rt>ソピア</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>影霊衣</rb><rp>（</rp><rt>ネクロス</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "21105106"
+                ]
+            }
+        },
+        "Nemuriko": {
+            "printouts": {
+                "English name": [
+                    "Nemuriko"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>眠</rb><rp>（</rp><rt>ねむ</rt><rp>）</rp></ruby>り<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>子</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "90963488"
+                ]
+            }
+        },
         "Neo Space Pathfinder": {
             "printouts": {
                 "English name": [
@@ -62,6 +205,19 @@
                 ],
                 "Passcode": [
                     "13857930"
+                ]
+            }
+        },
+        "Nephthys the Palladium Deity": {
+            "printouts": {
+                "English name": [
+                    "Nephthys the Palladium Deity"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>守</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>護</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>－ネフティス"
+                ],
+                "Passcode": [
+                    "50669347"
                 ]
             }
         },
@@ -234,6 +390,30 @@
                 ]
             }
         },
+        "Orphegel Galatea": {
+            "printouts": {
+                "English name": [
+                    "Orphegel Galatea"
+                ],
+                "Japanese name": [
+                    "オルフェゴール・ガラテア"
+                ],
+                "Passcode": [
+                    "30741503"
+                ]
+            }
+        },
+        "Otherworldly Banshee": {
+            "printouts": {
+                "English name": [
+                    "Otherworldly Banshee"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>屍</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>のバンシー"
+                ],
+                "Passcode": []
+            }
+        },
         "Otohime": {
             "printouts": {
                 "English name": [
@@ -257,19 +437,6 @@
                 ],
                 "Passcode": [
                     "43266605"
-                ]
-            }
-        },
-        "Palladion of the Sacred Tree": {
-            "printouts": {
-                "English name": [
-                    "Palladion of the Sacred Tree"
-                ],
-                "Japanese name": [
-                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>樹</rb><rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby>のパラディオン"
-                ],
-                "Passcode": [
-                    "91646304"
                 ]
             }
         },
@@ -502,7 +669,9 @@
                 "Japanese name": [
                     "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>警</rb><rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>邏</rb><rp>（</rp><rt>ら</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>課</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>デスポリス"
                 ],
-                "Passcode": []
+                "Passcode": [
+                    "99011763"
+                ]
             }
         },
         "Power Angel Valkyria": {
@@ -515,6 +684,19 @@
                 ],
                 "Passcode": [
                     "89055154"
+                ]
+            }
+        },
+        "Prayer of Nephthys": {
+            "printouts": {
+                "English name": [
+                    "Prayer of Nephthys"
+                ],
+                "Japanese name": [
+                    "ネフティスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>祈</rb><rp>（</rp><rt>いの</rt><rp>）</rp></ruby>り<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "98999181"
                 ]
             }
         },
@@ -671,6 +853,32 @@
                 ],
                 "Passcode": [
                     "51371017"
+                ]
+            }
+        },
+        "Prinzessin": {
+            "printouts": {
+                "English name": [
+                    "Prinzessin"
+                ],
+                "Japanese name": [
+                    "シンデレラ"
+                ],
+                "Passcode": [
+                    "78527720"
+                ]
+            }
+        },
+        "Protector of Nephthys": {
+            "printouts": {
+                "English name": [
+                    "Protector of Nephthys"
+                ],
+                "Japanese name": [
+                    "ネフティスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>護</rb><rp>（</rp><rt>まも</rt><rp>）</rp></ruby>り<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "51782995"
                 ]
             }
         },
@@ -1268,19 +1476,6 @@
                 ]
             }
         },
-        "Ruin, Graceful Queen of Oblivion": {
-            "printouts": {
-                "English name": [
-                    "Ruin, Graceful Queen of Oblivion"
-                ],
-                "Japanese name": [
-                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>滅</rb><rp>（</rp><rt>めつ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>美</rb><rp>（</rp><rt>び</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>ルイン"
-                ],
-                "Passcode": [
-                    "13518809"
-                ]
-            }
-        },
         "Ruin, Queen of Oblivion": {
             "printouts": {
                 "English name": [
@@ -1291,6 +1486,19 @@
                 ],
                 "Passcode": [
                     "46427957"
+                ]
+            }
+        },
+        "Ruin, Supreme Queen of Oblivion": {
+            "printouts": {
+                "English name": [
+                    "Ruin, Supreme Queen of Oblivion"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>滅</rb><rp>（</rp><rt>めつ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>美</rb><rp>（</rp><rt>び</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>ルイン"
+                ],
+                "Passcode": [
+                    "13518809"
                 ]
             }
         },
@@ -1330,6 +1538,19 @@
                 ],
                 "Passcode": [
                     "45282603"
+                ]
+            }
+        },
+        "Sacred Azure Phoenix of Nephthys": {
+            "printouts": {
+                "English name": [
+                    "Sacred Azure Phoenix of Nephthys"
+                ],
+                "Japanese name": [
+                    "ネフティスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>蒼</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>凰</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "24175232"
                 ]
             }
         },
@@ -1877,6 +2098,19 @@
                 ]
             }
         },
+        "Speaker of Nephthys": {
+            "printouts": {
+                "English name": [
+                    "Speaker of Nephthys"
+                ],
+                "Japanese name": [
+                    "ネフティスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>語</rb><rp>（</rp><rt>かた</rt><rp>）</rp></ruby>り<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "25397880"
+                ]
+            }
+        },
         "Spellbreaker of the Ice Barrier": {
             "printouts": {
                 "English name": [
@@ -2095,6 +2329,19 @@
                 ],
                 "Passcode": [
                     "55291359"
+                ]
+            }
+        },
+        "Summon Sorceress": {
+            "printouts": {
+                "English name": [
+                    "Summon Sorceress"
+                ],
+                "Japanese name": [
+                    "サモン・ソーサレス"
+                ],
+                "Passcode": [
+                    "61665245"
                 ]
             }
         },
@@ -2571,6 +2818,19 @@
                 ]
             }
         },
+        "Trickstar Calobane": {
+            "printouts": {
+                "English name": [
+                    "Trickstar Calobane"
+                ],
+                "Japanese name": [
+                    "トリックスター・キャロベイン"
+                ],
+                "Passcode": [
+                    "98169343"
+                ]
+            }
+        },
         "Trickstar Candina": {
             "printouts": {
                 "English name": [
@@ -2581,19 +2841,6 @@
                 ],
                 "Passcode": [
                     "61283655"
-                ]
-            }
-        },
-        "Trickstar Carobein": {
-            "printouts": {
-                "English name": [
-                    "Trickstar Carobein"
-                ],
-                "Japanese name": [
-                    "トリックスター・キャロベイン"
-                ],
-                "Passcode": [
-                    "98169343"
                 ]
             }
         },
@@ -2842,6 +3089,50 @@
                 "Passcode": [
                     "99348756"
                 ]
+            }
+        },
+        "Valkyrie Brunhilde": {
+            "printouts": {
+                "English name": [
+                    "Valkyrie Brunhilde"
+                ],
+                "Japanese name": [
+                    "ワルキューレ・ヴリュンヒルデ"
+                ],
+                "Passcode": []
+            }
+        },
+        "Valkyrie Dritte": {
+            "printouts": {
+                "English name": [
+                    "Valkyrie Dritte"
+                ],
+                "Japanese name": [
+                    "ワルキューレ・ドリット"
+                ],
+                "Passcode": []
+            }
+        },
+        "Valkyrie Erste": {
+            "printouts": {
+                "English name": [
+                    "Valkyrie Erste"
+                ],
+                "Japanese name": [
+                    "ワルキューレ・アルテスト"
+                ],
+                "Passcode": []
+            }
+        },
+        "Valkyrie Zweite": {
+            "printouts": {
+                "English name": [
+                    "Valkyrie Zweite"
+                ],
+                "Japanese name": [
+                    "ワルキューレ・ツヴァイト"
+                ],
+                "Passcode": []
             }
         },
         "Valkyrie of the Nordic Ascendant": {
@@ -3216,6 +3507,19 @@
                 ],
                 "Passcode": [
                     "91299846"
+                ]
+            }
+        },
+        "Wee Witch's Apprentice": {
+            "printouts": {
+                "English name": [
+                    "Wee Witch's Apprentice"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>見</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>習</rb><rp>（</rp><rt>なら</rt><rp>）</rp></ruby>い<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>嬢</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "71384012"
                 ]
             }
         },
@@ -3664,5 +3968,5 @@
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 281
+    "rows": 305
 }

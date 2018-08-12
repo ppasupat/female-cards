@@ -39,6 +39,45 @@
                 ]
             }
         },
+        "Abyss Actors Curtain Call": {
+            "printouts": {
+                "English name": [
+                    "Abyss Actors Curtain Call"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>劇</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>団</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>のカーテンコール"
+                ],
+                "Passcode": [
+                    "04682617"
+                ]
+            }
+        },
+        "Abyss Playhouse - Fantastic Theater": {
+            "printouts": {
+                "English name": [
+                    "Abyss Playhouse - Fantastic Theater"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>劇</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>場</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>「ファンタスティックシアター」"
+                ],
+                "Passcode": [
+                    "77297908"
+                ]
+            }
+        },
+        "Abyss Script - Romantic Teller": {
+            "printouts": {
+                "English name": [
+                    "Abyss Script - Romantic Teller"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>台</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>本</rb><rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>「ロマンティック・テラー」"
+                ],
+                "Passcode": [
+                    "41803903"
+                ]
+            }
+        },
         "Abyss-scorn": {
             "printouts": {
                 "English name": [
@@ -429,6 +468,19 @@
                 ]
             }
         },
+        "Awakening of Nephthys": {
+            "printouts": {
+                "English name": [
+                    "Awakening of Nephthys"
+                ],
+                "Japanese name": [
+                    "ネフティスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>覚</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>醒</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "82832464"
+                ]
+            }
+        },
         "Bad Reaction to Simochi": {
             "printouts": {
                 "English name": [
@@ -650,19 +702,6 @@
                 ]
             }
         },
-        "Constellar Meteor": {
-            "printouts": {
-                "English name": [
-                    "Constellar Meteor"
-                ],
-                "Japanese name": [
-                    "セイクリッドの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>流</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>"
-                ],
-                "Passcode": [
-                    "63545861"
-                ]
-            }
-        },
         "Constellar Star Cradle": {
             "printouts": {
                 "English name": [
@@ -751,6 +790,19 @@
                 ],
                 "Passcode": [
                     "63224564"
+                ]
+            }
+        },
+        "Cynet Optimize": {
+            "printouts": {
+                "English name": [
+                    "Cynet Optimize"
+                ],
+                "Japanese name": [
+                    "サイバネット・オプティマイズ"
+                ],
+                "Passcode": [
+                    "34010534"
                 ]
             }
         },
@@ -1214,7 +1266,9 @@
                 "English name": [
                     "F.A. City Grand Prix"
                 ],
-                "Japanese name": [],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>Ｆ．Ａ．</rb><rp>（</rp><rt>フォーミュラアスリート</rt><rp>）</rp></ruby>シティ<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>ＧＰ</rb><rp>（</rp><rt>グランプリ</rt><rp>）</rp></ruby>"
+                ],
                 "Passcode": [
                     "01061200"
                 ]
@@ -1660,6 +1714,39 @@
                 ]
             }
         },
+        "Goddess Skuld's Oracle": {
+            "printouts": {
+                "English name": [
+                    "Goddess Skuld's Oracle"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>女神</rb><rp>（</rp><rt>めがみ</rt><rp>）</rp></ruby>スクルドの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>託</rb><rp>（</rp><rt>たく</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>宣</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": []
+            }
+        },
+        "Goddess Urd's Verdict": {
+            "printouts": {
+                "English name": [
+                    "Goddess Urd's Verdict"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>女</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>がみ</rt><rp>）</rp></ruby>ウルドの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>裁</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>断</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": []
+            }
+        },
+        "Goddess Verdande's Guidance": {
+            "printouts": {
+                "English name": [
+                    "Goddess Verdande's Guidance"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>女</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>がみ</rt><rp>）</rp></ruby>ヴェルダンディの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>みちび</rt><rp>）</rp></ruby>き"
+                ],
+                "Passcode": []
+            }
+        },
         "Graceful Charity": {
             "printouts": {
                 "English name": [
@@ -1787,6 +1874,19 @@
                 ],
                 "Passcode": [
                     "18027138"
+                ]
+            }
+        },
+        "Hope of Nephthys": {
+            "printouts": {
+                "English name": [
+                    "Hope of Nephthys"
+                ],
+                "Japanese name": [
+                    "ネフティスの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>希</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>望</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "50847759"
                 ]
             }
         },
@@ -1959,6 +2059,19 @@
                 ]
             }
         },
+        "Ledger of Legerdemain": {
+            "printouts": {
+                "English name": [
+                    "Ledger of Legerdemain"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>予</rb><rp>（</rp><rt>よ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>見</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>通</rb><rp>（</rp><rt>つう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>帳</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "56256517"
+                ]
+            }
+        },
         "Leeching the Light": {
             "printouts": {
                 "English name": [
@@ -2045,7 +2158,9 @@
                 "Japanese name": [
                     "リンク・パーティー"
                 ],
-                "Passcode": []
+                "Passcode": [
+                    "68957925"
+                ]
             }
         },
         "Lumenize": {
@@ -2256,6 +2371,19 @@
                 ]
             }
         },
+        "Mayakashi Revolt": {
+            "printouts": {
+                "English name": [
+                    "Mayakashi Revolt"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔妖</rb><rp>（</rp><rt>まやかし</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>廻</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "02364438"
+                ]
+            }
+        },
         "Melodious Illusion": {
             "printouts": {
                 "English name": [
@@ -2293,6 +2421,17 @@
                 "Passcode": [
                     "00164710"
                 ]
+            }
+        },
+        "Mischief of the Time Goddess": {
+            "printouts": {
+                "English name": [
+                    "Mischief of the Time Goddess"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>時</rb><rp>（</rp><rt>とき</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>女</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>神</rb><rp>（</rp><rt>がみ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>悪戯</rb><rp>（</rp><rt>いたずら</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": []
             }
         },
         "Mischief of the Yokai": {
@@ -2373,6 +2512,19 @@
                 ]
             }
         },
+        "The Nimble Fish Gets the Gift": {
+            "printouts": {
+                "English name": [
+                    "The Nimble Fish Gets the Gift"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>素</rb><rp>（</rp><rt>す</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>早</rb><rp>（</rp><rt>ばや</rt><rp>）</rp></ruby>きは<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>三</rb><rp>（</rp><rt>さん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>文</rb><rp>（</rp><rt>もん</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>徳</rb><rp>（</rp><rt>とく</rt><rp>）</rp></ruby>"
+                ],
+                "Passcode": [
+                    "43994202"
+                ]
+            }
+        },
         "Ninjitsu Art of Shadow Sealing": {
             "printouts": {
                 "English name": [
@@ -2448,6 +2600,45 @@
                 ],
                 "Passcode": [
                     "97173708"
+                ]
+            }
+        },
+        "Orphegel Core": {
+            "printouts": {
+                "English name": [
+                    "Orphegel Core"
+                ],
+                "Japanese name": [
+                    "オルフェゴール・コア"
+                ],
+                "Passcode": [
+                    "55051920"
+                ]
+            }
+        },
+        "Orphegel Einsatz": {
+            "printouts": {
+                "English name": [
+                    "Orphegel Einsatz"
+                ],
+                "Japanese name": [
+                    "オルフェゴール・アインザッツ"
+                ],
+                "Passcode": [
+                    "62834295"
+                ]
+            }
+        },
+        "Orphegel Prime": {
+            "printouts": {
+                "English name": [
+                    "Orphegel Prime"
+                ],
+                "Japanese name": [
+                    "オルフェゴール・プライム"
+                ],
+                "Passcode": [
+                    "26845680"
                 ]
             }
         },
@@ -3151,6 +3342,19 @@
                 ]
             }
         },
+        "Sky Striker Maneuver - Vectored Blast!": {
+            "printouts": {
+                "English name": [
+                    "Sky Striker Maneuver - Vectored Blast!"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>刀</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>式</rb><rp>（</rp><rt>しき</rt><rp>）</rp></ruby>－ベクタードブラスト"
+                ],
+                "Passcode": [
+                    "21623008"
+                ]
+            }
+        },
         "Sky Striker Mecha - Eagle Booster": {
             "printouts": {
                 "English name": [
@@ -3733,6 +3937,19 @@
                 ],
                 "Passcode": [
                     "46652477"
+                ]
+            }
+        },
+        "Traptrick": {
+            "printouts": {
+                "English name": [
+                    "Traptrick"
+                ],
+                "Japanese name": [
+                    "トラップトリック"
+                ],
+                "Passcode": [
+                    "80101899"
                 ]
             }
         },
@@ -4348,5 +4565,5 @@
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 333
+    "rows": 350
 }
