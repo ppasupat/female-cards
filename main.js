@@ -24,7 +24,7 @@ $(function () {
 
   function addMonster(x) {
     var frame = $('<a class=card target=_blank>').appendTo('#content')
-      .attr('href', 'http://yugioh.wikia.com/wiki/' + x['English name'].replace(/ /g, '_'))
+      .attr('href', 'https://yugipedia.com/wiki/' + x['English name'].replace(/ /g, '_'))
       .append($('<img>').attr('src', 'img/' + (+x.Password) + '.png'))
       .append($('<p class=eng>').text(x['English name']));
   }
