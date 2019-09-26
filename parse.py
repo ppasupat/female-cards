@@ -21,6 +21,16 @@ def main():
                 entries.append({key: (value[0] if value else '0') for (key, value) in printouts.items()})
     entries.sort(key=lambda x: x['English name'])
 
+    if args.outfile == '-':
+        # Print TSV instead
+        for entry in entries:
+            print('{}\t{}\t{}'.format(
+                entry['Password'],
+                entry['English name'],
+                entry['Japanese name'],
+            ))
+        return
+
     with open(args.outfile, 'w') as fout:
         fout.write('var ' + args.name + ' = ')
         json.dump(entries, fout, separators=(',', ':'), ensure_ascii=False)

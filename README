@@ -28,3 +28,9 @@ Save the results as JSON (500 per page) to backow.json
 
 ./parse.py MONSTERS monster1.json monster2.json monster.js
 ./parse.py BACKROWS backrow.json backrow.js
+
+# Get IDs
+
+./parse.py MONSTERS monster1.json monster2.json backrow.json - | cut -f1 | sort | sed 's/^0*//;/^$/d'  > all-ids
+
+while read x; do wget -nc [SOMEHOST]/${x}.jpg -P img/; done < all-ids
