@@ -1,6 +1,14 @@
 {
     "printrequests": [
         {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
             "label": "English name",
             "key": "English_name",
             "redi": "",
@@ -37,7 +45,30 @@
                 "Password": [
                     "00403847"
                 ]
-            }
+            },
+            "fulltext": "The A. Forces",
+            "fullurl": "https://yugipedia.com/wiki/The_A._Forces",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Abomination's Prison": {
+            "printouts": {
+                "English name": [
+                    "Abomination's Prison"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>雙</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>械</rb><rp>（</rp><rt>かせ</rt><rp>）</rp></ruby>"
+                ],
+                "Password": [
+                    "27412542"
+                ]
+            },
+            "fulltext": "Abomination's Prison",
+            "fullurl": "https://yugipedia.com/wiki/Abomination%27s_Prison",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Abyss Actors' Curtain Call": {
             "printouts": {
@@ -50,7 +81,12 @@
                 "Password": [
                     "04682617"
                 ]
-            }
+            },
+            "fulltext": "Abyss Actors' Curtain Call",
+            "fullurl": "https://yugipedia.com/wiki/Abyss_Actors%27_Curtain_Call",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Abyss Playhouse - Fantastic Theater": {
             "printouts": {
@@ -63,7 +99,12 @@
                 "Password": [
                     "77297908"
                 ]
-            }
+            },
+            "fulltext": "Abyss Playhouse - Fantastic Theater",
+            "fullurl": "https://yugipedia.com/wiki/Abyss_Playhouse_-_Fantastic_Theater",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Abyss Script - Romantic Terror": {
             "printouts": {
@@ -76,7 +117,12 @@
                 "Password": [
                     "41803903"
                 ]
-            }
+            },
+            "fulltext": "Abyss Script - Romantic Terror",
+            "fullurl": "https://yugipedia.com/wiki/Abyss_Script_-_Romantic_Terror",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Abyss-scorn": {
             "printouts": {
@@ -89,7 +135,12 @@
                 "Password": [
                     "79206750"
                 ]
-            }
+            },
+            "fulltext": "Abyss-scorn",
+            "fullurl": "https://yugipedia.com/wiki/Abyss-scorn",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Abyss-sphere": {
             "printouts": {
@@ -102,7 +153,12 @@
                 "Password": [
                     "60202749"
                 ]
-            }
+            },
+            "fulltext": "Abyss-sphere",
+            "fullurl": "https://yugipedia.com/wiki/Abyss-sphere",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Abyss-squall": {
             "printouts": {
@@ -115,7 +171,12 @@
                 "Password": [
                     "34707034"
                 ]
-            }
+            },
+            "fulltext": "Abyss-squall",
+            "fullurl": "https://yugipedia.com/wiki/Abyss-squall",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Advanced Dark": {
             "printouts": {
@@ -128,7 +189,12 @@
                 "Password": [
                     "12644061"
                 ]
-            }
+            },
+            "fulltext": "Advanced Dark",
+            "fullurl": "https://yugipedia.com/wiki/Advanced_Dark",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Aegis of Gaia": {
             "printouts": {
@@ -141,7 +207,12 @@
                 "Password": [
                     "47060347"
                 ]
-            }
+            },
+            "fulltext": "Aegis of Gaia",
+            "fullurl": "https://yugipedia.com/wiki/Aegis_of_Gaia",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "After the Storm": {
             "printouts": {
@@ -154,7 +225,12 @@
                 "Password": [
                     "82263578"
                 ]
-            }
+            },
+            "fulltext": "After the Storm",
+            "fullurl": "https://yugipedia.com/wiki/After_the_Storm",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Alluring Mirror Split": {
             "printouts": {
@@ -167,7 +243,12 @@
                 "Password": [
                     "92881099"
                 ]
-            }
+            },
+            "fulltext": "Alluring Mirror Split",
+            "fullurl": "https://yugipedia.com/wiki/Alluring_Mirror_Split",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Altergeist Camouflage": {
             "printouts": {
@@ -180,7 +261,12 @@
                 "Password": [
                     "80143954"
                 ]
-            }
+            },
+            "fulltext": "Altergeist Camouflage",
+            "fullurl": "https://yugipedia.com/wiki/Altergeist_Camouflage",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Altergeist Emulatelf": {
             "printouts": {
@@ -193,7 +279,12 @@
                 "Password": [
                     "86885905"
                 ]
-            }
+            },
+            "fulltext": "Altergeist Emulatelf",
+            "fullurl": "https://yugipedia.com/wiki/Altergeist_Emulatelf",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Altergeist Failover": {
             "printouts": {
@@ -206,7 +297,12 @@
                 "Password": [
                     "98753320"
                 ]
-            }
+            },
+            "fulltext": "Altergeist Failover",
+            "fullurl": "https://yugipedia.com/wiki/Altergeist_Failover",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Altergeist Manifestation": {
             "printouts": {
@@ -219,7 +315,30 @@
                 "Password": [
                     "35146019"
                 ]
-            }
+            },
+            "fulltext": "Altergeist Manifestation",
+            "fullurl": "https://yugipedia.com/wiki/Altergeist_Manifestation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Altergeist Protocol": {
+            "printouts": {
+                "English name": [
+                    "Altergeist Protocol"
+                ],
+                "Japanese name": [
+                    "オルターガイスト・プロトコル"
+                ],
+                "Password": [
+                    "27541563"
+                ]
+            },
+            "fulltext": "Altergeist Protocol",
+            "fullurl": "https://yugipedia.com/wiki/Altergeist_Protocol",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Amazoness Archers": {
             "printouts": {
@@ -232,7 +351,12 @@
                 "Password": [
                     "67987611"
                 ]
-            }
+            },
+            "fulltext": "Amazoness Archers",
+            "fullurl": "https://yugipedia.com/wiki/Amazoness_Archers",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Amazoness Call": {
             "printouts": {
@@ -245,7 +369,12 @@
                 "Password": [
                     "57312333"
                 ]
-            }
+            },
+            "fulltext": "Amazoness Call",
+            "fullurl": "https://yugipedia.com/wiki/Amazoness_Call",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Amazoness Fighting Spirit": {
             "printouts": {
@@ -258,7 +387,12 @@
                 "Password": [
                     "36100154"
                 ]
-            }
+            },
+            "fulltext": "Amazoness Fighting Spirit",
+            "fullurl": "https://yugipedia.com/wiki/Amazoness_Fighting_Spirit",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Amazoness Onslaught": {
             "printouts": {
@@ -271,7 +405,12 @@
                 "Password": [
                     "83407038"
                 ]
-            }
+            },
+            "fulltext": "Amazoness Onslaught",
+            "fullurl": "https://yugipedia.com/wiki/Amazoness_Onslaught",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Amazoness Shamanism": {
             "printouts": {
@@ -284,7 +423,12 @@
                 "Password": [
                     "06459419"
                 ]
-            }
+            },
+            "fulltext": "Amazoness Shamanism",
+            "fullurl": "https://yugipedia.com/wiki/Amazoness_Shamanism",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Amazoness Spellcaster": {
             "printouts": {
@@ -297,7 +441,12 @@
                 "Password": [
                     "81325903"
                 ]
-            }
+            },
+            "fulltext": "Amazoness Spellcaster",
+            "fullurl": "https://yugipedia.com/wiki/Amazoness_Spellcaster",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Amazoness Village": {
             "printouts": {
@@ -310,7 +459,12 @@
                 "Password": [
                     "00712559"
                 ]
-            }
+            },
+            "fulltext": "Amazoness Village",
+            "fullurl": "https://yugipedia.com/wiki/Amazoness_Village",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Amazoness Willpower": {
             "printouts": {
@@ -323,7 +477,12 @@
                 "Password": [
                     "22082163"
                 ]
-            }
+            },
+            "fulltext": "Amazoness Willpower",
+            "fullurl": "https://yugipedia.com/wiki/Amazoness_Willpower",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Anti-Spell": {
             "printouts": {
@@ -336,7 +495,12 @@
                 "Password": [
                     "53112492"
                 ]
-            }
+            },
+            "fulltext": "Anti-Spell",
+            "fullurl": "https://yugipedia.com/wiki/Anti-Spell",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Apple of Enlightenment": {
             "printouts": {
@@ -349,7 +513,12 @@
                 "Password": [
                     "43341600"
                 ]
-            }
+            },
+            "fulltext": "Apple of Enlightenment",
+            "fullurl": "https://yugipedia.com/wiki/Apple_of_Enlightenment",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Aqua Chorus": {
             "printouts": {
@@ -362,7 +531,12 @@
                 "Password": [
                     "95132338"
                 ]
-            }
+            },
+            "fulltext": "Aqua Chorus",
+            "fullurl": "https://yugipedia.com/wiki/Aqua_Chorus",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Aquamirror Cycle": {
             "printouts": {
@@ -375,7 +549,12 @@
                 "Password": [
                     "78910579"
                 ]
-            }
+            },
+            "fulltext": "Aquamirror Cycle",
+            "fullurl": "https://yugipedia.com/wiki/Aquamirror_Cycle",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Aquamirror Illusion": {
             "printouts": {
@@ -388,7 +567,12 @@
                 "Password": [
                     "64437633"
                 ]
-            }
+            },
+            "fulltext": "Aquamirror Illusion",
+            "fullurl": "https://yugipedia.com/wiki/Aquamirror_Illusion",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Aquamirror Meditation": {
             "printouts": {
@@ -401,7 +585,12 @@
                 "Password": [
                     "46337945"
                 ]
-            }
+            },
+            "fulltext": "Aquamirror Meditation",
+            "fullurl": "https://yugipedia.com/wiki/Aquamirror_Meditation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Armor Break": {
             "printouts": {
@@ -414,7 +603,12 @@
                 "Password": [
                     "79649195"
                 ]
-            }
+            },
+            "fulltext": "Armor Break",
+            "fullurl": "https://yugipedia.com/wiki/Armor_Break",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Armored Glass": {
             "printouts": {
@@ -427,7 +621,12 @@
                 "Password": [
                     "36868108"
                 ]
-            }
+            },
+            "fulltext": "Armored Glass",
+            "fullurl": "https://yugipedia.com/wiki/Armored_Glass",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Aroma Gardening": {
             "printouts": {
@@ -440,7 +639,12 @@
                 "Password": [
                     "29189613"
                 ]
-            }
+            },
+            "fulltext": "Aroma Gardening",
+            "fullurl": "https://yugipedia.com/wiki/Aroma_Gardening",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Arrivalrivals": {
             "printouts": {
@@ -453,7 +657,12 @@
                 "Password": [
                     "29508346"
                 ]
-            }
+            },
+            "fulltext": "Arrivalrivals",
+            "fullurl": "https://yugipedia.com/wiki/Arrivalrivals",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Asceticism of the Six Samurai": {
             "printouts": {
@@ -466,7 +675,12 @@
                 "Password": [
                     "27821104"
                 ]
-            }
+            },
+            "fulltext": "Asceticism of the Six Samurai",
+            "fullurl": "https://yugipedia.com/wiki/Asceticism_of_the_Six_Samurai",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Assault Overload": {
             "printouts": {
@@ -479,7 +693,12 @@
                 "Password": [
                     "93469007"
                 ]
-            }
+            },
+            "fulltext": "Assault Overload",
+            "fullurl": "https://yugipedia.com/wiki/Assault_Overload",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Assault Spirits": {
             "printouts": {
@@ -492,7 +711,12 @@
                 "Password": [
                     "87043568"
                 ]
-            }
+            },
+            "fulltext": "Assault Spirits",
+            "fullurl": "https://yugipedia.com/wiki/Assault_Spirits",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Attack Pheromones": {
             "printouts": {
@@ -505,7 +729,12 @@
                 "Password": [
                     "68786330"
                 ]
-            }
+            },
+            "fulltext": "Attack Pheromones",
+            "fullurl": "https://yugipedia.com/wiki/Attack_Pheromones",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Attraffic Control": {
             "printouts": {
@@ -518,7 +747,12 @@
                 "Password": [
                     "46083380"
                 ]
-            }
+            },
+            "fulltext": "Attraffic Control",
+            "fullurl": "https://yugipedia.com/wiki/Attraffic_Control",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Avalon": {
             "printouts": {
@@ -531,7 +765,12 @@
                 "Password": [
                     "82140600"
                 ]
-            }
+            },
+            "fulltext": "Avalon",
+            "fullurl": "https://yugipedia.com/wiki/Avalon",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Awakening of Nephthys": {
             "printouts": {
@@ -544,7 +783,12 @@
                 "Password": [
                     "82832464"
                 ]
-            }
+            },
+            "fulltext": "Awakening of Nephthys",
+            "fullurl": "https://yugipedia.com/wiki/Awakening_of_Nephthys",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Bad Reaction to Simochi": {
             "printouts": {
@@ -557,7 +801,12 @@
                 "Password": [
                     "40633297"
                 ]
-            }
+            },
+            "fulltext": "Bad Reaction to Simochi",
+            "fullurl": "https://yugipedia.com/wiki/Bad_Reaction_to_Simochi",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Battle Mania": {
             "printouts": {
@@ -570,7 +819,12 @@
                 "Password": [
                     "31245780"
                 ]
-            }
+            },
+            "fulltext": "Battle Mania",
+            "fullurl": "https://yugipedia.com/wiki/Battle_Mania",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Beckoning Light": {
             "printouts": {
@@ -583,7 +837,12 @@
                 "Password": [
                     "16255442"
                 ]
-            }
+            },
+            "fulltext": "Beckoning Light",
+            "fullurl": "https://yugipedia.com/wiki/Beckoning_Light",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "The Big Cattle Drive": {
             "printouts": {
@@ -596,7 +855,12 @@
                 "Password": [
                     "82386016"
                 ]
-            }
+            },
+            "fulltext": "The Big Cattle Drive",
+            "fullurl": "https://yugipedia.com/wiki/The_Big_Cattle_Drive",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "The Big March of Animals": {
             "printouts": {
@@ -609,7 +873,12 @@
                 "Password": [
                     "01689516"
                 ]
-            }
+            },
+            "fulltext": "The Big March of Animals",
+            "fullurl": "https://yugipedia.com/wiki/The_Big_March_of_Animals",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Blessed Winds": {
             "printouts": {
@@ -622,7 +891,12 @@
                 "Password": [
                     "15177750"
                 ]
-            }
+            },
+            "fulltext": "Blessed Winds",
+            "fullurl": "https://yugipedia.com/wiki/Blessed_Winds",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Blessings for Gusto": {
             "printouts": {
@@ -635,7 +909,12 @@
                 "Password": [
                     "82422049"
                 ]
-            }
+            },
+            "fulltext": "Blessings for Gusto",
+            "fullurl": "https://yugipedia.com/wiki/Blessings_for_Gusto",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Blockout Curtain": {
             "printouts": {
@@ -648,7 +927,12 @@
                 "Password": [
                     "53167658"
                 ]
-            }
+            },
+            "fulltext": "Blockout Curtain",
+            "fullurl": "https://yugipedia.com/wiki/Blockout_Curtain",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Bounzer Guard": {
             "printouts": {
@@ -661,7 +945,12 @@
                 "Password": [
                     "48582558"
                 ]
-            }
+            },
+            "fulltext": "Bounzer Guard",
+            "fullurl": "https://yugipedia.com/wiki/Bounzer_Guard",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Break Away": {
             "printouts": {
@@ -674,7 +963,12 @@
                 "Password": [
                     "09852718"
                 ]
-            }
+            },
+            "fulltext": "Break Away",
+            "fullurl": "https://yugipedia.com/wiki/Break_Away",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Bright Future": {
             "printouts": {
@@ -687,7 +981,12 @@
                 "Password": [
                     "24707869"
                 ]
-            }
+            },
+            "fulltext": "Bright Future",
+            "fullurl": "https://yugipedia.com/wiki/Bright_Future",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Brutal Potion": {
             "printouts": {
@@ -700,7 +999,12 @@
                 "Password": [
                     "30155789"
                 ]
-            }
+            },
+            "fulltext": "Brutal Potion",
+            "fullurl": "https://yugipedia.com/wiki/Brutal_Potion",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Bujincident": {
             "printouts": {
@@ -713,7 +1017,12 @@
                 "Password": [
                     "11221418"
                 ]
-            }
+            },
+            "fulltext": "Bujincident",
+            "fullurl": "https://yugipedia.com/wiki/Bujincident",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Bujintervention": {
             "printouts": {
@@ -726,7 +1035,12 @@
                 "Password": [
                     "55599882"
                 ]
-            }
+            },
+            "fulltext": "Bujintervention",
+            "fullurl": "https://yugipedia.com/wiki/Bujintervention",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Burst Return": {
             "printouts": {
@@ -739,7 +1053,12 @@
                 "Password": [
                     "27191436"
                 ]
-            }
+            },
+            "fulltext": "Burst Return",
+            "fullurl": "https://yugipedia.com/wiki/Burst_Return",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Byroad Sacrifice": {
             "printouts": {
@@ -752,7 +1071,12 @@
                 "Password": [
                     "36935434"
                 ]
-            }
+            },
+            "fulltext": "Byroad Sacrifice",
+            "fullurl": "https://yugipedia.com/wiki/Byroad_Sacrifice",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Calming Magic": {
             "printouts": {
@@ -765,7 +1089,12 @@
                 "Password": [
                     "51773900"
                 ]
-            }
+            },
+            "fulltext": "Calming Magic",
+            "fullurl": "https://yugipedia.com/wiki/Calming_Magic",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Celestial Sword - Eatos": {
             "printouts": {
@@ -778,7 +1107,12 @@
                 "Password": [
                     "55569674"
                 ]
-            }
+            },
+            "fulltext": "Celestial Sword - Eatos",
+            "fullurl": "https://yugipedia.com/wiki/Celestial_Sword_-_Eatos",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Change of Heart": {
             "printouts": {
@@ -791,7 +1125,12 @@
                 "Password": [
                     "04031928"
                 ]
-            }
+            },
+            "fulltext": "Change of Heart",
+            "fullurl": "https://yugipedia.com/wiki/Change_of_Heart",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Commencement Dance": {
             "printouts": {
@@ -804,7 +1143,30 @@
                 "Password": [
                     "43417563"
                 ]
-            }
+            },
+            "fulltext": "Commencement Dance",
+            "fullurl": "https://yugipedia.com/wiki/Commencement_Dance",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Condolence Puppet": {
+            "printouts": {
+                "English name": [
+                    "Condolence Puppet"
+                ],
+                "Japanese name": [
+                    "コンドーレンス・パペット"
+                ],
+                "Password": [
+                    "57093995"
+                ]
+            },
+            "fulltext": "Condolence Puppet",
+            "fullurl": "https://yugipedia.com/wiki/Condolence_Puppet",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Confiscation": {
             "printouts": {
@@ -817,7 +1179,12 @@
                 "Password": [
                     "17375316"
                 ]
-            }
+            },
+            "fulltext": "Confiscation",
+            "fullurl": "https://yugipedia.com/wiki/Confiscation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Consolation Prize": {
             "printouts": {
@@ -830,7 +1197,12 @@
                 "Password": [
                     "63413494"
                 ]
-            }
+            },
+            "fulltext": "Consolation Prize",
+            "fullurl": "https://yugipedia.com/wiki/Consolation_Prize",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Constellar Meteor": {
             "printouts": {
@@ -843,7 +1215,12 @@
                 "Password": [
                     "63545861"
                 ]
-            }
+            },
+            "fulltext": "Constellar Meteor",
+            "fullurl": "https://yugipedia.com/wiki/Constellar_Meteor",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Constellar Star Cradle": {
             "printouts": {
@@ -856,7 +1233,12 @@
                 "Password": [
                     "90156158"
                 ]
-            }
+            },
+            "fulltext": "Constellar Star Cradle",
+            "fullurl": "https://yugipedia.com/wiki/Constellar_Star_Cradle",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Constellar Twinkle": {
             "printouts": {
@@ -869,7 +1251,12 @@
                 "Password": [
                     "35544402"
                 ]
-            }
+            },
+            "fulltext": "Constellar Twinkle",
+            "fullurl": "https://yugipedia.com/wiki/Constellar_Twinkle",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Contact Out": {
             "printouts": {
@@ -882,7 +1269,12 @@
                 "Password": [
                     "69270537"
                 ]
-            }
+            },
+            "fulltext": "Contact Out",
+            "fullurl": "https://yugipedia.com/wiki/Contact_Out",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Contact with Gusto": {
             "printouts": {
@@ -895,7 +1287,12 @@
                 "Password": [
                     "83544697"
                 ]
-            }
+            },
+            "fulltext": "Contact with Gusto",
+            "fullurl": "https://yugipedia.com/wiki/Contact_with_Gusto",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Converging Wishes": {
             "printouts": {
@@ -908,7 +1305,12 @@
                 "Password": [
                     "20007374"
                 ]
-            }
+            },
+            "fulltext": "Converging Wishes",
+            "fullurl": "https://yugipedia.com/wiki/Converging_Wishes",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Creeping Darkness": {
             "printouts": {
@@ -921,7 +1323,12 @@
                 "Password": [
                     "78811937"
                 ]
-            }
+            },
+            "fulltext": "Creeping Darkness",
+            "fullurl": "https://yugipedia.com/wiki/Creeping_Darkness",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Cross Attack": {
             "printouts": {
@@ -934,7 +1341,12 @@
                 "Password": [
                     "46961802"
                 ]
-            }
+            },
+            "fulltext": "Cross Attack",
+            "fullurl": "https://yugipedia.com/wiki/Cross_Attack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Crusadia Testament": {
             "printouts": {
@@ -947,7 +1359,12 @@
                 "Password": [
                     "87497553"
                 ]
-            }
+            },
+            "fulltext": "Crusadia Testament",
+            "fullurl": "https://yugipedia.com/wiki/Crusadia_Testament",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Crystal Conclave": {
             "printouts": {
@@ -960,7 +1377,12 @@
                 "Password": [
                     "87259933"
                 ]
-            }
+            },
+            "fulltext": "Crystal Conclave",
+            "fullurl": "https://yugipedia.com/wiki/Crystal_Conclave",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Cyber Shield": {
             "printouts": {
@@ -973,7 +1395,12 @@
                 "Password": [
                     "63224564"
                 ]
-            }
+            },
+            "fulltext": "Cyber Shield",
+            "fullurl": "https://yugipedia.com/wiki/Cyber_Shield",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Cycle of the World": {
             "printouts": {
@@ -986,7 +1413,12 @@
                 "Password": [
                     "32828635"
                 ]
-            }
+            },
+            "fulltext": "Cycle of the World",
+            "fullurl": "https://yugipedia.com/wiki/Cycle_of_the_World",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Cynet Optimization": {
             "printouts": {
@@ -999,7 +1431,12 @@
                 "Password": [
                     "34010534"
                 ]
-            }
+            },
+            "fulltext": "Cynet Optimization",
+            "fullurl": "https://yugipedia.com/wiki/Cynet_Optimization",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "D.D. Designator": {
             "printouts": {
@@ -1012,7 +1449,12 @@
                 "Password": [
                     "33423043"
                 ]
-            }
+            },
+            "fulltext": "D.D. Designator",
+            "fullurl": "https://yugipedia.com/wiki/D.D._Designator",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "D/D Recruits": {
             "printouts": {
@@ -1025,7 +1467,12 @@
                 "Password": [
                     "08643186"
                 ]
-            }
+            },
+            "fulltext": "D/D Recruits",
+            "fullurl": "https://yugipedia.com/wiki/D/D_Recruits",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "DNA Checkup": {
             "printouts": {
@@ -1038,7 +1485,12 @@
                 "Password": [
                     "27340877"
                 ]
-            }
+            },
+            "fulltext": "DNA Checkup",
+            "fullurl": "https://yugipedia.com/wiki/DNA_Checkup",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "DNA Surgery": {
             "printouts": {
@@ -1051,7 +1503,12 @@
                 "Password": [
                     "74701381"
                 ]
-            }
+            },
+            "fulltext": "DNA Surgery",
+            "fullurl": "https://yugipedia.com/wiki/DNA_Surgery",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "DNA Transplant": {
             "printouts": {
@@ -1064,7 +1521,12 @@
                 "Password": [
                     "56769674"
                 ]
-            }
+            },
+            "fulltext": "DNA Transplant",
+            "fullurl": "https://yugipedia.com/wiki/DNA_Transplant",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dai Dance": {
             "printouts": {
@@ -1077,7 +1539,12 @@
                 "Password": [
                     "50696588"
                 ]
-            }
+            },
+            "fulltext": "Dai Dance",
+            "fullurl": "https://yugipedia.com/wiki/Dai_Dance",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Damage Diet": {
             "printouts": {
@@ -1090,7 +1557,12 @@
                 "Password": [
                     "95448692"
                 ]
-            }
+            },
+            "fulltext": "Damage Diet",
+            "fullurl": "https://yugipedia.com/wiki/Damage_Diet",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dark Bribe": {
             "printouts": {
@@ -1103,7 +1575,12 @@
                 "Password": [
                     "77538567"
                 ]
-            }
+            },
+            "fulltext": "Dark Bribe",
+            "fullurl": "https://yugipedia.com/wiki/Dark_Bribe",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dark Burning Attack": {
             "printouts": {
@@ -1116,7 +1593,12 @@
                 "Password": [
                     "49702428"
                 ]
-            }
+            },
+            "fulltext": "Dark Burning Attack",
+            "fullurl": "https://yugipedia.com/wiki/Dark_Burning_Attack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dark Burning Magic": {
             "printouts": {
@@ -1129,7 +1611,12 @@
                 "Password": [
                     "75190122"
                 ]
-            }
+            },
+            "fulltext": "Dark Burning Magic",
+            "fullurl": "https://yugipedia.com/wiki/Dark_Burning_Magic",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dark Contract with the Witch": {
             "printouts": {
@@ -1142,7 +1629,12 @@
                 "Password": [
                     "09765723"
                 ]
-            }
+            },
+            "fulltext": "Dark Contract with the Witch",
+            "fullurl": "https://yugipedia.com/wiki/Dark_Contract_with_the_Witch",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dark Fusion": {
             "printouts": {
@@ -1155,7 +1647,12 @@
                 "Password": [
                     "94820406"
                 ]
-            }
+            },
+            "fulltext": "Dark Fusion",
+            "fullurl": "https://yugipedia.com/wiki/Dark_Fusion",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dark Magic Expanded": {
             "printouts": {
@@ -1168,7 +1665,12 @@
                 "Password": [
                     "00111280"
                 ]
-            }
+            },
+            "fulltext": "Dark Magic Expanded",
+            "fullurl": "https://yugipedia.com/wiki/Dark_Magic_Expanded",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dark Scorpion Combination": {
             "printouts": {
@@ -1181,7 +1683,12 @@
                 "Password": [
                     "20858318"
                 ]
-            }
+            },
+            "fulltext": "Dark Scorpion Combination",
+            "fullurl": "https://yugipedia.com/wiki/Dark_Scorpion_Combination",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dark Spirit's Mastery": {
             "printouts": {
@@ -1194,7 +1701,12 @@
                 "Password": [
                     "14386013"
                 ]
-            }
+            },
+            "fulltext": "Dark Spirit's Mastery",
+            "fullurl": "https://yugipedia.com/wiki/Dark_Spirit%27s_Mastery",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Darklord Enchantment": {
             "printouts": {
@@ -1207,7 +1719,12 @@
                 "Password": [
                     "87990236"
                 ]
-            }
+            },
+            "fulltext": "Darklord Enchantment",
+            "fullurl": "https://yugipedia.com/wiki/Darklord_Enchantment",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Deal of Phantom": {
             "printouts": {
@@ -1220,7 +1737,12 @@
                 "Password": [
                     "69122763"
                 ]
-            }
+            },
+            "fulltext": "Deal of Phantom",
+            "fullurl": "https://yugipedia.com/wiki/Deal_of_Phantom",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dian Keto the Cure Master": {
             "printouts": {
@@ -1233,7 +1755,12 @@
                 "Password": [
                     "84257639"
                 ]
-            }
+            },
+            "fulltext": "Dian Keto the Cure Master",
+            "fullurl": "https://yugipedia.com/wiki/Dian_Keto_the_Cure_Master",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Different Dimension Gate": {
             "printouts": {
@@ -1246,7 +1773,12 @@
                 "Password": [
                     "56460688"
                 ]
-            }
+            },
+            "fulltext": "Different Dimension Gate",
+            "fullurl": "https://yugipedia.com/wiki/Different_Dimension_Gate",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Different Dimension Ground": {
             "printouts": {
@@ -1259,7 +1791,12 @@
                 "Password": [
                     "31849106"
                 ]
-            }
+            },
+            "fulltext": "Different Dimension Ground",
+            "fullurl": "https://yugipedia.com/wiki/Different_Dimension_Ground",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dimension Fusion": {
             "printouts": {
@@ -1272,7 +1809,12 @@
                 "Password": [
                     "23557835"
                 ]
-            }
+            },
+            "fulltext": "Dimension Fusion",
+            "fullurl": "https://yugipedia.com/wiki/Dimension_Fusion",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dimension Wall": {
             "printouts": {
@@ -1285,7 +1827,12 @@
                 "Password": [
                     "67095270"
                 ]
-            }
+            },
+            "fulltext": "Dimension Wall",
+            "fullurl": "https://yugipedia.com/wiki/Dimension_Wall",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Disciples of the True Dracophoenix": {
             "printouts": {
@@ -1298,7 +1845,12 @@
                 "Password": [
                     "75425320"
                 ]
-            }
+            },
+            "fulltext": "Disciples of the True Dracophoenix",
+            "fullurl": "https://yugipedia.com/wiki/Disciples_of_the_True_Dracophoenix",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Doble Passe": {
             "printouts": {
@@ -1311,7 +1863,12 @@
                 "Password": [
                     "79997591"
                 ]
-            }
+            },
+            "fulltext": "Doble Passe",
+            "fullurl": "https://yugipedia.com/wiki/Doble_Passe",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Doriado's Blessing": {
             "printouts": {
@@ -1324,7 +1881,12 @@
                 "Password": [
                     "23965037"
                 ]
-            }
+            },
+            "fulltext": "Doriado's Blessing",
+            "fullurl": "https://yugipedia.com/wiki/Doriado%27s_Blessing",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Double Payback": {
             "printouts": {
@@ -1337,7 +1899,12 @@
                 "Password": [
                     "05914184"
                 ]
-            }
+            },
+            "fulltext": "Double Payback",
+            "fullurl": "https://yugipedia.com/wiki/Double_Payback",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Double Trap Hole": {
             "printouts": {
@@ -1350,7 +1917,12 @@
                 "Password": [
                     "51976476"
                 ]
-            }
+            },
+            "fulltext": "Double Trap Hole",
+            "fullurl": "https://yugipedia.com/wiki/Double_Trap_Hole",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Draconnection": {
             "printouts": {
@@ -1363,7 +1935,12 @@
                 "Password": [
                     "90887783"
                 ]
-            }
+            },
+            "fulltext": "Draconnection",
+            "fullurl": "https://yugipedia.com/wiki/Draconnection",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dragon Mastery": {
             "printouts": {
@@ -1376,7 +1953,12 @@
                 "Password": [
                     "99659159"
                 ]
-            }
+            },
+            "fulltext": "Dragon Mastery",
+            "fullurl": "https://yugipedia.com/wiki/Dragon_Mastery",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dragonic Diagram": {
             "printouts": {
@@ -1389,7 +1971,12 @@
                 "Password": [
                     "13035077"
                 ]
-            }
+            },
+            "fulltext": "Dragonic Diagram",
+            "fullurl": "https://yugipedia.com/wiki/Dragonic_Diagram",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dragonmaid Relaxation": {
             "printouts": {
@@ -1402,7 +1989,30 @@
                 "Password": [
                     "77515704"
                 ]
-            }
+            },
+            "fulltext": "Dragonmaid Relaxation",
+            "fullurl": "https://yugipedia.com/wiki/Dragonmaid_Relaxation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Dragonmaid Send-Off": {
+            "printouts": {
+                "English name": [
+                    "Dragonmaid Send-Off"
+                ],
+                "Japanese name": [
+                    "ドラゴンメイドのお<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>見</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>送</rb><rp>（</rp><rt>おく</rt><rp>）</rp></ruby>り"
+                ],
+                "Password": [
+                    "15754711"
+                ]
+            },
+            "fulltext": "Dragonmaid Send-Off",
+            "fullurl": "https://yugipedia.com/wiki/Dragonmaid_Send-Off",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dragonmaids' Hospitality": {
             "printouts": {
@@ -1415,7 +2025,12 @@
                 "Password": [
                     "78231355"
                 ]
-            }
+            },
+            "fulltext": "Dragonmaids' Hospitality",
+            "fullurl": "https://yugipedia.com/wiki/Dragonmaids%27_Hospitality",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dragonmaids' Reception": {
             "printouts": {
@@ -1428,18 +2043,12 @@
                 "Password": [
                     "14625090"
                 ]
-            }
-        },
-        "Dragonmaids' Sendoff": {
-            "printouts": {
-                "English name": [
-                    "Dragonmaids' Sendoff"
-                ],
-                "Japanese name": [
-                    "ドラゴンメイドのお<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>見</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>送</rb><rp>（</rp><rt>おく</rt><rp>）</rp></ruby>り"
-                ],
-                "Password": []
-            }
+            },
+            "fulltext": "Dragonmaids' Reception",
+            "fullurl": "https://yugipedia.com/wiki/Dragonmaids%27_Reception",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dragonmaids' Uniform-Change": {
             "printouts": {
@@ -1452,7 +2061,12 @@
                 "Password": [
                     "40110009"
                 ]
-            }
+            },
+            "fulltext": "Dragonmaids' Uniform-Change",
+            "fullurl": "https://yugipedia.com/wiki/Dragonmaids%27_Uniform-Change",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dramatic Rescue": {
             "printouts": {
@@ -1465,7 +2079,12 @@
                 "Password": [
                     "80193355"
                 ]
-            }
+            },
+            "fulltext": "Dramatic Rescue",
+            "fullurl": "https://yugipedia.com/wiki/Dramatic_Rescue",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Dream Mirror Fantasy": {
             "printouts": {
@@ -1476,7 +2095,12 @@
                 "Password": [
                     "37444964"
                 ]
-            }
+            },
+            "fulltext": "Dream Mirror Fantasy",
+            "fullurl": "https://yugipedia.com/wiki/Dream_Mirror_Fantasy",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "El Shaddoll Fusion": {
             "printouts": {
@@ -1489,7 +2113,12 @@
                 "Password": [
                     "06417578"
                 ]
-            }
+            },
+            "fulltext": "El Shaddoll Fusion",
+            "fullurl": "https://yugipedia.com/wiki/El_Shaddoll_Fusion",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Elemental Recharge": {
             "printouts": {
@@ -1502,7 +2131,12 @@
                 "Password": [
                     "36586443"
                 ]
-            }
+            },
+            "fulltext": "Elemental Recharge",
+            "fullurl": "https://yugipedia.com/wiki/Elemental_Recharge",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Elf's Light": {
             "printouts": {
@@ -1515,7 +2149,12 @@
                 "Password": [
                     "39897277"
                 ]
-            }
+            },
+            "fulltext": "Elf's Light",
+            "fullurl": "https://yugipedia.com/wiki/Elf%27s_Light",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Emergency Assistance": {
             "printouts": {
@@ -1528,7 +2167,12 @@
                 "Password": [
                     "24019261"
                 ]
-            }
+            },
+            "fulltext": "Emergency Assistance",
+            "fullurl": "https://yugipedia.com/wiki/Emergency_Assistance",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Endymion's Lab": {
             "printouts": {
@@ -1541,7 +2185,12 @@
                 "Password": [
                     "65342096"
                 ]
-            }
+            },
+            "fulltext": "Endymion's Lab",
+            "fullurl": "https://yugipedia.com/wiki/Endymion%27s_Lab",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Enervating Mist": {
             "printouts": {
@@ -1554,7 +2203,30 @@
                 "Password": [
                     "26022485"
                 ]
-            }
+            },
+            "fulltext": "Enervating Mist",
+            "fullurl": "https://yugipedia.com/wiki/Enervating_Mist",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Escape of the Unchained": {
+            "printouts": {
+                "English name": [
+                    "Escape of the Unchained"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>械</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>唱</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>"
+                ],
+                "Password": [
+                    "53417695"
+                ]
+            },
+            "fulltext": "Escape of the Unchained",
+            "fullurl": "https://yugipedia.com/wiki/Escape_of_the_Unchained",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Evenly Matched": {
             "printouts": {
@@ -1567,7 +2239,12 @@
                 "Password": [
                     "15693423"
                 ]
-            }
+            },
+            "fulltext": "Evenly Matched",
+            "fullurl": "https://yugipedia.com/wiki/Evenly_Matched",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Evil Blast": {
             "printouts": {
@@ -1580,7 +2257,12 @@
                 "Password": [
                     "15684835"
                 ]
-            }
+            },
+            "fulltext": "Evil Blast",
+            "fullurl": "https://yugipedia.com/wiki/Evil_Blast",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Evil Eye Awakening": {
             "printouts": {
@@ -1593,7 +2275,12 @@
                 "Password": [
                     "17616743"
                 ]
-            }
+            },
+            "fulltext": "Evil Eye Awakening",
+            "fullurl": "https://yugipedia.com/wiki/Evil_Eye_Awakening",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Evil Eye Confrontation": {
             "printouts": {
@@ -1606,7 +2293,12 @@
                 "Password": [
                     "43011492"
                 ]
-            }
+            },
+            "fulltext": "Evil Eye Confrontation",
+            "fullurl": "https://yugipedia.com/wiki/Evil_Eye_Confrontation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Evil Eye Defeat": {
             "printouts": {
@@ -1619,7 +2311,12 @@
                 "Password": [
                     "06494106"
                 ]
-            }
+            },
+            "fulltext": "Evil Eye Defeat",
+            "fullurl": "https://yugipedia.com/wiki/Evil_Eye_Defeat",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Evil Eye Mesmerism": {
             "printouts": {
@@ -1632,7 +2329,12 @@
                 "Password": [
                     "42899204"
                 ]
-            }
+            },
+            "fulltext": "Evil Eye Mesmerism",
+            "fullurl": "https://yugipedia.com/wiki/Evil_Eye_Mesmerism",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Evil Eye Repose": {
             "printouts": {
@@ -1645,12 +2347,17 @@
                 "Password": [
                     "79400597"
                 ]
-            }
+            },
+            "fulltext": "Evil Eye Repose",
+            "fullurl": "https://yugipedia.com/wiki/Evil_Eye_Repose",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
-        "Evil Eye of Gorgoneion": {
+        "Evil Eye of Gorgoneio": {
             "printouts": {
                 "English name": [
-                    "Evil Eye of Gorgoneion"
+                    "Evil Eye of Gorgoneio"
                 ],
                 "Japanese name": [
                     "ゴルゴネイオの<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>呪</rb><rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>眼</rb><rp>（</rp><rt>がん</rt><rp>）</rp></ruby>"
@@ -1658,7 +2365,12 @@
                 "Password": [
                     "28957126"
                 ]
-            }
+            },
+            "fulltext": "Evil Eye of Gorgoneio",
+            "fullurl": "https://yugipedia.com/wiki/Evil_Eye_of_Gorgoneio",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Evil Mind": {
             "printouts": {
@@ -1671,7 +2383,12 @@
                 "Password": [
                     "18438874"
                 ]
-            }
+            },
+            "fulltext": "Evil Mind",
+            "fullurl": "https://yugipedia.com/wiki/Evil_Mind",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "F.A. City Grand Prix": {
             "printouts": {
@@ -1684,7 +2401,12 @@
                 "Password": [
                     "01061200"
                 ]
-            }
+            },
+            "fulltext": "F.A. City Grand Prix",
+            "fullurl": "https://yugipedia.com/wiki/F.A._City_Grand_Prix",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "F.A. Dead Heat": {
             "printouts": {
@@ -1697,7 +2419,12 @@
                 "Password": [
                     "05641251"
                 ]
-            }
+            },
+            "fulltext": "F.A. Dead Heat",
+            "fullurl": "https://yugipedia.com/wiki/F.A._Dead_Heat",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "F.A. Test Run": {
             "printouts": {
@@ -1710,7 +2437,12 @@
                 "Password": [
                     "38459905"
                 ]
-            }
+            },
+            "fulltext": "F.A. Test Run",
+            "fullurl": "https://yugipedia.com/wiki/F.A._Test_Run",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Fairy Wind": {
             "printouts": {
@@ -1723,7 +2455,12 @@
                 "Password": [
                     "73507661"
                 ]
-            }
+            },
+            "fulltext": "Fairy Wind",
+            "fullurl": "https://yugipedia.com/wiki/Fairy_Wind",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Fairy of the Spring": {
             "printouts": {
@@ -1736,7 +2473,12 @@
                 "Password": [
                     "20188127"
                 ]
-            }
+            },
+            "fulltext": "Fairy of the Spring",
+            "fullurl": "https://yugipedia.com/wiki/Fairy_of_the_Spring",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Fairy's Hand Mirror": {
             "printouts": {
@@ -1749,7 +2491,12 @@
                 "Password": [
                     "17653779"
                 ]
-            }
+            },
+            "fulltext": "Fairy's Hand Mirror",
+            "fullurl": "https://yugipedia.com/wiki/Fairy%27s_Hand_Mirror",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Fateful Hour": {
             "printouts": {
@@ -1762,7 +2509,12 @@
                 "Password": [
                     "00786906"
                 ]
-            }
+            },
+            "fulltext": "Fateful Hour",
+            "fullurl": "https://yugipedia.com/wiki/Fateful_Hour",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Fifth Hope": {
             "printouts": {
@@ -1775,7 +2527,12 @@
                 "Password": [
                     "55428811"
                 ]
-            }
+            },
+            "fulltext": "Fifth Hope",
+            "fullurl": "https://yugipedia.com/wiki/Fifth_Hope",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Final Gesture": {
             "printouts": {
@@ -1788,7 +2545,12 @@
                 "Password": [
                     "23269426"
                 ]
-            }
+            },
+            "fulltext": "Final Gesture",
+            "fullurl": "https://yugipedia.com/wiki/Final_Gesture",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Fine": {
             "printouts": {
@@ -1801,7 +2563,12 @@
                 "Password": [
                     "92595643"
                 ]
-            }
+            },
+            "fulltext": "Fine",
+            "fullurl": "https://yugipedia.com/wiki/Fine",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Fire Formation - Ingen": {
             "printouts": {
@@ -1812,7 +2579,12 @@
                 "Password": [
                     "29143457"
                 ]
-            }
+            },
+            "fulltext": "Fire Formation - Ingen",
+            "fullurl": "https://yugipedia.com/wiki/Fire_Formation_-_Ingen",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Forbidden Arts of the Gishki": {
             "printouts": {
@@ -1825,7 +2597,12 @@
                 "Password": [
                     "28429121"
                 ]
-            }
+            },
+            "fulltext": "Forbidden Arts of the Gishki",
+            "fullurl": "https://yugipedia.com/wiki/Forbidden_Arts_of_the_Gishki",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Forbidden Chalice": {
             "printouts": {
@@ -1838,7 +2615,12 @@
                 "Password": [
                     "25789292"
                 ]
-            }
+            },
+            "fulltext": "Forbidden Chalice",
+            "fullurl": "https://yugipedia.com/wiki/Forbidden_Chalice",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Forbidden Dress": {
             "printouts": {
@@ -1851,7 +2633,12 @@
                 "Password": [
                     "96864811"
                 ]
-            }
+            },
+            "fulltext": "Forbidden Dress",
+            "fullurl": "https://yugipedia.com/wiki/Forbidden_Dress",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Forbidden Lance": {
             "printouts": {
@@ -1864,7 +2651,12 @@
                 "Password": [
                     "27243130"
                 ]
-            }
+            },
+            "fulltext": "Forbidden Lance",
+            "fullurl": "https://yugipedia.com/wiki/Forbidden_Lance",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Forbidden Scripture": {
             "printouts": {
@@ -1877,7 +2669,12 @@
                 "Password": [
                     "54773234"
                 ]
-            }
+            },
+            "fulltext": "Forbidden Scripture",
+            "fullurl": "https://yugipedia.com/wiki/Forbidden_Scripture",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Forced Back": {
             "printouts": {
@@ -1890,7 +2687,12 @@
                 "Password": [
                     "43340443"
                 ]
-            }
+            },
+            "fulltext": "Forced Back",
+            "fullurl": "https://yugipedia.com/wiki/Forced_Back",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Forced Requisition": {
             "printouts": {
@@ -1903,7 +2705,12 @@
                 "Password": [
                     "74923978"
                 ]
-            }
+            },
+            "fulltext": "Forced Requisition",
+            "fullurl": "https://yugipedia.com/wiki/Forced_Requisition",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Fortune Lady Calling": {
             "printouts": {
@@ -1916,7 +2723,12 @@
                 "Password": [
                     "27895597"
                 ]
-            }
+            },
+            "fulltext": "Fortune Lady Calling",
+            "fullurl": "https://yugipedia.com/wiki/Fortune_Lady_Calling",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Fortune Lady Rewind": {
             "printouts": {
@@ -1929,7 +2741,12 @@
                 "Password": [
                     "84218527"
                 ]
-            }
+            },
+            "fulltext": "Fortune Lady Rewind",
+            "fullurl": "https://yugipedia.com/wiki/Fortune_Lady_Rewind",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Fortune's Future": {
             "printouts": {
@@ -1942,7 +2759,12 @@
                 "Password": [
                     "68663748"
                 ]
-            }
+            },
+            "fulltext": "Fortune's Future",
+            "fullurl": "https://yugipedia.com/wiki/Fortune%27s_Future",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Fusion Conscription": {
             "printouts": {
@@ -1955,7 +2777,12 @@
                 "Password": [
                     "17194258"
                 ]
-            }
+            },
+            "fulltext": "Fusion Conscription",
+            "fullurl": "https://yugipedia.com/wiki/Fusion_Conscription",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Gagagadraw": {
             "printouts": {
@@ -1968,7 +2795,12 @@
                 "Password": [
                     "21831848"
                 ]
-            }
+            },
+            "fulltext": "Gagagadraw",
+            "fullurl": "https://yugipedia.com/wiki/Gagagadraw",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Gagagaguard": {
             "printouts": {
@@ -1981,7 +2813,12 @@
                 "Password": [
                     "76972801"
                 ]
-            }
+            },
+            "fulltext": "Gagagaguard",
+            "fullurl": "https://yugipedia.com/wiki/Gagagaguard",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Gagagatag": {
             "printouts": {
@@ -1994,7 +2831,12 @@
                 "Password": [
                     "00917796"
                 ]
-            }
+            },
+            "fulltext": "Gagagatag",
+            "fullurl": "https://yugipedia.com/wiki/Gagagatag",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Gagagawind": {
             "printouts": {
@@ -2007,7 +2849,12 @@
                 "Password": [
                     "57782164"
                 ]
-            }
+            },
+            "fulltext": "Gagagawind",
+            "fullurl": "https://yugipedia.com/wiki/Gagagawind",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Galaxy Queen's Light": {
             "printouts": {
@@ -2020,7 +2867,12 @@
                 "Password": [
                     "52340274"
                 ]
-            }
+            },
+            "fulltext": "Galaxy Queen's Light",
+            "fullurl": "https://yugipedia.com/wiki/Galaxy_Queen%27s_Light",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Gather Your Mind": {
             "printouts": {
@@ -2033,7 +2885,12 @@
                 "Password": [
                     "07512044"
                 ]
-            }
+            },
+            "fulltext": "Gather Your Mind",
+            "fullurl": "https://yugipedia.com/wiki/Gather_Your_Mind",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Generaider Territory": {
             "printouts": {
@@ -2046,7 +2903,28 @@
                 "Password": [
                     "64325438"
                 ]
-            }
+            },
+            "fulltext": "Generaider Territory",
+            "fullurl": "https://yugipedia.com/wiki/Generaider_Territory",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Generation Next": {
+            "printouts": {
+                "English name": [
+                    "Generation Next"
+                ],
+                "Japanese name": [
+                    "ジェネレーション・ネクスト"
+                ],
+                "Password": []
+            },
+            "fulltext": "Generation Next",
+            "fullurl": "https://yugipedia.com/wiki/Generation_Next",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Generation Shift": {
             "printouts": {
@@ -2059,7 +2937,12 @@
                 "Password": [
                     "34460239"
                 ]
-            }
+            },
+            "fulltext": "Generation Shift",
+            "fullurl": "https://yugipedia.com/wiki/Generation_Shift",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Get Out!": {
             "printouts": {
@@ -2072,7 +2955,30 @@
                 "Password": [
                     "22373487"
                 ]
-            }
+            },
+            "fulltext": "Get Out!",
+            "fullurl": "https://yugipedia.com/wiki/Get_Out!",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Ghost Meets Girl - A Mayakashi's Story": {
+            "printouts": {
+                "English name": [
+                    "Ghost Meets Girl - A Mayakashi's Story"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>逢</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>華</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>麗</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>譚</rb><rp>（</rp><rt>たん</rt><rp>）</rp></ruby>－<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>魔妖</rb><rp>（</rp><rt>まやかし</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>語</rb><rp>（</rp><rt>がたり</rt><rp>）</rp></ruby>"
+                ],
+                "Password": [
+                    "83266006"
+                ]
+            },
+            "fulltext": "Ghost Meets Girl - A Mayakashi's Story",
+            "fullurl": "https://yugipedia.com/wiki/Ghost_Meets_Girl_-_A_Mayakashi%27s_Story",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ghost Meets Girl - A Shiranui's Story": {
             "printouts": {
@@ -2085,7 +2991,12 @@
                 "Password": [
                     "13965201"
                 ]
-            }
+            },
+            "fulltext": "Ghost Meets Girl - A Shiranui's Story",
+            "fullurl": "https://yugipedia.com/wiki/Ghost_Meets_Girl_-_A_Shiranui%27s_Story",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ghostrick Break": {
             "printouts": {
@@ -2098,7 +3009,12 @@
                 "Password": [
                     "80802524"
                 ]
-            }
+            },
+            "fulltext": "Ghostrick Break",
+            "fullurl": "https://yugipedia.com/wiki/Ghostrick_Break",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ghostrick Mansion": {
             "printouts": {
@@ -2111,7 +3027,12 @@
                 "Password": [
                     "99795159"
                 ]
-            }
+            },
+            "fulltext": "Ghostrick Mansion",
+            "fullurl": "https://yugipedia.com/wiki/Ghostrick_Mansion",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ghostrick Museum": {
             "printouts": {
@@ -2124,7 +3045,12 @@
                 "Password": [
                     "07617062"
                 ]
-            }
+            },
+            "fulltext": "Ghostrick Museum",
+            "fullurl": "https://yugipedia.com/wiki/Ghostrick_Museum",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ghostrick Night": {
             "printouts": {
@@ -2137,7 +3063,12 @@
                 "Password": [
                     "85827713"
                 ]
-            }
+            },
+            "fulltext": "Ghostrick Night",
+            "fullurl": "https://yugipedia.com/wiki/Ghostrick_Night",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ghostrick Parade": {
             "printouts": {
@@ -2150,7 +3081,12 @@
                 "Password": [
                     "29400787"
                 ]
-            }
+            },
+            "fulltext": "Ghostrick Parade",
+            "fullurl": "https://yugipedia.com/wiki/Ghostrick_Parade",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ghostrick Renovation": {
             "printouts": {
@@ -2163,7 +3099,12 @@
                 "Password": [
                     "61818176"
                 ]
-            }
+            },
+            "fulltext": "Ghostrick Renovation",
+            "fullurl": "https://yugipedia.com/wiki/Ghostrick_Renovation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ghostrick-Go-Round": {
             "printouts": {
@@ -2176,7 +3117,12 @@
                 "Password": [
                     "37055344"
                 ]
-            }
+            },
+            "fulltext": "Ghostrick-Go-Round",
+            "fullurl": "https://yugipedia.com/wiki/Ghostrick-Go-Round",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Gift of The Mystical Elf": {
             "printouts": {
@@ -2189,7 +3135,12 @@
                 "Password": [
                     "98299011"
                 ]
-            }
+            },
+            "fulltext": "Gift of The Mystical Elf",
+            "fullurl": "https://yugipedia.com/wiki/Gift_of_The_Mystical_Elf",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Gift of the Martyr": {
             "printouts": {
@@ -2202,7 +3153,12 @@
                 "Password": [
                     "98792570"
                 ]
-            }
+            },
+            "fulltext": "Gift of the Martyr",
+            "fullurl": "https://yugipedia.com/wiki/Gift_of_the_Martyr",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Glorious Illusion": {
             "printouts": {
@@ -2215,7 +3171,12 @@
                 "Password": [
                     "61962135"
                 ]
-            }
+            },
+            "fulltext": "Glorious Illusion",
+            "fullurl": "https://yugipedia.com/wiki/Glorious_Illusion",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Goblin Circus": {
             "printouts": {
@@ -2228,7 +3189,12 @@
                 "Password": [
                     "18658572"
                 ]
-            }
+            },
+            "fulltext": "Goblin Circus",
+            "fullurl": "https://yugipedia.com/wiki/Goblin_Circus",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Goddess Skuld's Oracle": {
             "printouts": {
@@ -2241,7 +3207,12 @@
                 "Password": [
                     "38576155"
                 ]
-            }
+            },
+            "fulltext": "Goddess Skuld's Oracle",
+            "fullurl": "https://yugipedia.com/wiki/Goddess_Skuld%27s_Oracle",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Goddess Urd's Verdict": {
             "printouts": {
@@ -2254,7 +3225,12 @@
                 "Password": [
                     "91969909"
                 ]
-            }
+            },
+            "fulltext": "Goddess Urd's Verdict",
+            "fullurl": "https://yugipedia.com/wiki/Goddess_Urd%27s_Verdict",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Goddess Verdande's Guidance": {
             "printouts": {
@@ -2267,7 +3243,12 @@
                 "Password": [
                     "64961254"
                 ]
-            }
+            },
+            "fulltext": "Goddess Verdande's Guidance",
+            "fullurl": "https://yugipedia.com/wiki/Goddess_Verdande%27s_Guidance",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Gold Moon Coin": {
             "printouts": {
@@ -2280,7 +3261,12 @@
                 "Password": [
                     "43528009"
                 ]
-            }
+            },
+            "fulltext": "Gold Moon Coin",
+            "fullurl": "https://yugipedia.com/wiki/Gold_Moon_Coin",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Graceful Charity": {
             "printouts": {
@@ -2293,7 +3279,12 @@
                 "Password": [
                     "79571449"
                 ]
-            }
+            },
+            "fulltext": "Graceful Charity",
+            "fullurl": "https://yugipedia.com/wiki/Graceful_Charity",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Grave Lure": {
             "printouts": {
@@ -2306,7 +3297,12 @@
                 "Password": [
                     "57270476"
                 ]
-            }
+            },
+            "fulltext": "Grave Lure",
+            "fullurl": "https://yugipedia.com/wiki/Grave_Lure",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "The Grave of Enkindling": {
             "printouts": {
@@ -2319,7 +3315,12 @@
                 "Password": [
                     "84136000"
                 ]
-            }
+            },
+            "fulltext": "The Grave of Enkindling",
+            "fullurl": "https://yugipedia.com/wiki/The_Grave_of_Enkindling",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Guarded Treasure": {
             "printouts": {
@@ -2332,7 +3333,12 @@
                 "Password": [
                     "17052477"
                 ]
-            }
+            },
+            "fulltext": "Guarded Treasure",
+            "fullurl": "https://yugipedia.com/wiki/Guarded_Treasure",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Guardragon Reincarnation": {
             "printouts": {
@@ -2345,7 +3351,12 @@
                 "Password": [
                     "40003819"
                 ]
-            }
+            },
+            "fulltext": "Guardragon Reincarnation",
+            "fullurl": "https://yugipedia.com/wiki/Guardragon_Reincarnation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Guardragon Shield": {
             "printouts": {
@@ -2358,7 +3369,12 @@
                 "Password": [
                     "50186558"
                 ]
-            }
+            },
+            "fulltext": "Guardragon Shield",
+            "fullurl": "https://yugipedia.com/wiki/Guardragon_Shield",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Gust": {
             "printouts": {
@@ -2371,7 +3387,12 @@
                 "Password": [
                     "73079365"
                 ]
-            }
+            },
+            "fulltext": "Gust",
+            "fullurl": "https://yugipedia.com/wiki/Gust",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "HERO's Bond": {
             "printouts": {
@@ -2384,20 +3405,12 @@
                 "Password": [
                     "76442616"
                 ]
-            }
-        },
-        "Hakai Homily": {
-            "printouts": {
-                "English name": [
-                    "Hakai Homily"
-                ],
-                "Japanese name": [
-                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>械</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>唱</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>"
-                ],
-                "Password": [
-                    "53417695"
-                ]
-            }
+            },
+            "fulltext": "HERO's Bond",
+            "fullurl": "https://yugipedia.com/wiki/HERO%27s_Bond",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Half Counter": {
             "printouts": {
@@ -2410,7 +3423,12 @@
                 "Password": [
                     "06799227"
                 ]
-            }
+            },
+            "fulltext": "Half Counter",
+            "fullurl": "https://yugipedia.com/wiki/Half_Counter",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Hallowed Life Barrier": {
             "printouts": {
@@ -2423,7 +3441,12 @@
                 "Password": [
                     "88789641"
                 ]
-            }
+            },
+            "fulltext": "Hallowed Life Barrier",
+            "fullurl": "https://yugipedia.com/wiki/Hallowed_Life_Barrier",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Harpie Lady Elegance": {
             "printouts": {
@@ -2436,7 +3459,12 @@
                 "Password": [
                     "65664792"
                 ]
-            }
+            },
+            "fulltext": "Harpie Lady Elegance",
+            "fullurl": "https://yugipedia.com/wiki/Harpie_Lady_Elegance",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Harpie's Feather Rest": {
             "printouts": {
@@ -2449,7 +3477,12 @@
                 "Password": [
                     "39275698"
                 ]
-            }
+            },
+            "fulltext": "Harpie's Feather Rest",
+            "fullurl": "https://yugipedia.com/wiki/Harpie%27s_Feather_Rest",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Harpies' Hunting Ground": {
             "printouts": {
@@ -2462,7 +3495,30 @@
                 "Password": [
                     "75782277"
                 ]
-            }
+            },
+            "fulltext": "Harpies' Hunting Ground",
+            "fullurl": "https://yugipedia.com/wiki/Harpies%27_Hunting_Ground",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Head Judging": {
+            "printouts": {
+                "English name": [
+                    "Head Judging"
+                ],
+                "Japanese name": [
+                    "ヘッド・ジャッジング"
+                ],
+                "Password": [
+                    "38143903"
+                ]
+            },
+            "fulltext": "Head Judging",
+            "fullurl": "https://yugipedia.com/wiki/Head_Judging",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Heritage of the Chalice": {
             "printouts": {
@@ -2475,7 +3531,12 @@
                 "Password": [
                     "51412776"
                 ]
-            }
+            },
+            "fulltext": "Heritage of the Chalice",
+            "fullurl": "https://yugipedia.com/wiki/Heritage_of_the_Chalice",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Hi-Speed Re-Level": {
             "printouts": {
@@ -2488,7 +3549,12 @@
                 "Password": [
                     "15555120"
                 ]
-            }
+            },
+            "fulltext": "Hi-Speed Re-Level",
+            "fullurl": "https://yugipedia.com/wiki/Hi-Speed_Re-Level",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Hippo Carnival": {
             "printouts": {
@@ -2501,7 +3567,12 @@
                 "Password": [
                     "18027138"
                 ]
-            }
+            },
+            "fulltext": "Hippo Carnival",
+            "fullurl": "https://yugipedia.com/wiki/Hippo_Carnival",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Hysteric Party": {
             "printouts": {
@@ -2514,7 +3585,12 @@
                 "Password": [
                     "77778835"
                 ]
-            }
+            },
+            "fulltext": "Hysteric Party",
+            "fullurl": "https://yugipedia.com/wiki/Hysteric_Party",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Hysteric Sign": {
             "printouts": {
@@ -2527,7 +3603,12 @@
                 "Password": [
                     "19337371"
                 ]
-            }
+            },
+            "fulltext": "Hysteric Sign",
+            "fullurl": "https://yugipedia.com/wiki/Hysteric_Sign",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Impenetrable Attack": {
             "printouts": {
@@ -2540,7 +3621,12 @@
                 "Password": [
                     "86778566"
                 ]
-            }
+            },
+            "fulltext": "Impenetrable Attack",
+            "fullurl": "https://yugipedia.com/wiki/Impenetrable_Attack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Incarnated Machine Angel": {
             "printouts": {
@@ -2553,7 +3639,12 @@
                 "Password": [
                     "91946859"
                 ]
-            }
+            },
+            "fulltext": "Incarnated Machine Angel",
+            "fullurl": "https://yugipedia.com/wiki/Incarnated_Machine_Angel",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Inherited Fortune": {
             "printouts": {
@@ -2566,7 +3657,12 @@
                 "Password": [
                     "20057949"
                 ]
-            }
+            },
+            "fulltext": "Inherited Fortune",
+            "fullurl": "https://yugipedia.com/wiki/Inherited_Fortune",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Inspection": {
             "printouts": {
@@ -2579,7 +3675,12 @@
                 "Password": [
                     "16227556"
                 ]
-            }
+            },
+            "fulltext": "Inspection",
+            "fullurl": "https://yugipedia.com/wiki/Inspection",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Jewels of the Valiant": {
             "printouts": {
@@ -2592,7 +3693,12 @@
                 "Password": [
                     "72710085"
                 ]
-            }
+            },
+            "fulltext": "Jewels of the Valiant",
+            "fullurl": "https://yugipedia.com/wiki/Jewels_of_the_Valiant",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Junk Puppet": {
             "printouts": {
@@ -2605,7 +3711,12 @@
                 "Password": [
                     "67968069"
                 ]
-            }
+            },
+            "fulltext": "Junk Puppet",
+            "fullurl": "https://yugipedia.com/wiki/Junk_Puppet",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Karma Cut": {
             "printouts": {
@@ -2618,7 +3729,12 @@
                 "Password": [
                     "71587526"
                 ]
-            }
+            },
+            "fulltext": "Karma Cut",
+            "fullurl": "https://yugipedia.com/wiki/Karma_Cut",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Kozmo Lightsword": {
             "printouts": {
@@ -2631,7 +3747,12 @@
                 "Password": [
                     "82270047"
                 ]
-            }
+            },
+            "fulltext": "Kozmo Lightsword",
+            "fullurl": "https://yugipedia.com/wiki/Kozmo_Lightsword",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Kozmojo": {
             "printouts": {
@@ -2644,7 +3765,12 @@
                 "Password": [
                     "90452877"
                 ]
-            }
+            },
+            "fulltext": "Kozmojo",
+            "fullurl": "https://yugipedia.com/wiki/Kozmojo",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Kozmourning": {
             "printouts": {
@@ -2657,7 +3783,12 @@
                 "Password": [
                     "12385638"
                 ]
-            }
+            },
+            "fulltext": "Kozmourning",
+            "fullurl": "https://yugipedia.com/wiki/Kozmourning",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Last Chapter of the Noble Knights": {
             "printouts": {
@@ -2670,7 +3801,12 @@
                 "Password": [
                     "66970385"
                 ]
-            }
+            },
+            "fulltext": "Last Chapter of the Noble Knights",
+            "fullurl": "https://yugipedia.com/wiki/Last_Chapter_of_the_Noble_Knights",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Last Day of Witch": {
             "printouts": {
@@ -2683,7 +3819,12 @@
                 "Password": [
                     "90330453"
                 ]
-            }
+            },
+            "fulltext": "Last Day of Witch",
+            "fullurl": "https://yugipedia.com/wiki/Last_Day_of_Witch",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Last Hope of Nephthys": {
             "printouts": {
@@ -2696,7 +3837,12 @@
                 "Password": [
                     "50847759"
                 ]
-            }
+            },
+            "fulltext": "Last Hope of Nephthys",
+            "fullurl": "https://yugipedia.com/wiki/Last_Hope_of_Nephthys",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ledger of Legerdemain": {
             "printouts": {
@@ -2709,7 +3855,12 @@
                 "Password": [
                     "56256517"
                 ]
-            }
+            },
+            "fulltext": "Ledger of Legerdemain",
+            "fullurl": "https://yugipedia.com/wiki/Ledger_of_Legerdemain",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Leeching the Light": {
             "printouts": {
@@ -2722,7 +3873,12 @@
                 "Password": [
                     "90263923"
                 ]
-            }
+            },
+            "fulltext": "Leeching the Light",
+            "fullurl": "https://yugipedia.com/wiki/Leeching_the_Light",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Lightsworn Barrier": {
             "printouts": {
@@ -2735,7 +3891,12 @@
                 "Password": [
                     "22201234"
                 ]
-            }
+            },
+            "fulltext": "Lightsworn Barrier",
+            "fullurl": "https://yugipedia.com/wiki/Lightsworn_Barrier",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Lightsworn Judgment": {
             "printouts": {
@@ -2748,7 +3909,12 @@
                 "Password": [
                     "66194206"
                 ]
-            }
+            },
+            "fulltext": "Lightsworn Judgment",
+            "fullurl": "https://yugipedia.com/wiki/Lightsworn_Judgment",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Lightsworn Sanctuary": {
             "printouts": {
@@ -2761,7 +3927,12 @@
                 "Password": [
                     "52665542"
                 ]
-            }
+            },
+            "fulltext": "Lightsworn Sanctuary",
+            "fullurl": "https://yugipedia.com/wiki/Lightsworn_Sanctuary",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Lineage of Destruction": {
             "printouts": {
@@ -2774,7 +3945,12 @@
                 "Password": [
                     "29307554"
                 ]
-            }
+            },
+            "fulltext": "Lineage of Destruction",
+            "fullurl": "https://yugipedia.com/wiki/Lineage_of_Destruction",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Link Bound": {
             "printouts": {
@@ -2787,7 +3963,12 @@
                 "Password": [
                     "51335426"
                 ]
-            }
+            },
+            "fulltext": "Link Bound",
+            "fullurl": "https://yugipedia.com/wiki/Link_Bound",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Link Party": {
             "printouts": {
@@ -2800,7 +3981,12 @@
                 "Password": [
                     "68957925"
                 ]
-            }
+            },
+            "fulltext": "Link Party",
+            "fullurl": "https://yugipedia.com/wiki/Link_Party",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Lucky Loan": {
             "printouts": {
@@ -2813,7 +3999,12 @@
                 "Password": [
                     "67955331"
                 ]
-            }
+            },
+            "fulltext": "Lucky Loan",
+            "fullurl": "https://yugipedia.com/wiki/Lucky_Loan",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Lumenize": {
             "printouts": {
@@ -2826,7 +4017,12 @@
                 "Password": [
                     "57115864"
                 ]
-            }
+            },
+            "fulltext": "Lumenize",
+            "fullurl": "https://yugipedia.com/wiki/Lumenize",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Lunalight Fusion": {
             "printouts": {
@@ -2839,7 +4035,12 @@
                 "Password": [
                     "87931906"
                 ]
-            }
+            },
+            "fulltext": "Lunalight Fusion",
+            "fullurl": "https://yugipedia.com/wiki/Lunalight_Fusion",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Lunalight Reincarnation Dance": {
             "printouts": {
@@ -2852,7 +4053,12 @@
                 "Password": [
                     "11193246"
                 ]
-            }
+            },
+            "fulltext": "Lunalight Reincarnation Dance",
+            "fullurl": "https://yugipedia.com/wiki/Lunalight_Reincarnation_Dance",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Lunalight Serenade Dance": {
             "printouts": {
@@ -2865,7 +4071,12 @@
                 "Password": [
                     "13935001"
                 ]
-            }
+            },
+            "fulltext": "Lunalight Serenade Dance",
+            "fullurl": "https://yugipedia.com/wiki/Lunalight_Serenade_Dance",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Machine Angel Absolute Ritual": {
             "printouts": {
@@ -2878,7 +4089,12 @@
                 "Password": [
                     "11398951"
                 ]
-            }
+            },
+            "fulltext": "Machine Angel Absolute Ritual",
+            "fullurl": "https://yugipedia.com/wiki/Machine_Angel_Absolute_Ritual",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Machine Angel Ritual": {
             "printouts": {
@@ -2891,7 +4107,12 @@
                 "Password": [
                     "39996157"
                 ]
-            }
+            },
+            "fulltext": "Machine Angel Ritual",
+            "fullurl": "https://yugipedia.com/wiki/Machine_Angel_Ritual",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Madolche Chateau": {
             "printouts": {
@@ -2904,7 +4125,12 @@
                 "Password": [
                     "14001430"
                 ]
-            }
+            },
+            "fulltext": "Madolche Chateau",
+            "fullurl": "https://yugipedia.com/wiki/Madolche_Chateau",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Madolche Lesson": {
             "printouts": {
@@ -2917,7 +4143,12 @@
                 "Password": [
                     "12940613"
                 ]
-            }
+            },
+            "fulltext": "Madolche Lesson",
+            "fullurl": "https://yugipedia.com/wiki/Madolche_Lesson",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Madolche Nights": {
             "printouts": {
@@ -2930,7 +4161,12 @@
                 "Password": [
                     "79759367"
                 ]
-            }
+            },
+            "fulltext": "Madolche Nights",
+            "fullurl": "https://yugipedia.com/wiki/Madolche_Nights",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Madolche Tea Break": {
             "printouts": {
@@ -2943,7 +4179,12 @@
                 "Password": [
                     "75833426"
                 ]
-            }
+            },
+            "fulltext": "Madolche Tea Break",
+            "fullurl": "https://yugipedia.com/wiki/Madolche_Tea_Break",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Madolche Ticket": {
             "printouts": {
@@ -2956,7 +4197,12 @@
                 "Password": [
                     "60470713"
                 ]
-            }
+            },
+            "fulltext": "Madolche Ticket",
+            "fullurl": "https://yugipedia.com/wiki/Madolche_Ticket",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Madolche Waltz": {
             "printouts": {
@@ -2969,7 +4215,12 @@
                 "Password": [
                     "48439321"
                 ]
-            }
+            },
+            "fulltext": "Madolche Waltz",
+            "fullurl": "https://yugipedia.com/wiki/Madolche_Waltz",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Madolchepalooza": {
             "printouts": {
@@ -2982,7 +4233,12 @@
                 "Password": [
                     "23681456"
                 ]
-            }
+            },
+            "fulltext": "Madolchepalooza",
+            "fullurl": "https://yugipedia.com/wiki/Madolchepalooza",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Magical Musket - Desperado": {
             "printouts": {
@@ -2995,7 +4251,12 @@
                 "Password": [
                     "20745268"
                 ]
-            }
+            },
+            "fulltext": "Magical Musket - Desperado",
+            "fullurl": "https://yugipedia.com/wiki/Magical_Musket_-_Desperado",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Magician's Restage": {
             "printouts": {
@@ -3008,7 +4269,12 @@
                 "Password": [
                     "40252269"
                 ]
-            }
+            },
+            "fulltext": "Magician's Restage",
+            "fullurl": "https://yugipedia.com/wiki/Magician%27s_Restage",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Magicians' Combination": {
             "printouts": {
@@ -3019,7 +4285,12 @@
                     "マジシャンズ・コンビネーション"
                 ],
                 "Password": []
-            }
+            },
+            "fulltext": "Magicians' Combination",
+            "fullurl": "https://yugipedia.com/wiki/Magicians%27_Combination",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Magicians' Defense": {
             "printouts": {
@@ -3032,7 +4303,12 @@
                 "Password": [
                     "89448140"
                 ]
-            }
+            },
+            "fulltext": "Magicians' Defense",
+            "fullurl": "https://yugipedia.com/wiki/Magicians%27_Defense",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Magnificent Machine Angel": {
             "printouts": {
@@ -3045,7 +4321,12 @@
                 "Password": [
                     "27331568"
                 ]
-            }
+            },
+            "fulltext": "Magnificent Machine Angel",
+            "fullurl": "https://yugipedia.com/wiki/Magnificent_Machine_Angel",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Malevolent Nuzzler": {
             "printouts": {
@@ -3058,7 +4339,12 @@
                 "Password": [
                     "99597615"
                 ]
-            }
+            },
+            "fulltext": "Malevolent Nuzzler",
+            "fullurl": "https://yugipedia.com/wiki/Malevolent_Nuzzler",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "March of the Dark Brigade": {
             "printouts": {
@@ -3071,7 +4357,12 @@
                 "Password": [
                     "24037702"
                 ]
-            }
+            },
+            "fulltext": "March of the Dark Brigade",
+            "fullurl": "https://yugipedia.com/wiki/March_of_the_Dark_Brigade",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Marincess Battle Ocean": {
             "printouts": {
@@ -3084,7 +4375,12 @@
                 "Password": [
                     "91027843"
                 ]
-            }
+            },
+            "fulltext": "Marincess Battle Ocean",
+            "fullurl": "https://yugipedia.com/wiki/Marincess_Battle_Ocean",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Marincess Cascade": {
             "printouts": {
@@ -3097,7 +4393,12 @@
                 "Password": [
                     "27012990"
                 ]
-            }
+            },
+            "fulltext": "Marincess Cascade",
+            "fullurl": "https://yugipedia.com/wiki/Marincess_Cascade",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Marincess Current": {
             "printouts": {
@@ -3110,7 +4411,12 @@
                 "Password": [
                     "84430165"
                 ]
-            }
+            },
+            "fulltext": "Marincess Current",
+            "fullurl": "https://yugipedia.com/wiki/Marincess_Current",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Marincess Wave": {
             "printouts": {
@@ -3123,7 +4429,12 @@
                 "Password": [
                     "52945066"
                 ]
-            }
+            },
+            "fulltext": "Marincess Wave",
+            "fullurl": "https://yugipedia.com/wiki/Marincess_Wave",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Mayakashi Metamorphosis": {
             "printouts": {
@@ -3136,7 +4447,12 @@
                 "Password": [
                     "39753577"
                 ]
-            }
+            },
+            "fulltext": "Mayakashi Metamorphosis",
+            "fullurl": "https://yugipedia.com/wiki/Mayakashi_Metamorphosis",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Mayakashi Return": {
             "printouts": {
@@ -3149,7 +4465,12 @@
                 "Password": [
                     "02364438"
                 ]
-            }
+            },
+            "fulltext": "Mayakashi Return",
+            "fullurl": "https://yugipedia.com/wiki/Mayakashi_Return",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Mayakashi Winter": {
             "printouts": {
@@ -3162,7 +4483,12 @@
                 "Password": [
                     "51225407"
                 ]
-            }
+            },
+            "fulltext": "Mayakashi Winter",
+            "fullurl": "https://yugipedia.com/wiki/Mayakashi_Winter",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Melodious Illusion": {
             "printouts": {
@@ -3175,7 +4501,12 @@
                 "Password": [
                     "63804637"
                 ]
-            }
+            },
+            "fulltext": "Melodious Illusion",
+            "fullurl": "https://yugipedia.com/wiki/Melodious_Illusion",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Merciful Machine Angel": {
             "printouts": {
@@ -3188,7 +4519,12 @@
                 "Password": [
                     "64442155"
                 ]
-            }
+            },
+            "fulltext": "Merciful Machine Angel",
+            "fullurl": "https://yugipedia.com/wiki/Merciful_Machine_Angel",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Metalfoes Fusion": {
             "printouts": {
@@ -3201,7 +4537,12 @@
                 "Password": [
                     "73594093"
                 ]
-            }
+            },
+            "fulltext": "Metalfoes Fusion",
+            "fullurl": "https://yugipedia.com/wiki/Metalfoes_Fusion",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Miracle Stone": {
             "printouts": {
@@ -3214,7 +4555,30 @@
                 "Password": [
                     "31461282"
                 ]
-            }
+            },
+            "fulltext": "Miracle Stone",
+            "fullurl": "https://yugipedia.com/wiki/Miracle_Stone",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Mirror Match (card)": {
+            "printouts": {
+                "English name": [
+                    "Mirror Match"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>相</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>視</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>相</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>殺</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby>"
+                ],
+                "Password": [
+                    "75364199"
+                ]
+            },
+            "fulltext": "Mirror Match (card)",
+            "fullurl": "https://yugipedia.com/wiki/Mirror_Match_(card)",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Mischief of the Gnomes": {
             "printouts": {
@@ -3227,7 +4591,12 @@
                 "Password": [
                     "00164710"
                 ]
-            }
+            },
+            "fulltext": "Mischief of the Gnomes",
+            "fullurl": "https://yugipedia.com/wiki/Mischief_of_the_Gnomes",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Mischief of the Time Goddess": {
             "printouts": {
@@ -3240,7 +4609,12 @@
                 "Password": [
                     "92182447"
                 ]
-            }
+            },
+            "fulltext": "Mischief of the Time Goddess",
+            "fullurl": "https://yugipedia.com/wiki/Mischief_of_the_Time_Goddess",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Mischief of the Yokai": {
             "printouts": {
@@ -3253,7 +4627,12 @@
                 "Password": [
                     "29795530"
                 ]
-            }
+            },
+            "fulltext": "Mischief of the Yokai",
+            "fullurl": "https://yugipedia.com/wiki/Mischief_of_the_Yokai",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Mustering of the Dark Scorpions": {
             "printouts": {
@@ -3266,7 +4645,12 @@
                 "Password": [
                     "68191243"
                 ]
-            }
+            },
+            "fulltext": "Mustering of the Dark Scorpions",
+            "fullurl": "https://yugipedia.com/wiki/Mustering_of_the_Dark_Scorpions",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Mystical Refpanel": {
             "printouts": {
@@ -3279,7 +4663,12 @@
                 "Password": [
                     "35563539"
                 ]
-            }
+            },
+            "fulltext": "Mystical Refpanel",
+            "fullurl": "https://yugipedia.com/wiki/Mystical_Refpanel",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "NEX": {
             "printouts": {
@@ -3292,7 +4681,12 @@
                 "Password": [
                     "81913510"
                 ]
-            }
+            },
+            "fulltext": "NEX",
+            "fullurl": "https://yugipedia.com/wiki/NEX",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "NEXT": {
             "printouts": {
@@ -3305,7 +4699,12 @@
                 "Password": [
                     "74414885"
                 ]
-            }
+            },
+            "fulltext": "NEXT",
+            "fullurl": "https://yugipedia.com/wiki/NEXT",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Nekroz Cycle": {
             "printouts": {
@@ -3318,7 +4717,12 @@
                 "Password": [
                     "97211663"
                 ]
-            }
+            },
+            "fulltext": "Nekroz Cycle",
+            "fullurl": "https://yugipedia.com/wiki/Nekroz_Cycle",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Nephe Shaddoll Fusion": {
             "printouts": {
@@ -3331,7 +4735,12 @@
                 "Password": [
                     "60226558"
                 ]
-            }
+            },
+            "fulltext": "Nephe Shaddoll Fusion",
+            "fullurl": "https://yugipedia.com/wiki/Nephe_Shaddoll_Fusion",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Next to be Lost": {
             "printouts": {
@@ -3344,7 +4753,12 @@
                 "Password": [
                     "07076131"
                 ]
-            }
+            },
+            "fulltext": "Next to be Lost",
+            "fullurl": "https://yugipedia.com/wiki/Next_to_be_Lost",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ninjitsu Art of Shadow Sealing": {
             "printouts": {
@@ -3357,7 +4771,12 @@
                 "Password": [
                     "13629812"
                 ]
-            }
+            },
+            "fulltext": "Ninjitsu Art of Shadow Sealing",
+            "fullurl": "https://yugipedia.com/wiki/Ninjitsu_Art_of_Shadow_Sealing",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ninjitsu Art of Transformation": {
             "printouts": {
@@ -3370,7 +4789,12 @@
                 "Password": [
                     "70861343"
                 ]
-            }
+            },
+            "fulltext": "Ninjitsu Art of Transformation",
+            "fullurl": "https://yugipedia.com/wiki/Ninjitsu_Art_of_Transformation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Non-Spellcasting Area": {
             "printouts": {
@@ -3383,7 +4807,12 @@
                 "Password": [
                     "20065549"
                 ]
-            }
+            },
+            "fulltext": "Non-Spellcasting Area",
+            "fullurl": "https://yugipedia.com/wiki/Non-Spellcasting_Area",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Novox's Prayer": {
             "printouts": {
@@ -3396,7 +4825,12 @@
                 "Password": [
                     "43694075"
                 ]
-            }
+            },
+            "fulltext": "Novox's Prayer",
+            "fullurl": "https://yugipedia.com/wiki/Novox%27s_Prayer",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Numinous Healer": {
             "printouts": {
@@ -3409,7 +4843,12 @@
                 "Password": [
                     "02130625"
                 ]
-            }
+            },
+            "fulltext": "Numinous Healer",
+            "fullurl": "https://yugipedia.com/wiki/Numinous_Healer",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Oh Tokenbaum!": {
             "printouts": {
@@ -3422,7 +4861,12 @@
                 "Password": [
                     "97173708"
                 ]
-            }
+            },
+            "fulltext": "Oh Tokenbaum!",
+            "fullurl": "https://yugipedia.com/wiki/Oh_Tokenbaum!",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Orcust Crescendo": {
             "printouts": {
@@ -3435,7 +4879,12 @@
                 "Password": [
                     "00703897"
                 ]
-            }
+            },
+            "fulltext": "Orcust Crescendo",
+            "fullurl": "https://yugipedia.com/wiki/Orcust_Crescendo",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Orcustrated Core": {
             "printouts": {
@@ -3448,7 +4897,12 @@
                 "Password": [
                     "55051920"
                 ]
-            }
+            },
+            "fulltext": "Orcustrated Core",
+            "fullurl": "https://yugipedia.com/wiki/Orcustrated_Core",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Orcustrated Einsatz": {
             "printouts": {
@@ -3461,7 +4915,12 @@
                 "Password": [
                     "62834295"
                 ]
-            }
+            },
+            "fulltext": "Orcustrated Einsatz",
+            "fullurl": "https://yugipedia.com/wiki/Orcustrated_Einsatz",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Orcustrated Release": {
             "printouts": {
@@ -3474,7 +4933,12 @@
                 "Password": [
                     "47171541"
                 ]
-            }
+            },
+            "fulltext": "Orcustrated Release",
+            "fullurl": "https://yugipedia.com/wiki/Orcustrated_Release",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Orcustrated Return": {
             "printouts": {
@@ -3487,7 +4951,12 @@
                 "Password": [
                     "26845680"
                 ]
-            }
+            },
+            "fulltext": "Orcustrated Return",
+            "fullurl": "https://yugipedia.com/wiki/Orcustrated_Return",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Packet Swap": {
             "printouts": {
@@ -3500,7 +4969,12 @@
                 "Password": [
                     "75153328"
                 ]
-            }
+            },
+            "fulltext": "Packet Swap",
+            "fullurl": "https://yugipedia.com/wiki/Packet_Swap",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Painful Choice": {
             "printouts": {
@@ -3513,7 +4987,12 @@
                 "Password": [
                     "74191942"
                 ]
-            }
+            },
+            "fulltext": "Painful Choice",
+            "fullurl": "https://yugipedia.com/wiki/Painful_Choice",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Parthian Shot": {
             "printouts": {
@@ -3526,7 +5005,12 @@
                 "Password": [
                     "29185231"
                 ]
-            }
+            },
+            "fulltext": "Parthian Shot",
+            "fullurl": "https://yugipedia.com/wiki/Parthian_Shot",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Peeking Goblin": {
             "printouts": {
@@ -3539,7 +5023,12 @@
                 "Password": [
                     "52263685"
                 ]
-            }
+            },
+            "fulltext": "Peeking Goblin",
+            "fullurl": "https://yugipedia.com/wiki/Peeking_Goblin",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Perform Puppet": {
             "printouts": {
@@ -3552,7 +5041,12 @@
                 "Password": [
                     "06471156"
                 ]
-            }
+            },
+            "fulltext": "Perform Puppet",
+            "fullurl": "https://yugipedia.com/wiki/Perform_Puppet",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Performapal Call": {
             "printouts": {
@@ -3565,7 +5059,12 @@
                 "Password": [
                     "22765132"
                 ]
-            }
+            },
+            "fulltext": "Performapal Call",
+            "fullurl": "https://yugipedia.com/wiki/Performapal_Call",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Phoenix Wing Wind Blast": {
             "printouts": {
@@ -3578,7 +5077,12 @@
                 "Password": [
                     "63356631"
                 ]
-            }
+            },
+            "fulltext": "Phoenix Wing Wind Blast",
+            "fullurl": "https://yugipedia.com/wiki/Phoenix_Wing_Wind_Blast",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Pikeru's Circle of Enchantment": {
             "printouts": {
@@ -3591,7 +5095,12 @@
                 "Password": [
                     "74270067"
                 ]
-            }
+            },
+            "fulltext": "Pikeru's Circle of Enchantment",
+            "fullurl": "https://yugipedia.com/wiki/Pikeru%27s_Circle_of_Enchantment",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Pikeru's Second Sight": {
             "printouts": {
@@ -3604,7 +5113,12 @@
                 "Password": [
                     "58015506"
                 ]
-            }
+            },
+            "fulltext": "Pikeru's Second Sight",
+            "fullurl": "https://yugipedia.com/wiki/Pikeru%27s_Second_Sight",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Pixie Ring": {
             "printouts": {
@@ -3617,7 +5131,12 @@
                 "Password": [
                     "46502013"
                 ]
-            }
+            },
+            "fulltext": "Pixie Ring",
+            "fullurl": "https://yugipedia.com/wiki/Pixie_Ring",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Plant Food Chain": {
             "printouts": {
@@ -3630,7 +5149,12 @@
                 "Password": [
                     "54451023"
                 ]
-            }
+            },
+            "fulltext": "Plant Food Chain",
+            "fullurl": "https://yugipedia.com/wiki/Plant_Food_Chain",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Poisonous Winds": {
             "printouts": {
@@ -3643,7 +5167,12 @@
                 "Password": [
                     "95561280"
                 ]
-            }
+            },
+            "fulltext": "Poisonous Winds",
+            "fullurl": "https://yugipedia.com/wiki/Poisonous_Winds",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Pop-Up": {
             "printouts": {
@@ -3656,7 +5185,12 @@
                 "Password": [
                     "15248873"
                 ]
-            }
+            },
+            "fulltext": "Pop-Up",
+            "fullurl": "https://yugipedia.com/wiki/Pop-Up",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Possessed Awakening": {
             "printouts": {
@@ -3669,7 +5203,12 @@
                 "Password": [
                     "62256492"
                 ]
-            }
+            },
+            "fulltext": "Possessed Awakening",
+            "fullurl": "https://yugipedia.com/wiki/Possessed_Awakening",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Pot of Generosity": {
             "printouts": {
@@ -3682,7 +5221,12 @@
                 "Password": [
                     "70278545"
                 ]
-            }
+            },
+            "fulltext": "Pot of Generosity",
+            "fullurl": "https://yugipedia.com/wiki/Pot_of_Generosity",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Premature Return": {
             "printouts": {
@@ -3695,7 +5239,12 @@
                 "Password": [
                     "95083785"
                 ]
-            }
+            },
+            "fulltext": "Premature Return",
+            "fullurl": "https://yugipedia.com/wiki/Premature_Return",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Prevention Star": {
             "printouts": {
@@ -3708,7 +5257,12 @@
                 "Password": [
                     "94303232"
                 ]
-            }
+            },
+            "fulltext": "Prevention Star",
+            "fullurl": "https://yugipedia.com/wiki/Prevention_Star",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Prohibition": {
             "printouts": {
@@ -3721,7 +5275,12 @@
                 "Password": [
                     "43711255"
                 ]
-            }
+            },
+            "fulltext": "Prohibition",
+            "fullurl": "https://yugipedia.com/wiki/Prohibition",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Psychic Fervor": {
             "printouts": {
@@ -3734,7 +5293,12 @@
                 "Password": [
                     "26773909"
                 ]
-            }
+            },
+            "fulltext": "Psychic Fervor",
+            "fullurl": "https://yugipedia.com/wiki/Psychic_Fervor",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Psychic Rejuvenation": {
             "printouts": {
@@ -3747,7 +5311,12 @@
                 "Password": [
                     "21488686"
                 ]
-            }
+            },
+            "fulltext": "Psychic Rejuvenation",
+            "fullurl": "https://yugipedia.com/wiki/Psychic_Rejuvenation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Psychokinesis": {
             "printouts": {
@@ -3760,7 +5329,12 @@
                 "Password": [
                     "32180819"
                 ]
-            }
+            },
+            "fulltext": "Psychokinesis",
+            "fullurl": "https://yugipedia.com/wiki/Psychokinesis",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Puppet Parade": {
             "printouts": {
@@ -3773,7 +5347,12 @@
                 "Password": [
                     "32875265"
                 ]
-            }
+            },
+            "fulltext": "Puppet Parade",
+            "fullurl": "https://yugipedia.com/wiki/Puppet_Parade",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Purushaddoll Aeon": {
             "printouts": {
@@ -3786,7 +5365,12 @@
                 "Password": [
                     "78942513"
                 ]
-            }
+            },
+            "fulltext": "Purushaddoll Aeon",
+            "fullurl": "https://yugipedia.com/wiki/Purushaddoll_Aeon",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Quarantine": {
             "printouts": {
@@ -3799,7 +5383,12 @@
                 "Password": [
                     "90519313"
                 ]
-            }
+            },
+            "fulltext": "Quarantine",
+            "fullurl": "https://yugipedia.com/wiki/Quarantine",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Queen's Pawn": {
             "printouts": {
@@ -3812,7 +5401,12 @@
                 "Password": [
                     "58477767"
                 ]
-            }
+            },
+            "fulltext": "Queen's Pawn",
+            "fullurl": "https://yugipedia.com/wiki/Queen%27s_Pawn",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Rainbow Path": {
             "printouts": {
@@ -3825,7 +5419,12 @@
                 "Password": [
                     "07617253"
                 ]
-            }
+            },
+            "fulltext": "Rainbow Path",
+            "fullurl": "https://yugipedia.com/wiki/Rainbow_Path",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Rainbow Veil": {
             "printouts": {
@@ -3838,7 +5437,12 @@
                 "Password": [
                     "12735388"
                 ]
-            }
+            },
+            "fulltext": "Rainbow Veil",
+            "fullurl": "https://yugipedia.com/wiki/Rainbow_Veil",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ray of Hope": {
             "printouts": {
@@ -3851,7 +5455,12 @@
                 "Password": [
                     "82529174"
                 ]
-            }
+            },
+            "fulltext": "Ray of Hope",
+            "fullurl": "https://yugipedia.com/wiki/Ray_of_Hope",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Remove Brainwashing": {
             "printouts": {
@@ -3864,7 +5473,12 @@
                 "Password": [
                     "94739788"
                 ]
-            }
+            },
+            "fulltext": "Remove Brainwashing",
+            "fullurl": "https://yugipedia.com/wiki/Remove_Brainwashing",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Renewal of the World": {
             "printouts": {
@@ -3877,7 +5491,12 @@
                 "Password": [
                     "81306186"
                 ]
-            }
+            },
+            "fulltext": "Renewal of the World",
+            "fullurl": "https://yugipedia.com/wiki/Renewal_of_the_World",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Reptilianne Poison": {
             "printouts": {
@@ -3890,7 +5509,12 @@
                 "Password": [
                     "90576781"
                 ]
-            }
+            },
+            "fulltext": "Reptilianne Poison",
+            "fullurl": "https://yugipedia.com/wiki/Reptilianne_Poison",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Reptilianne Spawn": {
             "printouts": {
@@ -3903,7 +5527,12 @@
                 "Password": [
                     "21179143"
                 ]
-            }
+            },
+            "fulltext": "Reptilianne Spawn",
+            "fullurl": "https://yugipedia.com/wiki/Reptilianne_Spawn",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Resonance Device": {
             "printouts": {
@@ -3916,7 +5545,12 @@
                 "Password": [
                     "26864586"
                 ]
-            }
+            },
+            "fulltext": "Resonance Device",
+            "fullurl": "https://yugipedia.com/wiki/Resonance_Device",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Restructer Revolution": {
             "printouts": {
@@ -3929,7 +5563,12 @@
                 "Password": [
                     "99518961"
                 ]
-            }
+            },
+            "fulltext": "Restructer Revolution",
+            "fullurl": "https://yugipedia.com/wiki/Restructer_Revolution",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Resurrection of Chakra": {
             "printouts": {
@@ -3942,7 +5581,12 @@
                 "Password": [
                     "39399168"
                 ]
-            }
+            },
+            "fulltext": "Resurrection of Chakra",
+            "fullurl": "https://yugipedia.com/wiki/Resurrection_of_Chakra",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Return from the Different Dimension": {
             "printouts": {
@@ -3955,7 +5599,12 @@
                 "Password": [
                     "27174286"
                 ]
-            }
+            },
+            "fulltext": "Return from the Different Dimension",
+            "fullurl": "https://yugipedia.com/wiki/Return_from_the_Different_Dimension",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Revendread Origin": {
             "printouts": {
@@ -3968,7 +5617,12 @@
                 "Password": [
                     "94666032"
                 ]
-            }
+            },
+            "fulltext": "Revendread Origin",
+            "fullurl": "https://yugipedia.com/wiki/Revendread_Origin",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ride of the Valkyries": {
             "printouts": {
@@ -3981,7 +5635,12 @@
                 "Password": [
                     "65687442"
                 ]
-            }
+            },
+            "fulltext": "Ride of the Valkyries",
+            "fullurl": "https://yugipedia.com/wiki/Ride_of_the_Valkyries",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Rise of the Snake Deity": {
             "printouts": {
@@ -3994,7 +5653,12 @@
                 "Password": [
                     "16067089"
                 ]
-            }
+            },
+            "fulltext": "Rise of the Snake Deity",
+            "fullurl": "https://yugipedia.com/wiki/Rise_of_the_Snake_Deity",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ritual Beast Ambush": {
             "printouts": {
@@ -4007,7 +5671,12 @@
                 "Password": [
                     "57815601"
                 ]
-            }
+            },
+            "fulltext": "Ritual Beast Ambush",
+            "fullurl": "https://yugipedia.com/wiki/Ritual_Beast_Ambush",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ritual Beast Return": {
             "printouts": {
@@ -4020,7 +5689,12 @@
                 "Password": [
                     "08321183"
                 ]
-            }
+            },
+            "fulltext": "Ritual Beast Return",
+            "fullurl": "https://yugipedia.com/wiki/Ritual_Beast_Return",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ritual Beast Steeds": {
             "printouts": {
@@ -4033,7 +5707,12 @@
                 "Password": [
                     "11556339"
                 ]
-            }
+            },
+            "fulltext": "Ritual Beast Steeds",
+            "fullurl": "https://yugipedia.com/wiki/Ritual_Beast_Steeds",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ritual Beast's Bond": {
             "printouts": {
@@ -4046,7 +5725,12 @@
                 "Password": [
                     "75457624"
                 ]
-            }
+            },
+            "fulltext": "Ritual Beast's Bond",
+            "fullurl": "https://yugipedia.com/wiki/Ritual_Beast%27s_Bond",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ritual Cage": {
             "printouts": {
@@ -4059,7 +5743,12 @@
                 "Password": [
                     "25796442"
                 ]
-            }
+            },
+            "fulltext": "Ritual Cage",
+            "fullurl": "https://yugipedia.com/wiki/Ritual_Cage",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ritual Sanctuary": {
             "printouts": {
@@ -4072,7 +5761,12 @@
                 "Password": [
                     "95658967"
                 ]
-            }
+            },
+            "fulltext": "Ritual Sanctuary",
+            "fullurl": "https://yugipedia.com/wiki/Ritual_Sanctuary",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "A Rival Appears!": {
             "printouts": {
@@ -4085,7 +5779,12 @@
                 "Password": [
                     "05728014"
                 ]
-            }
+            },
+            "fulltext": "A Rival Appears!",
+            "fullurl": "https://yugipedia.com/wiki/A_Rival_Appears!",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Royal Prison": {
             "printouts": {
@@ -4098,7 +5797,12 @@
                 "Password": [
                     "26586849"
                 ]
-            }
+            },
+            "fulltext": "Royal Prison",
+            "fullurl": "https://yugipedia.com/wiki/Royal_Prison",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Royal Tribute": {
             "printouts": {
@@ -4111,7 +5815,12 @@
                 "Password": [
                     "72405967"
                 ]
-            }
+            },
+            "fulltext": "Royal Tribute",
+            "fullurl": "https://yugipedia.com/wiki/Royal_Tribute",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Royal Writ of Taxation": {
             "printouts": {
@@ -4124,7 +5833,12 @@
                 "Password": [
                     "86742443"
                 ]
-            }
+            },
+            "fulltext": "Royal Writ of Taxation",
+            "fullurl": "https://yugipedia.com/wiki/Royal_Writ_of_Taxation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "SPYRAL MISSION - Recapture": {
             "printouts": {
@@ -4137,7 +5851,12 @@
                 "Password": [
                     "39373426"
                 ]
-            }
+            },
+            "fulltext": "SPYRAL MISSION - Recapture",
+            "fullurl": "https://yugipedia.com/wiki/SPYRAL_MISSION_-_Recapture",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "SPYRAL Resort": {
             "printouts": {
@@ -4150,7 +5869,12 @@
                 "Password": [
                     "54631665"
                 ]
-            }
+            },
+            "fulltext": "SPYRAL Resort",
+            "fullurl": "https://yugipedia.com/wiki/SPYRAL_Resort",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sacred Serpent's Wake": {
             "printouts": {
@@ -4163,7 +5887,12 @@
                 "Password": [
                     "98850929"
                 ]
-            }
+            },
+            "fulltext": "Sacred Serpent's Wake",
+            "fullurl": "https://yugipedia.com/wiki/Sacred_Serpent%27s_Wake",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Secret Sanctuary of the Spellcasters": {
             "printouts": {
@@ -4176,7 +5905,12 @@
                 "Password": [
                     "25407643"
                 ]
-            }
+            },
+            "fulltext": "Secret Sanctuary of the Spellcasters",
+            "fullurl": "https://yugipedia.com/wiki/Secret_Sanctuary_of_the_Spellcasters",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sekka's Light": {
             "printouts": {
@@ -4189,7 +5923,12 @@
                 "Password": [
                     "24940422"
                 ]
-            }
+            },
+            "fulltext": "Sekka's Light",
+            "fullurl": "https://yugipedia.com/wiki/Sekka%27s_Light",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sentence of Doom": {
             "printouts": {
@@ -4202,7 +5941,12 @@
                 "Password": [
                     "40771118"
                 ]
-            }
+            },
+            "fulltext": "Sentence of Doom",
+            "fullurl": "https://yugipedia.com/wiki/Sentence_of_Doom",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Set Rotation": {
             "printouts": {
@@ -4215,20 +5959,12 @@
                 "Password": [
                     "73468603"
                 ]
-            }
-        },
-        "The Shackles of Sou-Oh": {
-            "printouts": {
-                "English name": [
-                    "The Shackles of Sou-Oh"
-                ],
-                "Japanese name": [
-                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>雙</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>械</rb><rp>（</rp><rt>かせ</rt><rp>）</rp></ruby>"
-                ],
-                "Password": [
-                    "27412542"
-                ]
-            }
+            },
+            "fulltext": "Set Rotation",
+            "fullurl": "https://yugipedia.com/wiki/Set_Rotation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Shadow of Eyes": {
             "printouts": {
@@ -4241,7 +5977,12 @@
                 "Password": [
                     "58621589"
                 ]
-            }
+            },
+            "fulltext": "Shadow of Eyes",
+            "fullurl": "https://yugipedia.com/wiki/Shadow_of_Eyes",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Shapesister": {
             "printouts": {
@@ -4254,7 +5995,12 @@
                 "Password": [
                     "92099232"
                 ]
-            }
+            },
+            "fulltext": "Shapesister",
+            "fullurl": "https://yugipedia.com/wiki/Shapesister",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Shared Ride": {
             "printouts": {
@@ -4267,7 +6013,12 @@
                 "Password": [
                     "01372887"
                 ]
-            }
+            },
+            "fulltext": "Shared Ride",
+            "fullurl": "https://yugipedia.com/wiki/Shared_Ride",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Shinobird Salvation": {
             "printouts": {
@@ -4280,7 +6031,12 @@
                 "Password": [
                     "00276357"
                 ]
-            }
+            },
+            "fulltext": "Shinobird Salvation",
+            "fullurl": "https://yugipedia.com/wiki/Shinobird_Salvation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Shiranui Style Solemnity": {
             "printouts": {
@@ -4293,7 +6049,12 @@
                 "Password": [
                     "40364916"
                 ]
-            }
+            },
+            "fulltext": "Shiranui Style Solemnity",
+            "fullurl": "https://yugipedia.com/wiki/Shiranui_Style_Solemnity",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Shiranui Style Success": {
             "printouts": {
@@ -4306,7 +6067,12 @@
                 "Password": [
                     "74798297"
                 ]
-            }
+            },
+            "fulltext": "Shiranui Style Success",
+            "fullurl": "https://yugipedia.com/wiki/Shiranui_Style_Success",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Silent Burning": {
             "printouts": {
@@ -4319,7 +6085,12 @@
                 "Password": [
                     "44968459"
                 ]
-            }
+            },
+            "fulltext": "Silent Burning",
+            "fullurl": "https://yugipedia.com/wiki/Silent_Burning",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Simultaneous Loss": {
             "printouts": {
@@ -4332,7 +6103,12 @@
                 "Password": [
                     "92219931"
                 ]
-            }
+            },
+            "fulltext": "Simultaneous Loss",
+            "fullurl": "https://yugipedia.com/wiki/Simultaneous_Loss",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "The Six Shinobi": {
             "printouts": {
@@ -4345,7 +6121,12 @@
                 "Password": [
                     "06357341"
                 ]
-            }
+            },
+            "fulltext": "The Six Shinobi",
+            "fullurl": "https://yugipedia.com/wiki/The_Six_Shinobi",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sixth Sense": {
             "printouts": {
@@ -4358,7 +6139,12 @@
                 "Password": [
                     "03280747"
                 ]
-            }
+            },
+            "fulltext": "Sixth Sense",
+            "fullurl": "https://yugipedia.com/wiki/Sixth_Sense",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sky Striker Maneuver - Afterburners!": {
             "printouts": {
@@ -4371,7 +6157,12 @@
                 "Password": [
                     "99550630"
                 ]
-            }
+            },
+            "fulltext": "Sky Striker Maneuver - Afterburners!",
+            "fullurl": "https://yugipedia.com/wiki/Sky_Striker_Maneuver_-_Afterburners!",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sky Striker Maneuver - Jamming Waves!": {
             "printouts": {
@@ -4384,7 +6175,30 @@
                 "Password": [
                     "25955749"
                 ]
-            }
+            },
+            "fulltext": "Sky Striker Maneuver - Jamming Waves!",
+            "fullurl": "https://yugipedia.com/wiki/Sky_Striker_Maneuver_-_Jamming_Waves!",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Sky Striker Maneuver - Scissors Cross!": {
+            "printouts": {
+                "English name": [
+                    "Sky Striker Maneuver - Scissors Cross!"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>刀</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>式</rb><rp>（</rp><rt>しき</rt><rp>）</rp></ruby>－シザーズクロス"
+                ],
+                "Password": [
+                    "46271408"
+                ]
+            },
+            "fulltext": "Sky Striker Maneuver - Scissors Cross!",
+            "fullurl": "https://yugipedia.com/wiki/Sky_Striker_Maneuver_-_Scissors_Cross!",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sky Striker Maneuver - Vector Blast": {
             "printouts": {
@@ -4397,7 +6211,12 @@
                 "Password": [
                     "21623008"
                 ]
-            }
+            },
+            "fulltext": "Sky Striker Maneuver - Vector Blast",
+            "fullurl": "https://yugipedia.com/wiki/Sky_Striker_Maneuver_-_Vector_Blast",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sky Striker Mecha - Eagle Booster": {
             "printouts": {
@@ -4410,7 +6229,12 @@
                 "Password": [
                     "25733157"
                 ]
-            }
+            },
+            "fulltext": "Sky Striker Mecha - Eagle Booster",
+            "fullurl": "https://yugipedia.com/wiki/Sky_Striker_Mecha_-_Eagle_Booster",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sky Striker Mecha - Hornet Drones": {
             "printouts": {
@@ -4423,7 +6247,12 @@
                 "Password": [
                     "52340444"
                 ]
-            }
+            },
+            "fulltext": "Sky Striker Mecha - Hornet Drones",
+            "fullurl": "https://yugipedia.com/wiki/Sky_Striker_Mecha_-_Hornet_Drones",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sky Striker Mecha - Shark Cannon": {
             "printouts": {
@@ -4436,7 +6265,12 @@
                 "Password": [
                     "51227866"
                 ]
-            }
+            },
+            "fulltext": "Sky Striker Mecha - Shark Cannon",
+            "fullurl": "https://yugipedia.com/wiki/Sky_Striker_Mecha_-_Shark_Cannon",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sky Striker Mecha - Widow Anchor": {
             "printouts": {
@@ -4449,7 +6283,12 @@
                 "Password": [
                     "98338152"
                 ]
-            }
+            },
+            "fulltext": "Sky Striker Mecha - Widow Anchor",
+            "fullurl": "https://yugipedia.com/wiki/Sky_Striker_Mecha_-_Widow_Anchor",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sky Striker Mecha Modules - Multirole": {
             "printouts": {
@@ -4462,7 +6301,12 @@
                 "Password": [
                     "24010609"
                 ]
-            }
+            },
+            "fulltext": "Sky Striker Mecha Modules - Multirole",
+            "fullurl": "https://yugipedia.com/wiki/Sky_Striker_Mecha_Modules_-_Multirole",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Sky Striker Mobilize - Engage!": {
             "printouts": {
@@ -4475,7 +6319,12 @@
                 "Password": [
                     "63166095"
                 ]
-            }
+            },
+            "fulltext": "Sky Striker Mobilize - Engage!",
+            "fullurl": "https://yugipedia.com/wiki/Sky_Striker_Mobilize_-_Engage!",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Snake Deity's Command": {
             "printouts": {
@@ -4488,7 +6337,12 @@
                 "Password": [
                     "80678380"
                 ]
-            }
+            },
+            "fulltext": "Snake Deity's Command",
+            "fullurl": "https://yugipedia.com/wiki/Snake_Deity%27s_Command",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Solemn Judgment": {
             "printouts": {
@@ -4501,7 +6355,12 @@
                 "Password": [
                     "41420027"
                 ]
-            }
+            },
+            "fulltext": "Solemn Judgment",
+            "fullurl": "https://yugipedia.com/wiki/Solemn_Judgment",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Solemn Scolding": {
             "printouts": {
@@ -4514,7 +6373,12 @@
                 "Password": [
                     "92512625"
                 ]
-            }
+            },
+            "fulltext": "Solemn Scolding",
+            "fullurl": "https://yugipedia.com/wiki/Solemn_Scolding",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Solemn Warning": {
             "printouts": {
@@ -4527,7 +6391,12 @@
                 "Password": [
                     "84749824"
                 ]
-            }
+            },
+            "fulltext": "Solemn Warning",
+            "fullurl": "https://yugipedia.com/wiki/Solemn_Warning",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Solemn Wishes": {
             "printouts": {
@@ -4540,7 +6409,12 @@
                 "Password": [
                     "35346968"
                 ]
-            }
+            },
+            "fulltext": "Solemn Wishes",
+            "fullurl": "https://yugipedia.com/wiki/Solemn_Wishes",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Soul Release": {
             "printouts": {
@@ -4553,7 +6427,12 @@
                 "Password": [
                     "05758500"
                 ]
-            }
+            },
+            "fulltext": "Soul Release",
+            "fullurl": "https://yugipedia.com/wiki/Soul_Release",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Soul Resurrection": {
             "printouts": {
@@ -4566,7 +6445,12 @@
                 "Password": [
                     "92924317"
                 ]
-            }
+            },
+            "fulltext": "Soul Resurrection",
+            "fullurl": "https://yugipedia.com/wiki/Soul_Resurrection",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Soul of the Pure": {
             "printouts": {
@@ -4579,7 +6463,12 @@
                 "Password": [
                     "47852924"
                 ]
-            }
+            },
+            "fulltext": "Soul of the Pure",
+            "fullurl": "https://yugipedia.com/wiki/Soul_of_the_Pure",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spell Wall": {
             "printouts": {
@@ -4592,7 +6481,12 @@
                 "Password": [
                     "84117021"
                 ]
-            }
+            },
+            "fulltext": "Spell Wall",
+            "fullurl": "https://yugipedia.com/wiki/Spell_Wall",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spellbook of Fate": {
             "printouts": {
@@ -4605,7 +6499,12 @@
                 "Password": [
                     "97997309"
                 ]
-            }
+            },
+            "fulltext": "Spellbook of Fate",
+            "fullurl": "https://yugipedia.com/wiki/Spellbook_of_Fate",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spellbook of Judgment": {
             "printouts": {
@@ -4618,7 +6517,12 @@
                 "Password": [
                     "46448938"
                 ]
-            }
+            },
+            "fulltext": "Spellbook of Judgment",
+            "fullurl": "https://yugipedia.com/wiki/Spellbook_of_Judgment",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spellbook of Knowledge": {
             "printouts": {
@@ -4631,7 +6535,12 @@
                 "Password": [
                     "23314220"
                 ]
-            }
+            },
+            "fulltext": "Spellbook of Knowledge",
+            "fullurl": "https://yugipedia.com/wiki/Spellbook_of_Knowledge",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spellbook of Life": {
             "printouts": {
@@ -4644,7 +6553,12 @@
                 "Password": [
                     "52628687"
                 ]
-            }
+            },
+            "fulltext": "Spellbook of Life",
+            "fullurl": "https://yugipedia.com/wiki/Spellbook_of_Life",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spellbook of Miracles": {
             "printouts": {
@@ -4657,7 +6571,12 @@
                 "Password": [
                     "43841694"
                 ]
-            }
+            },
+            "fulltext": "Spellbook of Miracles",
+            "fullurl": "https://yugipedia.com/wiki/Spellbook_of_Miracles",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spellbook of Wisdom": {
             "printouts": {
@@ -4670,7 +6589,12 @@
                 "Password": [
                     "88616795"
                 ]
-            }
+            },
+            "fulltext": "Spellbook of Wisdom",
+            "fullurl": "https://yugipedia.com/wiki/Spellbook_of_Wisdom",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spiritual Earth Art - Kurogane": {
             "printouts": {
@@ -4683,7 +6607,12 @@
                 "Password": [
                     "70156997"
                 ]
-            }
+            },
+            "fulltext": "Spiritual Earth Art - Kurogane",
+            "fullurl": "https://yugipedia.com/wiki/Spiritual_Earth_Art_-_Kurogane",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spiritual Fire Art - Kurenai": {
             "printouts": {
@@ -4696,7 +6625,12 @@
                 "Password": [
                     "42945701"
                 ]
-            }
+            },
+            "fulltext": "Spiritual Fire Art - Kurenai",
+            "fullurl": "https://yugipedia.com/wiki/Spiritual_Fire_Art_-_Kurenai",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spiritual Light Art - Hijiri": {
             "printouts": {
@@ -4709,7 +6643,12 @@
                 "Password": [
                     "05037726"
                 ]
-            }
+            },
+            "fulltext": "Spiritual Light Art - Hijiri",
+            "fullurl": "https://yugipedia.com/wiki/Spiritual_Light_Art_-_Hijiri",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spiritual Water Art - Aoi": {
             "printouts": {
@@ -4722,7 +6661,12 @@
                 "Password": [
                     "06540606"
                 ]
-            }
+            },
+            "fulltext": "Spiritual Water Art - Aoi",
+            "fullurl": "https://yugipedia.com/wiki/Spiritual_Water_Art_-_Aoi",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spiritual Wind Art - Miyabi": {
             "printouts": {
@@ -4735,7 +6679,12 @@
                 "Password": [
                     "79333300"
                 ]
-            }
+            },
+            "fulltext": "Spiritual Wind Art - Miyabi",
+            "fullurl": "https://yugipedia.com/wiki/Spiritual_Wind_Art_-_Miyabi",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Spring of Rebirth": {
             "printouts": {
@@ -4748,7 +6697,12 @@
                 "Password": [
                     "94425169"
                 ]
-            }
+            },
+            "fulltext": "Spring of Rebirth",
+            "fullurl": "https://yugipedia.com/wiki/Spring_of_Rebirth",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Stand In": {
             "printouts": {
@@ -4761,7 +6715,12 @@
                 "Password": [
                     "49154689"
                 ]
-            }
+            },
+            "fulltext": "Stand In",
+            "fullurl": "https://yugipedia.com/wiki/Stand_In",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Stand-Off": {
             "printouts": {
@@ -4774,7 +6733,12 @@
                 "Password": [
                     "65384188"
                 ]
-            }
+            },
+            "fulltext": "Stand-Off",
+            "fullurl": "https://yugipedia.com/wiki/Stand-Off",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Staring Contest": {
             "printouts": {
@@ -4787,7 +6751,12 @@
                 "Password": [
                     "97729135"
                 ]
-            }
+            },
+            "fulltext": "Staring Contest",
+            "fullurl": "https://yugipedia.com/wiki/Staring_Contest",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Stygian Dirge": {
             "printouts": {
@@ -4800,7 +6769,12 @@
                 "Password": [
                     "81489939"
                 ]
-            }
+            },
+            "fulltext": "Stygian Dirge",
+            "fullurl": "https://yugipedia.com/wiki/Stygian_Dirge",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Subsurface Stage Divers": {
             "printouts": {
@@ -4813,7 +6787,12 @@
                 "Password": [
                     "43994202"
                 ]
-            }
+            },
+            "fulltext": "Subsurface Stage Divers",
+            "fullurl": "https://yugipedia.com/wiki/Subsurface_Stage_Divers",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Subterror Behemoth Burrowing": {
             "printouts": {
@@ -4826,7 +6805,12 @@
                 "Password": [
                     "28369508"
                 ]
-            }
+            },
+            "fulltext": "Subterror Behemoth Burrowing",
+            "fullurl": "https://yugipedia.com/wiki/Subterror_Behemoth_Burrowing",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Subterror Cave Clash": {
             "printouts": {
@@ -4839,7 +6823,12 @@
                 "Password": [
                     "68001309"
                 ]
-            }
+            },
+            "fulltext": "Subterror Cave Clash",
+            "fullurl": "https://yugipedia.com/wiki/Subterror_Cave_Clash",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Subterror Final Battle": {
             "printouts": {
@@ -4852,7 +6841,12 @@
                 "Password": [
                     "74640994"
                 ]
-            }
+            },
+            "fulltext": "Subterror Final Battle",
+            "fullurl": "https://yugipedia.com/wiki/Subterror_Final_Battle",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Summoner's Art": {
             "printouts": {
@@ -4865,7 +6859,12 @@
                 "Password": [
                     "79816536"
                 ]
-            }
+            },
+            "fulltext": "Summoner's Art",
+            "fullurl": "https://yugipedia.com/wiki/Summoner%27s_Art",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Super Quantal Alphan Spike": {
             "printouts": {
@@ -4878,7 +6877,12 @@
                 "Password": [
                     "72332074"
                 ]
-            }
+            },
+            "fulltext": "Super Quantal Alphan Spike",
+            "fullurl": "https://yugipedia.com/wiki/Super_Quantal_Alphan_Spike",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Super Quantal Alphancall Appeal": {
             "printouts": {
@@ -4891,7 +6895,12 @@
                 "Password": [
                     "15721392"
                 ]
-            }
+            },
+            "fulltext": "Super Quantal Alphancall Appeal",
+            "fullurl": "https://yugipedia.com/wiki/Super_Quantal_Alphancall_Appeal",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Swing of Memories": {
             "printouts": {
@@ -4904,7 +6913,12 @@
                 "Password": [
                     "96765646"
                 ]
-            }
+            },
+            "fulltext": "Swing of Memories",
+            "fullurl": "https://yugipedia.com/wiki/Swing_of_Memories",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Tellarknight Genesis": {
             "printouts": {
@@ -4917,7 +6931,12 @@
                 "Password": [
                     "65236257"
                 ]
-            }
+            },
+            "fulltext": "Tellarknight Genesis",
+            "fullurl": "https://yugipedia.com/wiki/Tellarknight_Genesis",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "That Wacky Magic!": {
             "printouts": {
@@ -4930,7 +6949,12 @@
                 "Password": [
                     "50427388"
                 ]
-            }
+            },
+            "fulltext": "That Wacky Magic!",
+            "fullurl": "https://yugipedia.com/wiki/That_Wacky_Magic!",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "There Can Be Only One": {
             "printouts": {
@@ -4943,7 +6967,12 @@
                 "Password": [
                     "24207889"
                 ]
-            }
+            },
+            "fulltext": "There Can Be Only One",
+            "fullurl": "https://yugipedia.com/wiki/There_Can_Be_Only_One",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Time Thief Flyback": {
             "printouts": {
@@ -4956,7 +6985,12 @@
                 "Password": [
                     "18678554"
                 ]
-            }
+            },
+            "fulltext": "Time Thief Flyback",
+            "fullurl": "https://yugipedia.com/wiki/Time_Thief_Flyback",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Time Thief Hack": {
             "printouts": {
@@ -4969,7 +7003,12 @@
                 "Password": [
                     "81670445"
                 ]
-            }
+            },
+            "fulltext": "Time Thief Hack",
+            "fullurl": "https://yugipedia.com/wiki/Time_Thief_Hack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Time Thief Retrograde": {
             "printouts": {
@@ -4979,8 +7018,15 @@
                 "Japanese name": [
                     "クロノダイバー・レトログラード"
                 ],
-                "Password": []
-            }
+                "Password": [
+                    "76587747"
+                ]
+            },
+            "fulltext": "Time Thief Retrograde",
+            "fullurl": "https://yugipedia.com/wiki/Time_Thief_Retrograde",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Time Thief Startup": {
             "printouts": {
@@ -4990,8 +7036,15 @@
                 "Japanese name": [
                     "クロノダイバー・スタートアップ"
                 ],
-                "Password": []
-            }
+                "Password": [
+                    "10877309"
+                ]
+            },
+            "fulltext": "Time Thief Startup",
+            "fullurl": "https://yugipedia.com/wiki/Time_Thief_Startup",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Token Feastevil": {
             "printouts": {
@@ -5004,7 +7057,12 @@
                 "Password": [
                     "83675475"
                 ]
-            }
+            },
+            "fulltext": "Token Feastevil",
+            "fullurl": "https://yugipedia.com/wiki/Token_Feastevil",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Token Sundae": {
             "printouts": {
@@ -5017,7 +7075,12 @@
                 "Password": [
                     "52971673"
                 ]
-            }
+            },
+            "fulltext": "Token Sundae",
+            "fullurl": "https://yugipedia.com/wiki/Token_Sundae",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Tragedy": {
             "printouts": {
@@ -5030,7 +7093,12 @@
                 "Password": [
                     "35686187"
                 ]
-            }
+            },
+            "fulltext": "Tragedy",
+            "fullurl": "https://yugipedia.com/wiki/Tragedy",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Transcendent Wings": {
             "printouts": {
@@ -5043,7 +7111,12 @@
                 "Password": [
                     "25573054"
                 ]
-            }
+            },
+            "fulltext": "Transcendent Wings",
+            "fullurl": "https://yugipedia.com/wiki/Transcendent_Wings",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Transmigration Break": {
             "printouts": {
@@ -5056,7 +7129,12 @@
                 "Password": [
                     "66100045"
                 ]
-            }
+            },
+            "fulltext": "Transmigration Break",
+            "fullurl": "https://yugipedia.com/wiki/Transmigration_Break",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "The Transmigration Prophecy": {
             "printouts": {
@@ -5069,7 +7147,12 @@
                 "Password": [
                     "46652477"
                 ]
-            }
+            },
+            "fulltext": "The Transmigration Prophecy",
+            "fullurl": "https://yugipedia.com/wiki/The_Transmigration_Prophecy",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Trap Trick": {
             "printouts": {
@@ -5082,7 +7165,12 @@
                 "Password": [
                     "80101899"
                 ]
-            }
+            },
+            "fulltext": "Trap Trick",
+            "fullurl": "https://yugipedia.com/wiki/Trap_Trick",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Traptrix Trap Hole Nightmare": {
             "printouts": {
@@ -5095,7 +7183,12 @@
                 "Password": [
                     "29616929"
                 ]
-            }
+            },
+            "fulltext": "Traptrix Trap Hole Nightmare",
+            "fullurl": "https://yugipedia.com/wiki/Traptrix_Trap_Hole_Nightmare",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Treacherous Trap Hole": {
             "printouts": {
@@ -5108,7 +7201,12 @@
                 "Password": [
                     "99590524"
                 ]
-            }
+            },
+            "fulltext": "Treacherous Trap Hole",
+            "fullurl": "https://yugipedia.com/wiki/Treacherous_Trap_Hole",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Tremendous Fire": {
             "printouts": {
@@ -5121,7 +7219,12 @@
                 "Password": [
                     "46918794"
                 ]
-            }
+            },
+            "fulltext": "Tremendous Fire",
+            "fullurl": "https://yugipedia.com/wiki/Tremendous_Fire",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Trial and Tribulation": {
             "printouts": {
@@ -5134,7 +7237,12 @@
                 "Password": [
                     "26285788"
                 ]
-            }
+            },
+            "fulltext": "Trial and Tribulation",
+            "fullurl": "https://yugipedia.com/wiki/Trial_and_Tribulation",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Trial of the Princesses": {
             "printouts": {
@@ -5147,7 +7255,12 @@
                 "Password": [
                     "72709014"
                 ]
-            }
+            },
+            "fulltext": "Trial of the Princesses",
+            "fullurl": "https://yugipedia.com/wiki/Trial_of_the_Princesses",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Triangle Ecstasy Spark": {
             "printouts": {
@@ -5160,7 +7273,12 @@
                 "Password": [
                     "12181376"
                 ]
-            }
+            },
+            "fulltext": "Triangle Ecstasy Spark",
+            "fullurl": "https://yugipedia.com/wiki/Triangle_Ecstasy_Spark",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Tribute Burial": {
             "printouts": {
@@ -5173,7 +7291,12 @@
                 "Password": [
                     "80230510"
                 ]
-            }
+            },
+            "fulltext": "Tribute Burial",
+            "fullurl": "https://yugipedia.com/wiki/Tribute_Burial",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Trickstar Bouquet": {
             "printouts": {
@@ -5186,7 +7309,12 @@
                 "Password": [
                     "99890852"
                 ]
-            }
+            },
+            "fulltext": "Trickstar Bouquet",
+            "fullurl": "https://yugipedia.com/wiki/Trickstar_Bouquet",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Trickstar Fes": {
             "printouts": {
@@ -5199,7 +7327,12 @@
                 "Password": [
                     "62481203"
                 ]
-            }
+            },
+            "fulltext": "Trickstar Fes",
+            "fullurl": "https://yugipedia.com/wiki/Trickstar_Fes",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Trickstar Light Arena": {
             "printouts": {
@@ -5212,7 +7345,12 @@
                 "Password": [
                     "63492244"
                 ]
-            }
+            },
+            "fulltext": "Trickstar Light Arena",
+            "fullurl": "https://yugipedia.com/wiki/Trickstar_Light_Arena",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Trickstar Light Stage": {
             "printouts": {
@@ -5225,7 +7363,12 @@
                 "Password": [
                     "35371948"
                 ]
-            }
+            },
+            "fulltext": "Trickstar Light Stage",
+            "fullurl": "https://yugipedia.com/wiki/Trickstar_Light_Stage",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Trickstar Live Stage": {
             "printouts": {
@@ -5238,7 +7381,12 @@
                 "Password": [
                     "51208046"
                 ]
-            }
+            },
+            "fulltext": "Trickstar Live Stage",
+            "fullurl": "https://yugipedia.com/wiki/Trickstar_Live_Stage",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "True Draco Heritage": {
             "printouts": {
@@ -5251,7 +7399,12 @@
                 "Password": [
                     "49430782"
                 ]
-            }
+            },
+            "fulltext": "True Draco Heritage",
+            "fullurl": "https://yugipedia.com/wiki/True_Draco_Heritage",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Tuning": {
             "printouts": {
@@ -5264,7 +7417,12 @@
                 "Password": [
                     "96363153"
                 ]
-            }
+            },
+            "fulltext": "Tuning",
+            "fullurl": "https://yugipedia.com/wiki/Tuning",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Ultimate Providence": {
             "printouts": {
@@ -5277,7 +7435,12 @@
                 "Password": [
                     "38891741"
                 ]
-            }
+            },
+            "fulltext": "Ultimate Providence",
+            "fullurl": "https://yugipedia.com/wiki/Ultimate_Providence",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Unacceptable Result": {
             "printouts": {
@@ -5290,7 +7453,12 @@
                 "Password": [
                     "04072687"
                 ]
-            }
+            },
+            "fulltext": "Unacceptable Result",
+            "fullurl": "https://yugipedia.com/wiki/Unacceptable_Result",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Union Attack": {
             "printouts": {
@@ -5303,7 +7471,12 @@
                 "Password": [
                     "60399954"
                 ]
-            }
+            },
+            "fulltext": "Union Attack",
+            "fullurl": "https://yugipedia.com/wiki/Union_Attack",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Unity": {
             "printouts": {
@@ -5316,7 +7489,12 @@
                 "Password": [
                     "14731897"
                 ]
-            }
+            },
+            "fulltext": "Unity",
+            "fullurl": "https://yugipedia.com/wiki/Unity",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Unwavering Bond": {
             "printouts": {
@@ -5329,7 +7507,12 @@
                 "Password": [
                     "72648810"
                 ]
-            }
+            },
+            "fulltext": "Unwavering Bond",
+            "fullurl": "https://yugipedia.com/wiki/Unwavering_Bond",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Valkyrie's Embrace": {
             "printouts": {
@@ -5342,7 +7525,12 @@
                 "Password": [
                     "45584727"
                 ]
-            }
+            },
+            "fulltext": "Valkyrie's Embrace",
+            "fullurl": "https://yugipedia.com/wiki/Valkyrie%27s_Embrace",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Vampire Awakening": {
             "printouts": {
@@ -5355,7 +7543,12 @@
                 "Password": [
                     "31189536"
                 ]
-            }
+            },
+            "fulltext": "Vampire Awakening",
+            "fullurl": "https://yugipedia.com/wiki/Vampire_Awakening",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Vampire's Domain": {
             "printouts": {
@@ -5368,7 +7561,12 @@
                 "Password": [
                     "05795882"
                 ]
-            }
+            },
+            "fulltext": "Vampire's Domain",
+            "fullurl": "https://yugipedia.com/wiki/Vampire%27s_Domain",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Vanquishing Light": {
             "printouts": {
@@ -5381,7 +7579,12 @@
                 "Password": [
                     "32233746"
                 ]
-            }
+            },
+            "fulltext": "Vanquishing Light",
+            "fullurl": "https://yugipedia.com/wiki/Vanquishing_Light",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Vendread Nightmare": {
             "printouts": {
@@ -5394,7 +7597,12 @@
                 "Password": [
                     "33971095"
                 ]
-            }
+            },
+            "fulltext": "Vendread Nightmare",
+            "fullurl": "https://yugipedia.com/wiki/Vendread_Nightmare",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Vengeful Servant": {
             "printouts": {
@@ -5407,7 +7615,12 @@
                 "Password": [
                     "21702241"
                 ]
-            }
+            },
+            "fulltext": "Vengeful Servant",
+            "fullurl": "https://yugipedia.com/wiki/Vengeful_Servant",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Viper's Rebirth": {
             "printouts": {
@@ -5420,7 +7633,30 @@
                 "Password": [
                     "64973456"
                 ]
-            }
+            },
+            "fulltext": "Viper's Rebirth",
+            "fullurl": "https://yugipedia.com/wiki/Viper%27s_Rebirth",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Void Feast": {
+            "printouts": {
+                "English name": [
+                    "Void Feast"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>煉</rb><rp>（</rp><rt>れん</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>獄</rb><rp>（</rp><rt>ごく</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>狂</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>宴</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>"
+                ],
+                "Password": [
+                    "31548814"
+                ]
+            },
+            "fulltext": "Void Feast",
+            "fullurl": "https://yugipedia.com/wiki/Void_Feast",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Waboku": {
             "printouts": {
@@ -5433,7 +7669,12 @@
                 "Password": [
                     "12607053"
                 ]
-            }
+            },
+            "fulltext": "Waboku",
+            "fullurl": "https://yugipedia.com/wiki/Waboku",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Wavering Eyes": {
             "printouts": {
@@ -5446,7 +7687,12 @@
                 "Password": [
                     "31222701"
                 ]
-            }
+            },
+            "fulltext": "Wavering Eyes",
+            "fullurl": "https://yugipedia.com/wiki/Wavering_Eyes",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "The Weather Auroral Canvas": {
             "printouts": {
@@ -5459,7 +7705,12 @@
                 "Password": [
                     "52834429"
                 ]
-            }
+            },
+            "fulltext": "The Weather Auroral Canvas",
+            "fullurl": "https://yugipedia.com/wiki/The_Weather_Auroral_Canvas",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "The Weather Rainbowed Canvas": {
             "printouts": {
@@ -5472,7 +7723,12 @@
                 "Password": [
                     "74218258"
                 ]
-            }
+            },
+            "fulltext": "The Weather Rainbowed Canvas",
+            "fullurl": "https://yugipedia.com/wiki/The_Weather_Rainbowed_Canvas",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "The Weather Rainy Canvas": {
             "printouts": {
@@ -5485,7 +7741,12 @@
                 "Password": [
                     "27561302"
                 ]
-            }
+            },
+            "fulltext": "The Weather Rainy Canvas",
+            "fullurl": "https://yugipedia.com/wiki/The_Weather_Rainy_Canvas",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "The Weather Thundery Canvas": {
             "printouts": {
@@ -5498,7 +7759,12 @@
                 "Password": [
                     "16849715"
                 ]
-            }
+            },
+            "fulltext": "The Weather Thundery Canvas",
+            "fullurl": "https://yugipedia.com/wiki/The_Weather_Thundery_Canvas",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Weed Out": {
             "printouts": {
@@ -5511,7 +7777,12 @@
                 "Password": [
                     "28604635"
                 ]
-            }
+            },
+            "fulltext": "Weed Out",
+            "fullurl": "https://yugipedia.com/wiki/Weed_Out",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Whirlwind of Gusto": {
             "printouts": {
@@ -5524,7 +7795,12 @@
                 "Password": [
                     "91822647"
                 ]
-            }
+            },
+            "fulltext": "Whirlwind of Gusto",
+            "fullurl": "https://yugipedia.com/wiki/Whirlwind_of_Gusto",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "White Veil": {
             "printouts": {
@@ -5537,7 +7813,12 @@
                 "Password": [
                     "49306994"
                 ]
-            }
+            },
+            "fulltext": "White Veil",
+            "fullurl": "https://yugipedia.com/wiki/White_Veil",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Witch's Strike": {
             "printouts": {
@@ -5550,7 +7831,12 @@
                 "Password": [
                     "36458063"
                 ]
-            }
+            },
+            "fulltext": "Witch's Strike",
+            "fullurl": "https://yugipedia.com/wiki/Witch%27s_Strike",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Witchcrafter Draping": {
             "printouts": {
@@ -5563,7 +7849,12 @@
                 "Password": [
                     "56894757"
                 ]
-            }
+            },
+            "fulltext": "Witchcrafter Draping",
+            "fullurl": "https://yugipedia.com/wiki/Witchcrafter_Draping",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Witchcrafter Masterpiece": {
             "printouts": {
@@ -5576,7 +7867,30 @@
                 "Password": [
                     "55072170"
                 ]
-            }
+            },
+            "fulltext": "Witchcrafter Masterpiece",
+            "fullurl": "https://yugipedia.com/wiki/Witchcrafter_Masterpiece",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "The World Legacy": {
+            "printouts": {
+                "English name": [
+                    "The World Legacy"
+                ],
+                "Japanese name": [
+                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>みちび</rt><rp>）</rp></ruby>く<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>先</rb><rp>（</rp><rt>さき</rt><rp>）</rp></ruby>"
+                ],
+                "Password": [
+                    "92562411"
+                ]
+            },
+            "fulltext": "The World Legacy",
+            "fullurl": "https://yugipedia.com/wiki/The_World_Legacy",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy Awakens": {
             "printouts": {
@@ -5589,7 +7903,12 @@
                 "Password": [
                     "12989604"
                 ]
-            }
+            },
+            "fulltext": "World Legacy Awakens",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy_Awakens",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy Bestowal": {
             "printouts": {
@@ -5602,7 +7921,12 @@
                 "Password": [
                     "59778096"
                 ]
-            }
+            },
+            "fulltext": "World Legacy Bestowal",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy_Bestowal",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy Discovery": {
             "printouts": {
@@ -5615,7 +7939,12 @@
                 "Password": [
                     "61654098"
                 ]
-            }
+            },
+            "fulltext": "World Legacy Discovery",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy_Discovery",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy Key": {
             "printouts": {
@@ -5628,7 +7957,12 @@
                 "Password": [
                     "02930675"
                 ]
-            }
+            },
+            "fulltext": "World Legacy Key",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy_Key",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy Monstrosity": {
             "printouts": {
@@ -5641,7 +7975,12 @@
                 "Password": [
                     "14604710"
                 ]
-            }
+            },
+            "fulltext": "World Legacy Monstrosity",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy_Monstrosity",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy Struggle": {
             "printouts": {
@@ -5654,7 +7993,12 @@
                 "Password": [
                     "58374719"
                 ]
-            }
+            },
+            "fulltext": "World Legacy Struggle",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy_Struggle",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy Trap Globe": {
             "printouts": {
@@ -5667,7 +8011,12 @@
                 "Password": [
                     "16329071"
                 ]
-            }
+            },
+            "fulltext": "World Legacy Trap Globe",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy_Trap_Globe",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy Whispers": {
             "printouts": {
@@ -5680,20 +8029,12 @@
                 "Password": [
                     "62530723"
                 ]
-            }
-        },
-        "World Legacy's Continuation": {
-            "printouts": {
-                "English name": [
-                    "World Legacy's Continuation"
-                ],
-                "Japanese name": [
-                    "<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>の<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>導</rb><rp>（</rp><rt>みちび</rt><rp>）</rp></ruby>く<ruby class=\"rubytext ruby-ja\" lang=\"ja\"><rb>先</rb><rp>（</rp><rt>さき</rt><rp>）</rp></ruby>"
-                ],
-                "Password": [
-                    "92562411"
-                ]
-            }
+            },
+            "fulltext": "World Legacy Whispers",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy_Whispers",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy's Corruption": {
             "printouts": {
@@ -5706,7 +8047,12 @@
                 "Password": [
                     "62279666"
                 ]
-            }
+            },
+            "fulltext": "World Legacy's Corruption",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy%27s_Corruption",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy's Heart": {
             "printouts": {
@@ -5719,7 +8065,12 @@
                 "Password": [
                     "97648103"
                 ]
-            }
+            },
+            "fulltext": "World Legacy's Heart",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy%27s_Heart",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy's Memory": {
             "printouts": {
@@ -5732,7 +8083,12 @@
                 "Password": [
                     "68191756"
                 ]
-            }
+            },
+            "fulltext": "World Legacy's Memory",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy%27s_Memory",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy's Nightmare": {
             "printouts": {
@@ -5745,7 +8101,12 @@
                 "Password": [
                     "25163979"
                 ]
-            }
+            },
+            "fulltext": "World Legacy's Nightmare",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy%27s_Nightmare",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy's Secret": {
             "printouts": {
@@ -5758,7 +8119,12 @@
                 "Password": [
                     "98935722"
                 ]
-            }
+            },
+            "fulltext": "World Legacy's Secret",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy%27s_Secret",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "World Legacy's Sorrow": {
             "printouts": {
@@ -5771,7 +8137,12 @@
                 "Password": [
                     "85763457"
                 ]
-            }
+            },
+            "fulltext": "World Legacy's Sorrow",
+            "fullurl": "https://yugipedia.com/wiki/World_Legacy%27s_Sorrow",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Xyz Reception": {
             "printouts": {
@@ -5784,7 +8155,12 @@
                 "Password": [
                     "74728028"
                 ]
-            }
+            },
+            "fulltext": "Xyz Reception",
+            "fullurl": "https://yugipedia.com/wiki/Xyz_Reception",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Xyz Tribalrivals": {
             "printouts": {
@@ -5797,7 +8173,12 @@
                 "Password": [
                     "32086564"
                 ]
-            }
+            },
+            "fulltext": "Xyz Tribalrivals",
+            "fullurl": "https://yugipedia.com/wiki/Xyz_Tribalrivals",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Zefra Divine Strike": {
             "printouts": {
@@ -5810,7 +8191,12 @@
                 "Password": [
                     "35561352"
                 ]
-            }
+            },
+            "fulltext": "Zefra Divine Strike",
+            "fullurl": "https://yugipedia.com/wiki/Zefra_Divine_Strike",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Zefra Providence": {
             "printouts": {
@@ -5823,7 +8209,12 @@
                 "Password": [
                     "74580251"
                 ]
-            }
+            },
+            "fulltext": "Zefra Providence",
+            "fullurl": "https://yugipedia.com/wiki/Zefra_Providence",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Zoodiac Barrage": {
             "printouts": {
@@ -5836,7 +8227,12 @@
                 "Password": [
                     "46060017"
                 ]
-            }
+            },
+            "fulltext": "Zoodiac Barrage",
+            "fullurl": "https://yugipedia.com/wiki/Zoodiac_Barrage",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Zoodiac Combo": {
             "printouts": {
@@ -5849,7 +8245,12 @@
                 "Password": [
                     "73881652"
                 ]
-            }
+            },
+            "fulltext": "Zoodiac Combo",
+            "fullurl": "https://yugipedia.com/wiki/Zoodiac_Combo",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         },
         "Zoodiac Gathering": {
             "printouts": {
@@ -5862,10 +8263,15 @@
                 "Password": [
                     "98918572"
                 ]
-            }
+            },
+            "fulltext": "Zoodiac Gathering",
+            "fullurl": "https://yugipedia.com/wiki/Zoodiac_Gathering",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
         }
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 450
+    "rows": 458
 }
